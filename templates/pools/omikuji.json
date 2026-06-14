@@ -1,0 +1,778 @@
+[
+  {
+    "id": "omikuji_001",
+    "weight": 5,
+    "sign": "大吉",
+    "verse": "云开月出照前程",
+    "message": "今日诸事顺意，适合主动推进。若有想说的话，不妨坦然开口。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_002",
+    "weight": 5,
+    "sign": "大吉",
+    "verse": "金鳞跃水见天光",
+    "message": "适合做决定的一天。只要不是一时冲动，今天的选择多半会带来好结果。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_003",
+    "weight": 5,
+    "sign": "大吉",
+    "verse": "百花深处遇清风",
+    "message": "今日有意外之喜，可能来自熟人、消息或一件随手做的小事。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_004",
+    "weight": 5,
+    "sign": "大吉",
+    "verse": "朝霞满袖踏歌行",
+    "message": "气势正好，适合开始新任务。记得趁热打铁，别让好运凉掉。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_005",
+    "weight": 5,
+    "sign": "大吉",
+    "verse": "宝镜无尘照万方",
+    "message": "心思清明，行动有力。今日宜表态、宜推进、宜把愿望说出口。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_006",
+    "weight": 5,
+    "sign": "大吉",
+    "verse": "春雷一动万芽生",
+    "message": "沉寂之事将有回音，今日适合重启计划，越早行动越得助力。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_007",
+    "weight": 5,
+    "sign": "大吉",
+    "verse": "扶摇风起入青云",
+    "message": "贵人运佳，若有人递来机会，先接住再细看，不必过早退缩。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_008",
+    "weight": 5,
+    "sign": "大吉",
+    "verse": "花满神前香满衣",
+    "message": "今日福气偏旺，适合求和、求财、求进展，小愿望也容易被听见。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_009",
+    "weight": 5,
+    "sign": "大吉",
+    "verse": "朱门晓日映桃枝",
+    "message": "好消息会从明处来，不必猜疑太多。坦荡行事，自有顺风相送。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_010",
+    "weight": 5,
+    "sign": "大吉",
+    "verse": "玉阶生辉照归途",
+    "message": "此前的努力会见到回报。今日适合收成果，也适合庆祝一下。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_011",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "春风入户草木新",
+    "message": "好运正在靠近，先把手边小事整理好，机会会自己露出缝隙。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_012",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "一枝新绿破寒枝",
+    "message": "旧问题会出现新的解法。换个说法，或换个人问问，会有收获。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_013",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "远山含翠路初平",
+    "message": "前路渐渐清楚，别急着抵达。今天适合规划，而不是硬冲。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_014",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "星河低垂照归人",
+    "message": "适合收尾与复盘。把未完成的事补上，会比开启新坑更有利。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_015",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "桥头初雪映灯明",
+    "message": "看似冷清的地方也有光。今天适合在安静处完成重要事项。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_016",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "清泉绕石去还来",
+    "message": "今天适合沟通与修复。绕一点路没关系，话说柔和些更容易达成。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_017",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "柳外轻烟暖渐生",
+    "message": "气氛会慢慢缓和。若有僵住的事，今日适合递出第一句话。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_018",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "潮平两岸阔",
+    "message": "局面正在变宽，别把自己困在旧想法里。换条路，会更顺。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_019",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "月照庭前桂影香",
+    "message": "安静之中有好意。今日宜学习、整理、写计划，心定则事成。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_020",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "松间白鹤报佳音",
+    "message": "消息运不错，等待的答复可能有眉目。保持在线，别漏看提醒。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_021",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "青鸟衔书过短墙",
+    "message": "远方或线上会传来有用信息，别急着否定陌生来源。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_022",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "雨后山光入画屏",
+    "message": "小波折过后反而清爽。今天适合把烦心事翻篇。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_023",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "篱边新菊带秋香",
+    "message": "细水长流更有利。今日不求爆发，求稳稳变好。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_024",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "溪桥有路通幽处",
+    "message": "答案不在正面硬撞处。拐个弯，反而能看见入口。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_025",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "灯火一盏引归舟",
+    "message": "会有人给你一点提醒，别嫌话碎。那里面藏着今天的好线索。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_026",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "风铃轻响客将来",
+    "message": "今天人缘不错，适合联络、协作、交换消息。别把自己关太死。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_027",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "旧书翻处有新章",
+    "message": "回头看看以前留下的东西，今天可能从旧经验里捡到新答案。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_028",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "竹影扫阶尘自去",
+    "message": "整理环境也能整理心情。今天适合清理、归档、把混乱变简单。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_029",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "燕子衔泥筑旧檐",
+    "message": "积累会派上用场。不要嫌进度小，今天适合一点点把根基补牢。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_030",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "海棠睡起日初长",
+    "message": "状态会慢慢回暖。适合重启搁置的计划，但别一口气排太满。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_031",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "梅边月白照清樽",
+    "message": "今天适合温和表达。认真说话，会比强势争取更有效。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_032",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "小舟横渡水无波",
+    "message": "事情会平稳通过。保持节奏，不必额外加戏。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_033",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "松风入袖暑气消",
+    "message": "烦躁会散去。把难题拆小，今天能解决其中一块。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_034",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "檐下新晴燕语忙",
+    "message": "适合处理杂事和沟通安排，跑动虽多，但结果不差。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_035",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "灯前展卷意初明",
+    "message": "疑惑会有解释。今天适合查资料、问懂的人、补一课。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_036",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "花枝照水影成双",
+    "message": "合作运尚可。找个靠谱的人分担，会比独自硬扛轻松。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_037",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "山径虽斜终到寺",
+    "message": "过程不直，但能抵达。今天别怕绕路，稳稳走完就好。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_038",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "一窗晴色入眉间",
+    "message": "心情会被小事点亮。把注意力放回眼前，运势会跟着顺。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_039",
+    "weight": 2,
+    "sign": "小吉",
+    "verse": "溪声绕石自成歌",
+    "message": "今天宜顺势而行，不必急着争先。慢一点，反而能避开麻烦。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_040",
+    "weight": 2,
+    "sign": "小吉",
+    "verse": "晨露沾衣路更清",
+    "message": "早些行动会更顺。拖到后面，反而容易被琐事缠住。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_041",
+    "weight": 2,
+    "sign": "小吉",
+    "verse": "纸伞听雨亦成诗",
+    "message": "小小的不便里藏着趣味。若事情没按预想发展，也未必是坏事。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_042",
+    "weight": 2,
+    "sign": "小吉",
+    "verse": "一盏温茶慰薄寒",
+    "message": "别把自己逼太紧。今天的好运偏向休养，吃点好的会提升魔力。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_043",
+    "weight": 2,
+    "sign": "小吉",
+    "verse": "青苔石上见微光",
+    "message": "小进展也是进展。今日不宜贪多，完成一件就值得夸。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_044",
+    "weight": 2,
+    "sign": "小吉",
+    "verse": "萤火穿林照短亭",
+    "message": "暗处有微光。事情尚未明朗，但已经比你想的更接近答案。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_045",
+    "weight": 2,
+    "sign": "小吉",
+    "verse": "薄暮归鸦识旧巢",
+    "message": "适合回到熟悉的节奏。先做擅长的事，信心会慢慢回来。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_046",
+    "weight": 2,
+    "sign": "小吉",
+    "verse": "荷叶承珠不染尘",
+    "message": "保持边界会带来好运。别轻易接下不属于你的麻烦。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_047",
+    "weight": 2,
+    "sign": "小吉",
+    "verse": "小径花香引客行",
+    "message": "今天适合尝试一点新鲜东西，但范围别太大，浅尝即可。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_048",
+    "weight": 2,
+    "sign": "小吉",
+    "verse": "窗前竹影报平安",
+    "message": "平稳就是好签。今日少折腾，多保养，能安安稳稳过关。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_049",
+    "weight": 2,
+    "sign": "半吉",
+    "verse": "花影摇窗梦未深",
+    "message": "有些事看着不错，但还差一点火候。多确认一次，会安心许多。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_050",
+    "weight": 2,
+    "sign": "半吉",
+    "verse": "棋到中盘莫乱心",
+    "message": "局面还在变化，最忌临时改太多。保持原计划，微调即可。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_051",
+    "weight": 2,
+    "sign": "半吉",
+    "verse": "云在山腰路在前",
+    "message": "机会与阻力并存。先处理最碍脚的一件事，后面自然会开。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_052",
+    "weight": 2,
+    "sign": "半吉",
+    "verse": "灯花欲落又重明",
+    "message": "事情差点卡住，但仍有转机。别急着判死刑，再试一次。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_053",
+    "weight": 2,
+    "sign": "半吉",
+    "verse": "春寒未尽草先青",
+    "message": "好转已经开始，只是还不明显。今天宜耐心，不宜催促。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_054",
+    "weight": 1.5,
+    "sign": "末小吉",
+    "verse": "薄云遮月未遮光",
+    "message": "运势不算明亮，却也没有坏到哪里。稳住节奏，别被小波折吓到。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_055",
+    "weight": 1.5,
+    "sign": "末小吉",
+    "verse": "渡口风来帆半开",
+    "message": "条件还差一点，先准备，别强行启航。等风更稳再动。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_056",
+    "weight": 1.5,
+    "sign": "末小吉",
+    "verse": "井边新叶待春深",
+    "message": "收获需要时间。今天适合打基础，别急着要立刻反馈。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_057",
+    "weight": 1.5,
+    "sign": "末小吉",
+    "verse": "残雪消时路渐明",
+    "message": "困扰会慢慢退去。今日先保守安排，晚些会更清楚。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_058",
+    "weight": 1,
+    "sign": "末吉",
+    "verse": "山雨欲来风满楼",
+    "message": "心中有事未定，今日宜静观，不宜急断。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_059",
+    "weight": 1,
+    "sign": "末吉",
+    "verse": "雾里行舟莫问滩",
+    "message": "信息还不完整，先别下定论。把风险记下来，晚些再判断。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_060",
+    "weight": 1,
+    "sign": "末吉",
+    "verse": "落叶随风各有归",
+    "message": "有些事不必强留。顺其自然，反而能腾出手接住新的东西。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_061",
+    "weight": 1,
+    "sign": "末吉",
+    "verse": "深巷无人犬吠迟",
+    "message": "消息来得慢，不代表没有结果。今日宜等，不宜逼问。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_062",
+    "weight": 1,
+    "sign": "末吉",
+    "verse": "灯暗还须添一油",
+    "message": "状态不足就先补给。硬撑容易出错，休整也是正事。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_063",
+    "weight": 1,
+    "sign": "末吉",
+    "verse": "孤云出岫未成雨",
+    "message": "想法很多，落地尚早。先写下来，别急着全盘执行。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_064",
+    "weight": 0.45,
+    "sign": "小凶",
+    "verse": "夜路逢岔慎提灯",
+    "message": "今天少做冒险决定，尤其别逞一口气。能延后，就让它延后。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_065",
+    "weight": 0.45,
+    "sign": "小凶",
+    "verse": "浮云遮路马蹄迟",
+    "message": "容易因误会或延迟烦躁。重要消息多确认，别只看第一眼。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_066",
+    "weight": 0.45,
+    "sign": "小凶",
+    "verse": "冷雨敲窗客未归",
+    "message": "今日沟通容易落空。少期待即时回应，给彼此一点余地。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_067",
+    "weight": 0.45,
+    "sign": "小凶",
+    "verse": "乱石临溪步莫急",
+    "message": "越急越容易踩空。今天先避险，别把小问题滚成大麻烦。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_068",
+    "weight": 0.7,
+    "sign": "凶后吉",
+    "verse": "石上苔痕待雨生",
+    "message": "开头可能不顺，但别急着放弃。撑过前段，后面会慢慢转好。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_069",
+    "weight": 0.7,
+    "sign": "凶后吉",
+    "verse": "破云之后见星河",
+    "message": "先遇阻，后见光。把麻烦处理干净，反而会留下好结果。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_070",
+    "weight": 0.7,
+    "sign": "凶后吉",
+    "verse": "寒枝待雪蕴新芽",
+    "message": "今日有压迫感，但不是坏到底。守住底线，转机在后半段。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_071",
+    "weight": 0.2,
+    "sign": "凶",
+    "verse": "寒鸦绕树月无声",
+    "message": "今日不宜硬碰硬。先保守行事，少争辩，避开无谓的消耗。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_072",
+    "weight": 0.2,
+    "sign": "凶",
+    "verse": "断桥残雨水声急",
+    "message": "不适合贸然前进。先停下检查条件，别为了面子硬过桥。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_073",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "晓钟穿雾入云林",
+    "message": "先照顾好状态，再处理麻烦，顺序对了就不难。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_074",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "红叶题诗寄远人",
+    "message": "今日适合补漏和整理，旧问题会因此松动。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_075",
+    "weight": 2,
+    "sign": "小吉",
+    "verse": "白鹭惊波天色净",
+    "message": "别急着证明自己，稳稳把事情做好就已经赢了一半。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_076",
+    "weight": 2,
+    "sign": "半吉",
+    "verse": "疏星落案梦初醒",
+    "message": "小惊喜藏在日常里，留意一句提醒或一条消息。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_077",
+    "weight": 1.5,
+    "sign": "末小吉",
+    "verse": "古木藏风叶未休",
+    "message": "若心里犹豫，就先不急着签下答案，等风再清一点。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_078",
+    "weight": 5,
+    "sign": "大吉",
+    "verse": "银汉无声洗客尘",
+    "message": "运势偏暖，适合修复关系，也适合给自己一点奖励。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_079",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "晴岚绕阁鸟先知",
+    "message": "今日不宜贪多，挑最重要的一件事做漂亮。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_080",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "桂子飘阶香满庭",
+    "message": "今日宜温和推进，少一点急躁，多一点确认，好运会更愿意靠近。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_081",
+    "weight": 2,
+    "sign": "小吉",
+    "verse": "青灯照壁影成双",
+    "message": "把复杂的事拆成小段处理，会比一口气硬闯更顺。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_082",
+    "weight": 2,
+    "sign": "半吉",
+    "verse": "浅草含烟路欲明",
+    "message": "有人情往来的地方藏着机会，记得把话说清楚些。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_083",
+    "weight": 1.5,
+    "sign": "末小吉",
+    "verse": "远浦归帆带夕阳",
+    "message": "先照顾好状态，再处理麻烦，顺序对了就不难。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_084",
+    "weight": 5,
+    "sign": "大吉",
+    "verse": "新月如钩挂柳梢",
+    "message": "今日适合补漏和整理，旧问题会因此松动。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_085",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "石阶苔润客来稀",
+    "message": "别急着证明自己，稳稳把事情做好就已经赢了一半。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_086",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "桃花照水笑春深",
+    "message": "小惊喜藏在日常里，留意一句提醒或一条消息。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_087",
+    "weight": 2,
+    "sign": "小吉",
+    "verse": "松下清泉洗旧忧",
+    "message": "若心里犹豫，就先不急着签下答案，等风再清一点。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_088",
+    "weight": 2,
+    "sign": "半吉",
+    "verse": "山门半掩待晨钟",
+    "message": "运势偏暖，适合修复关系，也适合给自己一点奖励。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_089",
+    "weight": 1.5,
+    "sign": "末小吉",
+    "verse": "锦云低护小楼台",
+    "message": "今日不宜贪多，挑最重要的一件事做漂亮。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_090",
+    "weight": 5,
+    "sign": "大吉",
+    "verse": "星子入怀夜不寒",
+    "message": "今日宜温和推进，少一点急躁，多一点确认，好运会更愿意靠近。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_091",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "风过莲塘香满袖",
+    "message": "把复杂的事拆成小段处理，会比一口气硬闯更顺。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_092",
+    "weight": 3,
+    "sign": "吉",
+    "verse": "雨歇檐前雀语轻",
+    "message": "有人情往来的地方藏着机会，记得把话说清楚些。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_093",
+    "weight": 2,
+    "sign": "小吉",
+    "verse": "雪映梅枝一点红",
+    "message": "先照顾好状态，再处理麻烦，顺序对了就不难。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_094",
+    "weight": 2,
+    "sign": "半吉",
+    "verse": "茶烟袅袅过窗纱",
+    "message": "今日适合补漏和整理，旧问题会因此松动。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_095",
+    "weight": 1.5,
+    "sign": "末小吉",
+    "verse": "小桥流水送春声",
+    "message": "别急着证明自己，稳稳把事情做好就已经赢了一半。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_096",
+    "weight": 5,
+    "sign": "大吉",
+    "verse": "长空雁影写秋心",
+    "message": "小惊喜藏在日常里，留意一句提醒或一条消息。",
+    "style": "default"
+  },
+  {
+    "id": "omikuji_097",
+    "weight": 4,
+    "sign": "中吉",
+    "verse": "月落乌啼霜满阶",
+    "message": "若心里犹豫，就先不急着签下答案，等风再清一点。",
+    "style": "default"
+  }
+]

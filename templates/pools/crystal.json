@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "crystal_001",
+    "weight": 1,
+    "image": "沉睡的猫 · 回廊",
+    "prophecy": "一件未完成的事会让沉睡的猫指向另一条路。",
+    "keyword": "转机",
+    "advice": "给自己留半步余地，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_002",
+    "weight": 1,
+    "image": "被锁住的抽屉 · 薄雾",
+    "prophecy": "你以为没用的准备会让被锁住的抽屉将要打开。",
+    "keyword": "整理",
+    "advice": "把重要信息记下来，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_003",
+    "weight": 1,
+    "image": "空白信封 · 晨霜",
+    "prophecy": "你手边的旧物会让空白信封停在门口。",
+    "keyword": "回声",
+    "advice": "把门虚掩着就好，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_004",
+    "weight": 1,
+    "image": "白色鹿影 · 星尘",
+    "prophecy": "一段迟来的消息会让白色鹿影浮出水面。",
+    "keyword": "等待",
+    "advice": "暂时别硬碰硬，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_005",
+    "weight": 1,
+    "image": "结霜的玫瑰 · 回廊",
+    "prophecy": "曾经绕远的路会让结霜的玫瑰露出边缘。",
+    "keyword": "试探",
+    "advice": "暂时别硬碰硬，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_006",
+    "weight": 1,
+    "image": "透明羽毛 · 星尘",
+    "prophecy": "被搁置的计划会让透明羽毛映出答案。",
+    "keyword": "守护",
+    "advice": "别把沉默当拒绝，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_007",
+    "weight": 1,
+    "image": "银钥匙 · 薄雾",
+    "prophecy": "一件未完成的事会让银钥匙指向另一条路。",
+    "keyword": "耐心",
+    "advice": "给对方一点时间，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_008",
+    "weight": 1,
+    "image": "黑曜石门 · 月影",
+    "prophecy": "正在收尾的问题会让黑曜石门正在靠近。",
+    "keyword": "回信",
+    "advice": "给对方一点时间，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_009",
+    "weight": 1,
+    "image": "远处的钟楼 · 微光",
+    "prophecy": "一次短暂的等待会让远处的钟楼露出边缘。",
+    "keyword": "回信",
+    "advice": "先照顾好状态，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_010",
+    "weight": 1,
+    "image": "云后的太阳 · 远风",
+    "prophecy": "临时改变的安排会让云后的太阳把旧事送走。",
+    "keyword": "整理",
+    "advice": "让情绪先落地，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_011",
+    "weight": 1,
+    "image": "雨后的台阶 · 水纹",
+    "prophecy": "某个熟悉的地点会让雨后的台阶浮出水面。",
+    "keyword": "等待",
+    "advice": "把话说清楚一点，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_012",
+    "weight": 1,
+    "image": "旧神社的檐铃 · 琉璃",
+    "prophecy": "被搁置的计划会让旧神社的檐铃露出边缘。",
+    "keyword": "暗示",
+    "advice": "暂时别硬碰硬，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_013",
+    "weight": 1,
+    "image": "旋转的罗盘 · 薄雾",
+    "prophecy": "一次短暂的等待会让旋转的罗盘轻轻震动。",
+    "keyword": "整理",
+    "advice": "别把沉默当拒绝，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_014",
+    "weight": 1,
+    "image": "微亮的灯塔 · 晨霜",
+    "prophecy": "你以为没用的准备会让微亮的灯塔慢慢醒来。",
+    "keyword": "交换",
+    "advice": "给自己留半步余地，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_015",
+    "weight": 1,
+    "image": "雾里的钟声 · 琉璃",
+    "prophecy": "某个反复出现的念头会让雾里的钟声提醒你回头。",
+    "keyword": "停顿",
+    "advice": "别急着下结论，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_016",
+    "weight": 1,
+    "image": "旧神社的檐铃 · 星尘",
+    "prophecy": "一件未完成的事会让旧神社的檐铃提醒你回头。",
+    "keyword": "耐心",
+    "advice": "把旧东西整理一下，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_017",
+    "weight": 1,
+    "image": "风中的铃铛 · 琉璃",
+    "prophecy": "临时改变的安排会让风中的铃铛慢慢醒来。",
+    "keyword": "耐心",
+    "advice": "顺着直觉检查一次，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_018",
+    "weight": 1,
+    "image": "旧神社的檐铃 · 水纹",
+    "prophecy": "正在收尾的问题会让旧神社的檐铃把旧事送走。",
+    "keyword": "转机",
+    "advice": "不要急着证明自己，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_019",
+    "weight": 1,
+    "image": "透明羽毛 · 薄雾",
+    "prophecy": "突然出现的灵感会让透明羽毛悄悄偏转。",
+    "keyword": "转机",
+    "advice": "留意今天重复出现的东西，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_020",
+    "weight": 1,
+    "image": "空白信封 · 琉璃",
+    "prophecy": "一次短暂的等待会让空白信封慢慢醒来。",
+    "keyword": "试探",
+    "advice": "让情绪先落地，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_021",
+    "weight": 1,
+    "image": "风中的铃铛 · 远风",
+    "prophecy": "一段迟来的消息会让风中的铃铛暂时隐藏。",
+    "keyword": "试探",
+    "advice": "留意今天重复出现的东西，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_022",
+    "weight": 1,
+    "image": "黑曜石门 · 回廊",
+    "prophecy": "一场看似普通的对话会让黑曜石门绕过障碍。",
+    "keyword": "勇气",
+    "advice": "别急着下结论，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_023",
+    "weight": 1,
+    "image": "静止的沙漏 · 晨霜",
+    "prophecy": "一场看似普通的对话会让静止的沙漏暂时隐藏。",
+    "keyword": "暗示",
+    "advice": "把旧东西整理一下，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_024",
+    "weight": 1,
+    "image": "裂开的星盘 · 琉璃",
+    "prophecy": "被搁置的计划会让裂开的星盘指向另一条路。",
+    "keyword": "停顿",
+    "advice": "今天适合慢一点，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_025",
+    "weight": 1,
+    "image": "黑曜石门 · 琉璃",
+    "prophecy": "被搁置的计划会让黑曜石门慢慢醒来。",
+    "keyword": "晴朗",
+    "advice": "让情绪先落地，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_026",
+    "weight": 1,
+    "image": "远方的列车 · 微光",
+    "prophecy": "一段迟来的消息会让远方的列车指向另一条路。",
+    "keyword": "回信",
+    "advice": "今天适合慢一点，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_027",
+    "weight": 1,
+    "image": "旧地图 · 水纹",
+    "prophecy": "一段迟来的消息会让旧地图绕过障碍。",
+    "keyword": "靠近",
+    "advice": "把复杂事拆小，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_028",
+    "weight": 1,
+    "image": "雪地脚印 · 月影",
+    "prophecy": "身边安静的人会让雪地脚印重新排列。",
+    "keyword": "缓行",
+    "advice": "先照顾好状态，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_029",
+    "weight": 1,
+    "image": "黄昏的窗 · 星尘",
+    "prophecy": "一件未完成的事会让黄昏的窗将要打开。",
+    "keyword": "余光",
+    "advice": "先照顾好状态，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_030",
+    "weight": 1,
+    "image": "透明羽毛 · 远风",
+    "prophecy": "一句无心的话会让透明羽毛悄悄偏转。",
+    "keyword": "停顿",
+    "advice": "暂时别硬碰硬，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_031",
+    "weight": 1,
+    "image": "倒悬的月亮 · 星尘",
+    "prophecy": "被搁置的计划会让倒悬的月亮正在靠近。",
+    "keyword": "小胜",
+    "advice": "别急着下结论，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_032",
+    "weight": 1,
+    "image": "远方的列车 · 琉璃",
+    "prophecy": "一段迟来的消息会让远方的列车悄悄偏转。",
+    "keyword": "试探",
+    "advice": "不要替别人猜答案，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_033",
+    "weight": 1,
+    "image": "远方的列车 · 薄雾",
+    "prophecy": "你不愿承认的期待会让远方的列车露出边缘。",
+    "keyword": "勇气",
+    "advice": "先确认事实，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_034",
+    "weight": 1,
+    "image": "石阶上的贝壳 · 微光",
+    "prophecy": "刚刚错过的机会会让石阶上的贝壳悄悄偏转。",
+    "keyword": "靠近",
+    "advice": "先确认事实，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_035",
+    "weight": 1,
+    "image": "黑曜石门 · 薄雾",
+    "prophecy": "你手边的旧物会让黑曜石门绕过障碍。",
+    "keyword": "归位",
+    "advice": "给自己留半步余地，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_036",
+    "weight": 1,
+    "image": "云后的太阳 · 薄雾",
+    "prophecy": "突然出现的灵感会让云后的太阳指向另一条路。",
+    "keyword": "边界",
+    "advice": "先把手边的事做完，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_037",
+    "weight": 1,
+    "image": "琥珀色水滴 · 静夜",
+    "prophecy": "今天的小插曲会让琥珀色水滴提醒你回头。",
+    "keyword": "晴朗",
+    "advice": "先把手边的事做完，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_038",
+    "weight": 1,
+    "image": "夜空裂缝 · 回廊",
+    "prophecy": "身边安静的人会让夜空裂缝将要打开。",
+    "keyword": "边界",
+    "advice": "把旧东西整理一下，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_039",
+    "weight": 1,
+    "image": "黑曜石门 · 琉璃",
+    "prophecy": "临时改变的安排会让黑曜石门将要打开。",
+    "keyword": "停顿",
+    "advice": "把重要信息记下来，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_040",
+    "weight": 1,
+    "image": "水底的灯 · 水纹",
+    "prophecy": "你手边的旧物会让水底的灯暂时隐藏。",
+    "keyword": "余光",
+    "advice": "把复杂事拆小，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_041",
+    "weight": 1,
+    "image": "远处的钟楼 · 琉璃",
+    "prophecy": "一场看似普通的对话会让远处的钟楼悄悄偏转。",
+    "keyword": "抽离",
+    "advice": "顺着直觉检查一次，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_042",
+    "weight": 1,
+    "image": "银钥匙 · 远风",
+    "prophecy": "一段迟来的消息会让银钥匙映出答案。",
+    "keyword": "提醒",
+    "advice": "不要急着证明自己，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_043",
+    "weight": 1,
+    "image": "远方的列车 · 月影",
+    "prophecy": "被你忽略的细节会让远方的列车带来回声。",
+    "keyword": "选择",
+    "advice": "把门虚掩着就好，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_044",
+    "weight": 1,
+    "image": "旧神社的檐铃 · 星尘",
+    "prophecy": "你以为没用的准备会让旧神社的檐铃映出答案。",
+    "keyword": "提醒",
+    "advice": "把重要信息记下来，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_045",
+    "weight": 1,
+    "image": "深井里的星星 · 水纹",
+    "prophecy": "临时改变的安排会让深井里的星星映出答案。",
+    "keyword": "靠近",
+    "advice": "顺着直觉检查一次，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_046",
+    "weight": 1,
+    "image": "旧地图 · 静夜",
+    "prophecy": "一件未完成的事会让旧地图映出答案。",
+    "keyword": "抽离",
+    "advice": "把复杂事拆小，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_047",
+    "weight": 1,
+    "image": "树梢的蓝鸟 · 琉璃",
+    "prophecy": "某个熟悉的地点会让树梢的蓝鸟暂时隐藏。",
+    "keyword": "重启",
+    "advice": "给对方一点时间，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_048",
+    "weight": 1,
+    "image": "蓝色火苗 · 琉璃",
+    "prophecy": "你手边的旧物会让蓝色火苗将要打开。",
+    "keyword": "转机",
+    "advice": "让情绪先落地，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_049",
+    "weight": 1,
+    "image": "沉睡的猫 · 水纹",
+    "prophecy": "曾经绕远的路会让沉睡的猫悄悄偏转。",
+    "keyword": "确认",
+    "advice": "今天适合慢一点，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_050",
+    "weight": 1,
+    "image": "结霜的玫瑰 · 静夜",
+    "prophecy": "临时改变的安排会让结霜的玫瑰停在门口。",
+    "keyword": "小胜",
+    "advice": "先把手边的事做完，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_051",
+    "weight": 1,
+    "image": "远方的列车 · 星尘",
+    "prophecy": "你以为没用的准备会让远方的列车轻轻震动。",
+    "keyword": "选择",
+    "advice": "把门虚掩着就好，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_052",
+    "weight": 1,
+    "image": "黑曜石门 · 薄雾",
+    "prophecy": "突然出现的灵感会让黑曜石门浮出水面。",
+    "keyword": "余光",
+    "advice": "不要急着证明自己，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_053",
+    "weight": 1,
+    "image": "雾里的钟声 · 微光",
+    "prophecy": "你以为没用的准备会让雾里的钟声慢慢醒来。",
+    "keyword": "机会",
+    "advice": "不要替别人猜答案，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_054",
+    "weight": 1,
+    "image": "静止的沙漏 · 微光",
+    "prophecy": "你不愿承认的期待会让静止的沙漏停在门口。",
+    "keyword": "勇气",
+    "advice": "先照顾好状态，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_055",
+    "weight": 1,
+    "image": "深井里的星星 · 琉璃",
+    "prophecy": "被搁置的计划会让深井里的星星停在门口。",
+    "keyword": "抽离",
+    "advice": "今天适合慢一点，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_056",
+    "weight": 1,
+    "image": "远方的列车 · 水纹",
+    "prophecy": "曾经绕远的路会让远方的列车悄悄偏转。",
+    "keyword": "守护",
+    "advice": "把门虚掩着就好，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_057",
+    "weight": 1,
+    "image": "掌心的种子 · 水纹",
+    "prophecy": "被搁置的计划会让掌心的种子指向另一条路。",
+    "keyword": "机会",
+    "advice": "今天适合慢一点，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_058",
+    "weight": 1,
+    "image": "风中的铃铛 · 远风",
+    "prophecy": "被压住的情绪会让风中的铃铛慢慢醒来。",
+    "keyword": "提醒",
+    "advice": "留意今天重复出现的东西，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_059",
+    "weight": 1,
+    "image": "潮湿的纸页 · 琉璃",
+    "prophecy": "突然出现的灵感会让潮湿的纸页正在退潮。",
+    "keyword": "缓行",
+    "advice": "答应之前先想清楚，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_060",
+    "weight": 1,
+    "image": "掌心的种子 · 微光",
+    "prophecy": "被搁置的计划会让掌心的种子悄悄偏转。",
+    "keyword": "耐心",
+    "advice": "先确认事实，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_061",
+    "weight": 1,
+    "image": "深井里的星星 · 晨霜",
+    "prophecy": "正在收尾的问题会让深井里的星星映出答案。",
+    "keyword": "停顿",
+    "advice": "把重要信息记下来，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_062",
+    "weight": 1,
+    "image": "蓝色火苗 · 微光",
+    "prophecy": "刚刚错过的机会会让蓝色火苗暂时隐藏。",
+    "keyword": "转机",
+    "advice": "先确认事实，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_063",
+    "weight": 1,
+    "image": "静止的沙漏 · 晨霜",
+    "prophecy": "一次短暂的等待会让静止的沙漏绕过障碍。",
+    "keyword": "缓行",
+    "advice": "把门虚掩着就好，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_064",
+    "weight": 1,
+    "image": "倒悬的月亮 · 远风",
+    "prophecy": "某个反复出现的念头会让倒悬的月亮重新排列。",
+    "keyword": "选择",
+    "advice": "暂时别硬碰硬，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_065",
+    "weight": 1,
+    "image": "静止的沙漏 · 晨霜",
+    "prophecy": "被搁置的计划会让静止的沙漏指向另一条路。",
+    "keyword": "确认",
+    "advice": "把复杂事拆小，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_066",
+    "weight": 1,
+    "image": "微亮的灯塔 · 微光",
+    "prophecy": "临时改变的安排会让微亮的灯塔绕过障碍。",
+    "keyword": "靠近",
+    "advice": "暂时别硬碰硬，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_067",
+    "weight": 1,
+    "image": "深井里的星星 · 静夜",
+    "prophecy": "你不愿承认的期待会让深井里的星星带来回声。",
+    "keyword": "边界",
+    "advice": "把旧东西整理一下，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_068",
+    "weight": 1,
+    "image": "被锁住的抽屉 · 晨霜",
+    "prophecy": "被压住的情绪会让被锁住的抽屉提醒你回头。",
+    "keyword": "清醒",
+    "advice": "让情绪先落地，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_069",
+    "weight": 1,
+    "image": "空白信封 · 琉璃",
+    "prophecy": "曾经绕远的路会让空白信封正在退潮。",
+    "keyword": "机会",
+    "advice": "留意今天重复出现的东西，今天的运气偏向安静的人。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_070",
+    "weight": 1,
+    "image": "玻璃瓶里的风 · 静夜",
+    "prophecy": "正在收尾的问题会让玻璃瓶里的风露出边缘。",
+    "keyword": "边界",
+    "advice": "把门虚掩着就好，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_071",
+    "weight": 1,
+    "image": "潮湿的纸页 · 远风",
+    "prophecy": "一场看似普通的对话会让潮湿的纸页轻轻震动。",
+    "keyword": "转机",
+    "advice": "暂时别硬碰硬，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_072",
+    "weight": 1,
+    "image": "雪地脚印 · 晨霜",
+    "prophecy": "一次短暂的等待会让雪地脚印轻轻震动。",
+    "keyword": "交换",
+    "advice": "不要替别人猜答案，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_073",
+    "weight": 1,
+    "image": "破碎的镜片 · 远风",
+    "prophecy": "今天的小插曲会让破碎的镜片重新排列。",
+    "keyword": "新芽",
+    "advice": "先确认事实，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_074",
+    "weight": 1,
+    "image": "白色鹿影 · 微光",
+    "prophecy": "一句无心的话会让白色鹿影把旧事送走。",
+    "keyword": "缓行",
+    "advice": "先把手边的事做完，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_075",
+    "weight": 1,
+    "image": "金色细线 · 晨霜",
+    "prophecy": "一次短暂的等待会让金色细线正在退潮。",
+    "keyword": "余温",
+    "advice": "把话说清楚一点，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_076",
+    "weight": 1,
+    "image": "透明羽毛 · 远风",
+    "prophecy": "一句无心的话会让透明羽毛让迷雾变薄。",
+    "keyword": "清醒",
+    "advice": "先确认事实，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_077",
+    "weight": 1,
+    "image": "透明羽毛 · 琉璃",
+    "prophecy": "你不愿承认的期待会让透明羽毛让迷雾变薄。",
+    "keyword": "缓行",
+    "advice": "不要替别人猜答案，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_078",
+    "weight": 1,
+    "image": "潮湿的纸页 · 琉璃",
+    "prophecy": "你以为没用的准备会让潮湿的纸页暂时隐藏。",
+    "keyword": "停顿",
+    "advice": "把复杂事拆小，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_079",
+    "weight": 1,
+    "image": "雪地脚印 · 琉璃",
+    "prophecy": "身边安静的人会让雪地脚印轻轻震动。",
+    "keyword": "小胜",
+    "advice": "把重要信息记下来，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_080",
+    "weight": 1,
+    "image": "空白信封 · 月影",
+    "prophecy": "突然出现的灵感会让空白信封等待回应。",
+    "keyword": "交换",
+    "advice": "把重要信息记下来，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_081",
+    "weight": 1,
+    "image": "夜空裂缝 · 薄雾",
+    "prophecy": "刚刚错过的机会会让夜空裂缝暂时隐藏。",
+    "keyword": "确认",
+    "advice": "别急着下结论，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_082",
+    "weight": 1,
+    "image": "发光的尘埃 · 薄雾",
+    "prophecy": "突然出现的灵感会让发光的尘埃停在门口。",
+    "keyword": "小胜",
+    "advice": "答应之前先想清楚，你需要的是确认，不是硬撑。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_083",
+    "weight": 1,
+    "image": "雨后的台阶 · 晨霜",
+    "prophecy": "一句无心的话会让雨后的台阶正在靠近。",
+    "keyword": "暗示",
+    "advice": "暂时别硬碰硬，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_084",
+    "weight": 1,
+    "image": "雪地脚印 · 星尘",
+    "prophecy": "一场看似普通的对话会让雪地脚印绕过障碍。",
+    "keyword": "回信",
+    "advice": "先确认事实，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_085",
+    "weight": 1,
+    "image": "远处的钟楼 · 回廊",
+    "prophecy": "刚刚错过的机会会让远处的钟楼绕过障碍。",
+    "keyword": "归位",
+    "advice": "别急着下结论，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_086",
+    "weight": 1,
+    "image": "旋转的罗盘 · 薄雾",
+    "prophecy": "你不愿承认的期待会让旋转的罗盘让迷雾变薄。",
+    "keyword": "新芽",
+    "advice": "答应之前先想清楚，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_087",
+    "weight": 1,
+    "image": "空白信封 · 微光",
+    "prophecy": "被搁置的计划会让空白信封让迷雾变薄。",
+    "keyword": "余温",
+    "advice": "把门虚掩着就好，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_088",
+    "weight": 1,
+    "image": "旧地图 · 水纹",
+    "prophecy": "身边安静的人会让旧地图暂时隐藏。",
+    "keyword": "回声",
+    "advice": "让情绪先落地，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_089",
+    "weight": 1,
+    "image": "深井里的星星 · 水纹",
+    "prophecy": "你以为没用的准备会让深井里的星星重新排列。",
+    "keyword": "新芽",
+    "advice": "暂时别硬碰硬，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_090",
+    "weight": 1,
+    "image": "蓝色火苗 · 静夜",
+    "prophecy": "被压住的情绪会让蓝色火苗提醒你回头。",
+    "keyword": "等待",
+    "advice": "先把手边的事做完，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_091",
+    "weight": 1,
+    "image": "草叶上的露珠 · 薄雾",
+    "prophecy": "一场看似普通的对话会让草叶上的露珠等待回应。",
+    "keyword": "暗示",
+    "advice": "别把沉默当拒绝，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_092",
+    "weight": 1,
+    "image": "风中的铃铛 · 星尘",
+    "prophecy": "被搁置的计划会让风中的铃铛映出答案。",
+    "keyword": "小胜",
+    "advice": "顺着直觉检查一次，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_093",
+    "weight": 1,
+    "image": "琥珀色水滴 · 回廊",
+    "prophecy": "身边安静的人会让琥珀色水滴轻轻震动。",
+    "keyword": "整理",
+    "advice": "顺着直觉检查一次，你需要的是确认，不是硬撑。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_094",
+    "weight": 1,
+    "image": "海面上的书 · 晨霜",
+    "prophecy": "某个反复出现的念头会让海面上的书替你守住机会。",
+    "keyword": "松动",
+    "advice": "留意今天重复出现的东西，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_095",
+    "weight": 1,
+    "image": "倒悬的月亮 · 微光",
+    "prophecy": "临时改变的安排会让倒悬的月亮带来回声。",
+    "keyword": "和解",
+    "advice": "把门虚掩着就好，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_096",
+    "weight": 1,
+    "image": "深井里的星星 · 星尘",
+    "prophecy": "被搁置的计划会让深井里的星星悄悄偏转。",
+    "keyword": "提醒",
+    "advice": "别把沉默当拒绝，今天的运气偏向安静的人。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_097",
+    "weight": 1,
+    "image": "玻璃瓶里的风 · 星尘",
+    "prophecy": "一句无心的话会让玻璃瓶里的风正在退潮。",
+    "keyword": "余温",
+    "advice": "先把手边的事做完，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_098",
+    "weight": 1,
+    "image": "结霜的玫瑰 · 回廊",
+    "prophecy": "你不愿承认的期待会让结霜的玫瑰带来回声。",
+    "keyword": "暗示",
+    "advice": "把重要信息记下来，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_099",
+    "weight": 1,
+    "image": "云后的太阳 · 月影",
+    "prophecy": "一件未完成的事会让云后的太阳重新排列。",
+    "keyword": "晴朗",
+    "advice": "留意今天重复出现的东西，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_100",
+    "weight": 1,
+    "image": "白色鹿影 · 远风",
+    "prophecy": "一次短暂的等待会让白色鹿影替你守住机会。",
+    "keyword": "回信",
+    "advice": "给对方一点时间，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_101",
+    "weight": 1,
+    "image": "白色鹿影 · 远风",
+    "prophecy": "一场看似普通的对话会让白色鹿影正在靠近。",
+    "keyword": "重启",
+    "advice": "给对方一点时间，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_102",
+    "weight": 1,
+    "image": "雪地脚印 · 薄雾",
+    "prophecy": "某个反复出现的念头会让雪地脚印映出答案。",
+    "keyword": "交换",
+    "advice": "暂时别硬碰硬，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_103",
+    "weight": 1,
+    "image": "透明羽毛 · 水纹",
+    "prophecy": "被压住的情绪会让透明羽毛轻轻震动。",
+    "keyword": "余光",
+    "advice": "今天适合慢一点，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_104",
+    "weight": 1,
+    "image": "结霜的玫瑰 · 月影",
+    "prophecy": "突然出现的灵感会让结霜的玫瑰露出边缘。",
+    "keyword": "守护",
+    "advice": "让情绪先落地，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_105",
+    "weight": 1,
+    "image": "银钥匙 · 星尘",
+    "prophecy": "曾经绕远的路会让银钥匙停在门口。",
+    "keyword": "回信",
+    "advice": "答应之前先想清楚，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_106",
+    "weight": 1,
+    "image": "发光的尘埃 · 星尘",
+    "prophecy": "被你忽略的细节会让发光的尘埃指向另一条路。",
+    "keyword": "选择",
+    "advice": "留意今天重复出现的东西，今天的运气偏向安静的人。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_107",
+    "weight": 1,
+    "image": "透明羽毛 · 远风",
+    "prophecy": "被压住的情绪会让透明羽毛悄悄偏转。",
+    "keyword": "交换",
+    "advice": "把复杂事拆小，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_108",
+    "weight": 1,
+    "image": "琥珀色水滴 · 月影",
+    "prophecy": "一段迟来的消息会让琥珀色水滴等待回应。",
+    "keyword": "抽离",
+    "advice": "把重要信息记下来，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_109",
+    "weight": 1,
+    "image": "裂开的星盘 · 静夜",
+    "prophecy": "被搁置的计划会让裂开的星盘指向另一条路。",
+    "keyword": "和解",
+    "advice": "别把沉默当拒绝，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_110",
+    "weight": 1,
+    "image": "裂开的星盘 · 月影",
+    "prophecy": "曾经绕远的路会让裂开的星盘把旧事送走。",
+    "keyword": "小胜",
+    "advice": "不要急着证明自己，你需要的是确认，不是硬撑。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_111",
+    "weight": 1,
+    "image": "银钥匙 · 琉璃",
+    "prophecy": "今天的小插曲会让银钥匙带来回声。",
+    "keyword": "耐心",
+    "advice": "让情绪先落地，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_112",
+    "weight": 1,
+    "image": "琥珀色水滴 · 静夜",
+    "prophecy": "一句无心的话会让琥珀色水滴浮出水面。",
+    "keyword": "新芽",
+    "advice": "留意今天重复出现的东西，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_113",
+    "weight": 1,
+    "image": "漂浮的纸船 · 远风",
+    "prophecy": "一件未完成的事会让漂浮的纸船停在门口。",
+    "keyword": "守护",
+    "advice": "先确认事实，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_114",
+    "weight": 1,
+    "image": "被锁住的抽屉 · 静夜",
+    "prophecy": "被压住的情绪会让被锁住的抽屉带来回声。",
+    "keyword": "暗示",
+    "advice": "先确认事实，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_115",
+    "weight": 1,
+    "image": "深井里的星星 · 琉璃",
+    "prophecy": "你不愿承认的期待会让深井里的星星暂时隐藏。",
+    "keyword": "归位",
+    "advice": "今天适合慢一点，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_116",
+    "weight": 1,
+    "image": "倒悬的月亮 · 远风",
+    "prophecy": "被搁置的计划会让倒悬的月亮替你守住机会。",
+    "keyword": "归位",
+    "advice": "给自己留半步余地，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_117",
+    "weight": 1,
+    "image": "白色鹿影 · 回廊",
+    "prophecy": "被压住的情绪会让白色鹿影等待回应。",
+    "keyword": "缓行",
+    "advice": "给自己留半步余地，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_118",
+    "weight": 1,
+    "image": "倒悬的月亮 · 琉璃",
+    "prophecy": "某个熟悉的地点会让倒悬的月亮让迷雾变薄。",
+    "keyword": "提醒",
+    "advice": "把重要信息记下来，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_119",
+    "weight": 1,
+    "image": "风中的铃铛 · 晨霜",
+    "prophecy": "某个熟悉的地点会让风中的铃铛让迷雾变薄。",
+    "keyword": "回声",
+    "advice": "先把手边的事做完，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_120",
+    "weight": 1,
+    "image": "夜空裂缝 · 静夜",
+    "prophecy": "今天的小插曲会让夜空裂缝露出边缘。",
+    "keyword": "回声",
+    "advice": "别急着下结论，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_121",
+    "weight": 1,
+    "image": "海面上的书 · 水纹",
+    "prophecy": "某个熟悉的地点会让海面上的书浮出水面。",
+    "keyword": "新芽",
+    "advice": "把旧东西整理一下，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_122",
+    "weight": 1,
+    "image": "云后的太阳 · 晨霜",
+    "prophecy": "某个反复出现的念头会让云后的太阳指向另一条路。",
+    "keyword": "交换",
+    "advice": "先把手边的事做完，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_123",
+    "weight": 1,
+    "image": "旧地图 · 琉璃",
+    "prophecy": "一段迟来的消息会让旧地图绕过障碍。",
+    "keyword": "重启",
+    "advice": "别急着下结论，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_124",
+    "weight": 1,
+    "image": "微亮的灯塔 · 星尘",
+    "prophecy": "被搁置的计划会让微亮的灯塔轻轻震动。",
+    "keyword": "耐心",
+    "advice": "答应之前先想清楚，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_125",
+    "weight": 1,
+    "image": "透明羽毛 · 水纹",
+    "prophecy": "某个熟悉的地点会让透明羽毛提醒你回头。",
+    "keyword": "交换",
+    "advice": "给对方一点时间，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_126",
+    "weight": 1,
+    "image": "草叶上的露珠 · 微光",
+    "prophecy": "身边安静的人会让草叶上的露珠重新排列。",
+    "keyword": "整理",
+    "advice": "先确认事实，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_127",
+    "weight": 1,
+    "image": "海面上的书 · 星尘",
+    "prophecy": "一场看似普通的对话会让海面上的书等待回应。",
+    "keyword": "清醒",
+    "advice": "把重要信息记下来，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_128",
+    "weight": 1,
+    "image": "深井里的星星 · 远风",
+    "prophecy": "被你忽略的细节会让深井里的星星暂时隐藏。",
+    "keyword": "和解",
+    "advice": "不要替别人猜答案，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_129",
+    "weight": 1,
+    "image": "夜空裂缝 · 月影",
+    "prophecy": "被你忽略的细节会让夜空裂缝把旧事送走。",
+    "keyword": "抽离",
+    "advice": "别把沉默当拒绝，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_130",
+    "weight": 1,
+    "image": "琥珀色水滴 · 晨霜",
+    "prophecy": "被压住的情绪会让琥珀色水滴露出边缘。",
+    "keyword": "缓行",
+    "advice": "不要急着证明自己，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_131",
+    "weight": 1,
+    "image": "静止的沙漏 · 微光",
+    "prophecy": "曾经绕远的路会让静止的沙漏露出边缘。",
+    "keyword": "晴朗",
+    "advice": "先把手边的事做完，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_132",
+    "weight": 1,
+    "image": "白色鹿影 · 远风",
+    "prophecy": "今天的小插曲会让白色鹿影暂时隐藏。",
+    "keyword": "重启",
+    "advice": "今天适合慢一点，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_133",
+    "weight": 1,
+    "image": "潮湿的纸页 · 星尘",
+    "prophecy": "你以为没用的准备会让潮湿的纸页映出答案。",
+    "keyword": "归位",
+    "advice": "把旧东西整理一下，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_134",
+    "weight": 1,
+    "image": "深井里的星星 · 回廊",
+    "prophecy": "某个熟悉的地点会让深井里的星星露出边缘。",
+    "keyword": "机会",
+    "advice": "把门虚掩着就好，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_135",
+    "weight": 1,
+    "image": "草叶上的露珠 · 星尘",
+    "prophecy": "你以为没用的准备会让草叶上的露珠正在退潮。",
+    "keyword": "机会",
+    "advice": "给自己留半步余地，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_136",
+    "weight": 1,
+    "image": "黑曜石门 · 月影",
+    "prophecy": "一场看似普通的对话会让黑曜石门将要打开。",
+    "keyword": "晴朗",
+    "advice": "把重要信息记下来，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_137",
+    "weight": 1,
+    "image": "琥珀色水滴 · 微光",
+    "prophecy": "一句无心的话会让琥珀色水滴将要打开。",
+    "keyword": "靠近",
+    "advice": "给自己留半步余地，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_138",
+    "weight": 1,
+    "image": "倒悬的月亮 · 琉璃",
+    "prophecy": "你手边的旧物会让倒悬的月亮正在靠近。",
+    "keyword": "和解",
+    "advice": "把话说清楚一点，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_139",
+    "weight": 1,
+    "image": "雾里的钟声 · 静夜",
+    "prophecy": "一次短暂的等待会让雾里的钟声悄悄偏转。",
+    "keyword": "松动",
+    "advice": "今天适合慢一点，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_140",
+    "weight": 1,
+    "image": "破碎的镜片 · 回廊",
+    "prophecy": "某个熟悉的地点会让破碎的镜片暂时隐藏。",
+    "keyword": "靠近",
+    "advice": "给对方一点时间，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_141",
+    "weight": 1,
+    "image": "破碎的镜片 · 回廊",
+    "prophecy": "某个反复出现的念头会让破碎的镜片正在退潮。",
+    "keyword": "归位",
+    "advice": "给对方一点时间，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_142",
+    "weight": 1,
+    "image": "被锁住的抽屉 · 晨霜",
+    "prophecy": "曾经绕远的路会让被锁住的抽屉指向另一条路。",
+    "keyword": "余温",
+    "advice": "把旧东西整理一下，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_143",
+    "weight": 1,
+    "image": "沉睡的猫 · 晨霜",
+    "prophecy": "正在收尾的问题会让沉睡的猫正在靠近。",
+    "keyword": "选择",
+    "advice": "把复杂事拆小，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_144",
+    "weight": 1,
+    "image": "被锁住的抽屉 · 回廊",
+    "prophecy": "某个熟悉的地点会让被锁住的抽屉正在退潮。",
+    "keyword": "提醒",
+    "advice": "别急着下结论，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_145",
+    "weight": 1,
+    "image": "风中的铃铛 · 微光",
+    "prophecy": "你不愿承认的期待会让风中的铃铛将要打开。",
+    "keyword": "小胜",
+    "advice": "把重要信息记下来，你需要的是确认，不是硬撑。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_146",
+    "weight": 1,
+    "image": "透明羽毛 · 薄雾",
+    "prophecy": "临时改变的安排会让透明羽毛正在靠近。",
+    "keyword": "暗示",
+    "advice": "顺着直觉检查一次，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_147",
+    "weight": 1,
+    "image": "黄昏的窗 · 静夜",
+    "prophecy": "一段迟来的消息会让黄昏的窗绕过障碍。",
+    "keyword": "回信",
+    "advice": "暂时别硬碰硬，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_148",
+    "weight": 1,
+    "image": "静止的沙漏 · 远风",
+    "prophecy": "正在收尾的问题会让静止的沙漏提醒你回头。",
+    "keyword": "归位",
+    "advice": "把旧东西整理一下，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_149",
+    "weight": 1,
+    "image": "旧地图 · 微光",
+    "prophecy": "身边安静的人会让旧地图把旧事送走。",
+    "keyword": "勇气",
+    "advice": "把门虚掩着就好，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_150",
+    "weight": 1,
+    "image": "蓝色火苗 · 晨霜",
+    "prophecy": "正在收尾的问题会让蓝色火苗暂时隐藏。",
+    "keyword": "回声",
+    "advice": "先确认事实，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_151",
+    "weight": 1,
+    "image": "远处的钟楼 · 水纹",
+    "prophecy": "你不愿承认的期待会让远处的钟楼带来回声。",
+    "keyword": "小胜",
+    "advice": "顺着直觉检查一次，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_152",
+    "weight": 1,
+    "image": "裂开的星盘 · 水纹",
+    "prophecy": "一次短暂的等待会让裂开的星盘悄悄偏转。",
+    "keyword": "机会",
+    "advice": "把复杂事拆小，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_153",
+    "weight": 1,
+    "image": "树梢的蓝鸟 · 微光",
+    "prophecy": "刚刚错过的机会会让树梢的蓝鸟将要打开。",
+    "keyword": "新芽",
+    "advice": "别把沉默当拒绝，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_154",
+    "weight": 1,
+    "image": "雪地脚印 · 琉璃",
+    "prophecy": "刚刚错过的机会会让雪地脚印把旧事送走。",
+    "keyword": "回声",
+    "advice": "不要急着证明自己，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_155",
+    "weight": 1,
+    "image": "空白信封 · 静夜",
+    "prophecy": "一句无心的话会让空白信封停在门口。",
+    "keyword": "耐心",
+    "advice": "别把沉默当拒绝，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_156",
+    "weight": 1,
+    "image": "风中的铃铛 · 薄雾",
+    "prophecy": "一场看似普通的对话会让风中的铃铛绕过障碍。",
+    "keyword": "新芽",
+    "advice": "别急着下结论，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_157",
+    "weight": 1,
+    "image": "草叶上的露珠 · 远风",
+    "prophecy": "临时改变的安排会让草叶上的露珠提醒你回头。",
+    "keyword": "交换",
+    "advice": "留意今天重复出现的东西，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_158",
+    "weight": 1,
+    "image": "透明羽毛 · 晨霜",
+    "prophecy": "你手边的旧物会让透明羽毛暂时隐藏。",
+    "keyword": "交换",
+    "advice": "给对方一点时间，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_159",
+    "weight": 1,
+    "image": "黄昏的窗 · 远风",
+    "prophecy": "今天的小插曲会让黄昏的窗重新排列。",
+    "keyword": "归位",
+    "advice": "别急着下结论，今天的运气偏向安静的人。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_160",
+    "weight": 1,
+    "image": "水底的灯 · 月影",
+    "prophecy": "你不愿承认的期待会让水底的灯映出答案。",
+    "keyword": "回声",
+    "advice": "先照顾好状态，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_161",
+    "weight": 1,
+    "image": "石阶上的贝壳 · 薄雾",
+    "prophecy": "你手边的旧物会让石阶上的贝壳提醒你回头。",
+    "keyword": "归位",
+    "advice": "先确认事实，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_162",
+    "weight": 1,
+    "image": "漂浮的纸船 · 星尘",
+    "prophecy": "一场看似普通的对话会让漂浮的纸船等待回应。",
+    "keyword": "试探",
+    "advice": "不要替别人猜答案，今天的运气偏向安静的人。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_163",
+    "weight": 1,
+    "image": "远处的钟楼 · 水纹",
+    "prophecy": "你以为没用的准备会让远处的钟楼暂时隐藏。",
+    "keyword": "提醒",
+    "advice": "今天适合慢一点，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_164",
+    "weight": 1,
+    "image": "沉睡的猫 · 薄雾",
+    "prophecy": "身边安静的人会让沉睡的猫轻轻震动。",
+    "keyword": "守护",
+    "advice": "别急着下结论，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_165",
+    "weight": 1,
+    "image": "雾里的钟声 · 水纹",
+    "prophecy": "你手边的旧物会让雾里的钟声暂时隐藏。",
+    "keyword": "晴朗",
+    "advice": "把旧东西整理一下，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_166",
+    "weight": 1,
+    "image": "海面上的书 · 月影",
+    "prophecy": "今天的小插曲会让海面上的书停在门口。",
+    "keyword": "清醒",
+    "advice": "让情绪先落地，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_167",
+    "weight": 1,
+    "image": "水底的灯 · 薄雾",
+    "prophecy": "曾经绕远的路会让水底的灯停在门口。",
+    "keyword": "机会",
+    "advice": "给自己留半步余地，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_168",
+    "weight": 1,
+    "image": "雾里的钟声 · 远风",
+    "prophecy": "某个反复出现的念头会让雾里的钟声指向另一条路。",
+    "keyword": "清醒",
+    "advice": "先确认事实，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_169",
+    "weight": 1,
+    "image": "蓝色火苗 · 水纹",
+    "prophecy": "你以为没用的准备会让蓝色火苗将要打开。",
+    "keyword": "清醒",
+    "advice": "留意今天重复出现的东西，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_170",
+    "weight": 1,
+    "image": "草叶上的露珠 · 回廊",
+    "prophecy": "临时改变的安排会让草叶上的露珠带来回声。",
+    "keyword": "试探",
+    "advice": "把重要信息记下来，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_171",
+    "weight": 1,
+    "image": "银钥匙 · 琉璃",
+    "prophecy": "某个反复出现的念头会让银钥匙正在退潮。",
+    "keyword": "清醒",
+    "advice": "别急着下结论，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_172",
+    "weight": 1,
+    "image": "倒悬的月亮 · 月影",
+    "prophecy": "一次短暂的等待会让倒悬的月亮轻轻震动。",
+    "keyword": "抽离",
+    "advice": "给对方一点时间，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_173",
+    "weight": 1,
+    "image": "黄昏的窗 · 琉璃",
+    "prophecy": "某个反复出现的念头会让黄昏的窗正在靠近。",
+    "keyword": "回信",
+    "advice": "给自己留半步余地，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_174",
+    "weight": 1,
+    "image": "漂浮的纸船 · 水纹",
+    "prophecy": "某个熟悉的地点会让漂浮的纸船露出边缘。",
+    "keyword": "清醒",
+    "advice": "把话说清楚一点，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_175",
+    "weight": 1,
+    "image": "掌心的种子 · 水纹",
+    "prophecy": "临时改变的安排会让掌心的种子提醒你回头。",
+    "keyword": "晴朗",
+    "advice": "把门虚掩着就好，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_176",
+    "weight": 1,
+    "image": "琥珀色水滴 · 月影",
+    "prophecy": "被搁置的计划会让琥珀色水滴替你守住机会。",
+    "keyword": "整理",
+    "advice": "今天适合慢一点，你需要的是确认，不是硬撑。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_177",
+    "weight": 1,
+    "image": "雾里的钟声 · 水纹",
+    "prophecy": "正在收尾的问题会让雾里的钟声轻轻震动。",
+    "keyword": "暗示",
+    "advice": "答应之前先想清楚，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_178",
+    "weight": 1,
+    "image": "雾里的钟声 · 晨霜",
+    "prophecy": "正在收尾的问题会让雾里的钟声将要打开。",
+    "keyword": "靠近",
+    "advice": "不要替别人猜答案，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_179",
+    "weight": 1,
+    "image": "银钥匙 · 星尘",
+    "prophecy": "一次短暂的等待会让银钥匙慢慢醒来。",
+    "keyword": "试探",
+    "advice": "先把手边的事做完，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_180",
+    "weight": 1,
+    "image": "玻璃瓶里的风 · 薄雾",
+    "prophecy": "你不愿承认的期待会让玻璃瓶里的风浮出水面。",
+    "keyword": "松动",
+    "advice": "先把手边的事做完，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_181",
+    "weight": 1,
+    "image": "掌心的种子 · 琉璃",
+    "prophecy": "一段迟来的消息会让掌心的种子悄悄偏转。",
+    "keyword": "余光",
+    "advice": "让情绪先落地，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_182",
+    "weight": 1,
+    "image": "海面上的书 · 星尘",
+    "prophecy": "你以为没用的准备会让海面上的书指向另一条路。",
+    "keyword": "缓行",
+    "advice": "留意今天重复出现的东西，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_183",
+    "weight": 1,
+    "image": "黑曜石门 · 静夜",
+    "prophecy": "今天的小插曲会让黑曜石门将要打开。",
+    "keyword": "确认",
+    "advice": "把复杂事拆小，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_184",
+    "weight": 1,
+    "image": "雨后的台阶 · 晨霜",
+    "prophecy": "一场看似普通的对话会让雨后的台阶指向另一条路。",
+    "keyword": "抽离",
+    "advice": "别急着下结论，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_185",
+    "weight": 1,
+    "image": "银钥匙 · 星尘",
+    "prophecy": "正在收尾的问题会让银钥匙露出边缘。",
+    "keyword": "新芽",
+    "advice": "答应之前先想清楚，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_186",
+    "weight": 1,
+    "image": "远方的列车 · 回廊",
+    "prophecy": "一场看似普通的对话会让远方的列车指向另一条路。",
+    "keyword": "整理",
+    "advice": "把复杂事拆小，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_187",
+    "weight": 1,
+    "image": "透明羽毛 · 月影",
+    "prophecy": "曾经绕远的路会让透明羽毛暂时隐藏。",
+    "keyword": "重启",
+    "advice": "给自己留半步余地，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_188",
+    "weight": 1,
+    "image": "倒悬的月亮 · 静夜",
+    "prophecy": "被搁置的计划会让倒悬的月亮悄悄偏转。",
+    "keyword": "暗示",
+    "advice": "把旧东西整理一下，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_189",
+    "weight": 1,
+    "image": "石阶上的贝壳 · 月影",
+    "prophecy": "曾经绕远的路会让石阶上的贝壳露出边缘。",
+    "keyword": "新芽",
+    "advice": "不要急着证明自己，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_190",
+    "weight": 1,
+    "image": "微亮的灯塔 · 远风",
+    "prophecy": "某个熟悉的地点会让微亮的灯塔重新排列。",
+    "keyword": "松动",
+    "advice": "把重要信息记下来，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_191",
+    "weight": 1,
+    "image": "结霜的玫瑰 · 晨霜",
+    "prophecy": "今天的小插曲会让结霜的玫瑰带来回声。",
+    "keyword": "暗示",
+    "advice": "给对方一点时间，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_192",
+    "weight": 1,
+    "image": "雾里的钟声 · 琉璃",
+    "prophecy": "被你忽略的细节会让雾里的钟声正在退潮。",
+    "keyword": "转机",
+    "advice": "不要急着证明自己，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_193",
+    "weight": 1,
+    "image": "漂浮的纸船 · 琉璃",
+    "prophecy": "你以为没用的准备会让漂浮的纸船停在门口。",
+    "keyword": "边界",
+    "advice": "答应之前先想清楚，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_194",
+    "weight": 1,
+    "image": "蓝色火苗 · 水纹",
+    "prophecy": "突然出现的灵感会让蓝色火苗替你守住机会。",
+    "keyword": "和解",
+    "advice": "让情绪先落地，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_195",
+    "weight": 1,
+    "image": "夜空裂缝 · 星尘",
+    "prophecy": "刚刚错过的机会会让夜空裂缝绕过障碍。",
+    "keyword": "暗示",
+    "advice": "顺着直觉检查一次，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_196",
+    "weight": 1,
+    "image": "被锁住的抽屉 · 星尘",
+    "prophecy": "今天的小插曲会让被锁住的抽屉让迷雾变薄。",
+    "keyword": "确认",
+    "advice": "不要急着证明自己，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_197",
+    "weight": 1,
+    "image": "微亮的灯塔 · 月影",
+    "prophecy": "一句无心的话会让微亮的灯塔指向另一条路。",
+    "keyword": "暗示",
+    "advice": "别急着下结论，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_198",
+    "weight": 1,
+    "image": "潮湿的纸页 · 琉璃",
+    "prophecy": "身边安静的人会让潮湿的纸页绕过障碍。",
+    "keyword": "守护",
+    "advice": "让情绪先落地，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_199",
+    "weight": 1,
+    "image": "风中的铃铛 · 晨霜",
+    "prophecy": "一场看似普通的对话会让风中的铃铛等待回应。",
+    "keyword": "选择",
+    "advice": "把复杂事拆小，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_200",
+    "weight": 1,
+    "image": "远处的钟楼 · 水纹",
+    "prophecy": "你不愿承认的期待会让远处的钟楼悄悄偏转。",
+    "keyword": "勇气",
+    "advice": "把话说清楚一点，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_201",
+    "weight": 1,
+    "image": "银钥匙 · 星尘",
+    "prophecy": "被搁置的计划会让银钥匙暂时隐藏。",
+    "keyword": "归位",
+    "advice": "给对方一点时间，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_202",
+    "weight": 1,
+    "image": "旧地图 · 微光",
+    "prophecy": "你手边的旧物会让旧地图浮出水面。",
+    "keyword": "余光",
+    "advice": "让情绪先落地，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_203",
+    "weight": 1,
+    "image": "海面上的书 · 远风",
+    "prophecy": "一句无心的话会让海面上的书指向另一条路。",
+    "keyword": "交换",
+    "advice": "让情绪先落地，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_204",
+    "weight": 1,
+    "image": "海面上的书 · 琉璃",
+    "prophecy": "今天的小插曲会让海面上的书映出答案。",
+    "keyword": "停顿",
+    "advice": "暂时别硬碰硬，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_205",
+    "weight": 1,
+    "image": "云后的太阳 · 月影",
+    "prophecy": "今天的小插曲会让云后的太阳把旧事送走。",
+    "keyword": "提醒",
+    "advice": "把复杂事拆小，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_206",
+    "weight": 1,
+    "image": "漂浮的纸船 · 琉璃",
+    "prophecy": "一段迟来的消息会让漂浮的纸船将要打开。",
+    "keyword": "抽离",
+    "advice": "先把手边的事做完，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_207",
+    "weight": 1,
+    "image": "破碎的镜片 · 回廊",
+    "prophecy": "你以为没用的准备会让破碎的镜片等待回应。",
+    "keyword": "暗示",
+    "advice": "答应之前先想清楚，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_208",
+    "weight": 1,
+    "image": "未点燃的蜡烛 · 水纹",
+    "prophecy": "突然出现的灵感会让未点燃的蜡烛露出边缘。",
+    "keyword": "归位",
+    "advice": "不要替别人猜答案，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_209",
+    "weight": 1,
+    "image": "银钥匙 · 微光",
+    "prophecy": "被你忽略的细节会让银钥匙提醒你回头。",
+    "keyword": "新芽",
+    "advice": "把旧东西整理一下，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_210",
+    "weight": 1,
+    "image": "掌心的种子 · 星尘",
+    "prophecy": "临时改变的安排会让掌心的种子将要打开。",
+    "keyword": "余光",
+    "advice": "先把手边的事做完，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_211",
+    "weight": 1,
+    "image": "静止的沙漏 · 水纹",
+    "prophecy": "一件未完成的事会让静止的沙漏让迷雾变薄。",
+    "keyword": "暗示",
+    "advice": "给自己留半步余地，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_212",
+    "weight": 1,
+    "image": "透明羽毛 · 月影",
+    "prophecy": "一次短暂的等待会让透明羽毛绕过障碍。",
+    "keyword": "等待",
+    "advice": "给自己留半步余地，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_213",
+    "weight": 1,
+    "image": "雾里的钟声 · 薄雾",
+    "prophecy": "正在收尾的问题会让雾里的钟声绕过障碍。",
+    "keyword": "提醒",
+    "advice": "把话说清楚一点，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_214",
+    "weight": 1,
+    "image": "潮湿的纸页 · 水纹",
+    "prophecy": "临时改变的安排会让潮湿的纸页正在退潮。",
+    "keyword": "重启",
+    "advice": "给对方一点时间，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_215",
+    "weight": 1,
+    "image": "云后的太阳 · 微光",
+    "prophecy": "临时改变的安排会让云后的太阳让迷雾变薄。",
+    "keyword": "守护",
+    "advice": "给对方一点时间，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_216",
+    "weight": 1,
+    "image": "蓝色火苗 · 静夜",
+    "prophecy": "一场看似普通的对话会让蓝色火苗指向另一条路。",
+    "keyword": "归位",
+    "advice": "先确认事实，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_217",
+    "weight": 1,
+    "image": "微亮的灯塔 · 远风",
+    "prophecy": "某个熟悉的地点会让微亮的灯塔替你守住机会。",
+    "keyword": "靠近",
+    "advice": "顺着直觉检查一次，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_218",
+    "weight": 1,
+    "image": "微亮的灯塔 · 微光",
+    "prophecy": "一次短暂的等待会让微亮的灯塔将要打开。",
+    "keyword": "松动",
+    "advice": "顺着直觉检查一次，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_219",
+    "weight": 1,
+    "image": "掌心的种子 · 远风",
+    "prophecy": "刚刚错过的机会会让掌心的种子正在退潮。",
+    "keyword": "重启",
+    "advice": "把话说清楚一点，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_220",
+    "weight": 1,
+    "image": "黄昏的窗 · 水纹",
+    "prophecy": "你以为没用的准备会让黄昏的窗映出答案。",
+    "keyword": "选择",
+    "advice": "把话说清楚一点，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_221",
+    "weight": 1,
+    "image": "海面上的书 · 回廊",
+    "prophecy": "某个熟悉的地点会让海面上的书提醒你回头。",
+    "keyword": "机会",
+    "advice": "把话说清楚一点，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_222",
+    "weight": 1,
+    "image": "黄昏的窗 · 静夜",
+    "prophecy": "一场看似普通的对话会让黄昏的窗提醒你回头。",
+    "keyword": "余光",
+    "advice": "别急着下结论，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_223",
+    "weight": 1,
+    "image": "玻璃瓶里的风 · 微光",
+    "prophecy": "被压住的情绪会让玻璃瓶里的风悄悄偏转。",
+    "keyword": "提醒",
+    "advice": "不要急着证明自己，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_224",
+    "weight": 1,
+    "image": "黑曜石门 · 月影",
+    "prophecy": "突然出现的灵感会让黑曜石门正在靠近。",
+    "keyword": "回声",
+    "advice": "顺着直觉检查一次，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_225",
+    "weight": 1,
+    "image": "沉睡的猫 · 晨霜",
+    "prophecy": "一句无心的话会让沉睡的猫映出答案。",
+    "keyword": "重启",
+    "advice": "别急着下结论，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_226",
+    "weight": 1,
+    "image": "草叶上的露珠 · 微光",
+    "prophecy": "曾经绕远的路会让草叶上的露珠把旧事送走。",
+    "keyword": "小胜",
+    "advice": "不要急着证明自己，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_227",
+    "weight": 1,
+    "image": "石阶上的贝壳 · 星尘",
+    "prophecy": "被你忽略的细节会让石阶上的贝壳让迷雾变薄。",
+    "keyword": "试探",
+    "advice": "答应之前先想清楚，你需要的是确认，不是硬撑。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_228",
+    "weight": 1,
+    "image": "静止的沙漏 · 薄雾",
+    "prophecy": "临时改变的安排会让静止的沙漏悄悄偏转。",
+    "keyword": "选择",
+    "advice": "先把手边的事做完，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_229",
+    "weight": 1,
+    "image": "漂浮的纸船 · 月影",
+    "prophecy": "一次短暂的等待会让漂浮的纸船带来回声。",
+    "keyword": "小胜",
+    "advice": "把话说清楚一点，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_230",
+    "weight": 1,
+    "image": "树梢的蓝鸟 · 薄雾",
+    "prophecy": "某个熟悉的地点会让树梢的蓝鸟慢慢醒来。",
+    "keyword": "耐心",
+    "advice": "先把手边的事做完，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_231",
+    "weight": 1,
+    "image": "透明羽毛 · 微光",
+    "prophecy": "身边安静的人会让透明羽毛让迷雾变薄。",
+    "keyword": "和解",
+    "advice": "不要替别人猜答案，今天的运气偏向安静的人。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_232",
+    "weight": 1,
+    "image": "风中的铃铛 · 琉璃",
+    "prophecy": "你手边的旧物会让风中的铃铛慢慢醒来。",
+    "keyword": "靠近",
+    "advice": "今天适合慢一点，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_233",
+    "weight": 1,
+    "image": "远方的列车 · 薄雾",
+    "prophecy": "被你忽略的细节会让远方的列车绕过障碍。",
+    "keyword": "交换",
+    "advice": "答应之前先想清楚，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_234",
+    "weight": 1,
+    "image": "静止的沙漏 · 水纹",
+    "prophecy": "突然出现的灵感会让静止的沙漏慢慢醒来。",
+    "keyword": "余温",
+    "advice": "顺着直觉检查一次，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_235",
+    "weight": 1,
+    "image": "发光的尘埃 · 微光",
+    "prophecy": "某个熟悉的地点会让发光的尘埃映出答案。",
+    "keyword": "守护",
+    "advice": "把门虚掩着就好，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_236",
+    "weight": 1,
+    "image": "旧神社的檐铃 · 水纹",
+    "prophecy": "你不愿承认的期待会让旧神社的檐铃重新排列。",
+    "keyword": "守护",
+    "advice": "不要替别人猜答案，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_237",
+    "weight": 1,
+    "image": "石阶上的贝壳 · 星尘",
+    "prophecy": "曾经绕远的路会让石阶上的贝壳让迷雾变薄。",
+    "keyword": "回信",
+    "advice": "把话说清楚一点，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_238",
+    "weight": 1,
+    "image": "黄昏的窗 · 月影",
+    "prophecy": "今天的小插曲会让黄昏的窗重新排列。",
+    "keyword": "晴朗",
+    "advice": "先确认事实，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_239",
+    "weight": 1,
+    "image": "石阶上的贝壳 · 水纹",
+    "prophecy": "临时改变的安排会让石阶上的贝壳等待回应。",
+    "keyword": "新芽",
+    "advice": "把门虚掩着就好，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_240",
+    "weight": 1,
+    "image": "黄昏的窗 · 静夜",
+    "prophecy": "你以为没用的准备会让黄昏的窗映出答案。",
+    "keyword": "选择",
+    "advice": "今天适合慢一点，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_241",
+    "weight": 1,
+    "image": "掌心的种子 · 月影",
+    "prophecy": "一件未完成的事会让掌心的种子带来回声。",
+    "keyword": "提醒",
+    "advice": "先把手边的事做完，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_242",
+    "weight": 1,
+    "image": "水底的灯 · 远风",
+    "prophecy": "被压住的情绪会让水底的灯将要打开。",
+    "keyword": "余温",
+    "advice": "答应之前先想清楚，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_243",
+    "weight": 1,
+    "image": "掌心的种子 · 远风",
+    "prophecy": "一件未完成的事会让掌心的种子慢慢醒来。",
+    "keyword": "耐心",
+    "advice": "把复杂事拆小，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_244",
+    "weight": 1,
+    "image": "深井里的星星 · 月影",
+    "prophecy": "被压住的情绪会让深井里的星星将要打开。",
+    "keyword": "停顿",
+    "advice": "把重要信息记下来，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_245",
+    "weight": 1,
+    "image": "深井里的星星 · 微光",
+    "prophecy": "被压住的情绪会让深井里的星星悄悄偏转。",
+    "keyword": "余光",
+    "advice": "别急着下结论，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_246",
+    "weight": 1,
+    "image": "旧神社的檐铃 · 远风",
+    "prophecy": "一次短暂的等待会让旧神社的檐铃把旧事送走。",
+    "keyword": "暗示",
+    "advice": "先把手边的事做完，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_247",
+    "weight": 1,
+    "image": "远处的钟楼 · 静夜",
+    "prophecy": "曾经绕远的路会让远处的钟楼让迷雾变薄。",
+    "keyword": "暗示",
+    "advice": "不要急着证明自己，今天的运气偏向安静的人。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_248",
+    "weight": 1,
+    "image": "金色细线 · 琉璃",
+    "prophecy": "你以为没用的准备会让金色细线露出边缘。",
+    "keyword": "小胜",
+    "advice": "今天适合慢一点，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_249",
+    "weight": 1,
+    "image": "沉睡的猫 · 回廊",
+    "prophecy": "一段迟来的消息会让沉睡的猫慢慢醒来。",
+    "keyword": "回声",
+    "advice": "先把手边的事做完，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_250",
+    "weight": 1,
+    "image": "静止的沙漏 · 水纹",
+    "prophecy": "你不愿承认的期待会让静止的沙漏将要打开。",
+    "keyword": "停顿",
+    "advice": "不要急着证明自己，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_251",
+    "weight": 1,
+    "image": "被锁住的抽屉 · 薄雾",
+    "prophecy": "你不愿承认的期待会让被锁住的抽屉替你守住机会。",
+    "keyword": "暗示",
+    "advice": "把话说清楚一点，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_252",
+    "weight": 1,
+    "image": "雪地脚印 · 微光",
+    "prophecy": "一段迟来的消息会让雪地脚印把旧事送走。",
+    "keyword": "新芽",
+    "advice": "别急着下结论，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_253",
+    "weight": 1,
+    "image": "海面上的书 · 水纹",
+    "prophecy": "一件未完成的事会让海面上的书慢慢醒来。",
+    "keyword": "回信",
+    "advice": "暂时别硬碰硬，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_254",
+    "weight": 1,
+    "image": "白色鹿影 · 晨霜",
+    "prophecy": "一句无心的话会让白色鹿影替你守住机会。",
+    "keyword": "转机",
+    "advice": "别把沉默当拒绝，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_255",
+    "weight": 1,
+    "image": "发光的尘埃 · 微光",
+    "prophecy": "被你忽略的细节会让发光的尘埃指向另一条路。",
+    "keyword": "缓行",
+    "advice": "今天适合慢一点，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_256",
+    "weight": 1,
+    "image": "草叶上的露珠 · 静夜",
+    "prophecy": "一句无心的话会让草叶上的露珠重新排列。",
+    "keyword": "缓行",
+    "advice": "顺着直觉检查一次，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_257",
+    "weight": 1,
+    "image": "雪地脚印 · 回廊",
+    "prophecy": "你不愿承认的期待会让雪地脚印替你守住机会。",
+    "keyword": "交换",
+    "advice": "不要急着证明自己，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_258",
+    "weight": 1,
+    "image": "黑曜石门 · 月影",
+    "prophecy": "一件未完成的事会让黑曜石门停在门口。",
+    "keyword": "守护",
+    "advice": "把话说清楚一点，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_259",
+    "weight": 1,
+    "image": "雪地脚印 · 水纹",
+    "prophecy": "今天的小插曲会让雪地脚印绕过障碍。",
+    "keyword": "重启",
+    "advice": "留意今天重复出现的东西，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_260",
+    "weight": 1,
+    "image": "远处的钟楼 · 水纹",
+    "prophecy": "被你忽略的细节会让远处的钟楼露出边缘。",
+    "keyword": "回信",
+    "advice": "暂时别硬碰硬，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_261",
+    "weight": 1,
+    "image": "旧神社的檐铃 · 琉璃",
+    "prophecy": "一次短暂的等待会让旧神社的檐铃把旧事送走。",
+    "keyword": "归位",
+    "advice": "把复杂事拆小，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_262",
+    "weight": 1,
+    "image": "静止的沙漏 · 星尘",
+    "prophecy": "一段迟来的消息会让静止的沙漏将要打开。",
+    "keyword": "归位",
+    "advice": "把复杂事拆小，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_263",
+    "weight": 1,
+    "image": "深井里的星星 · 星尘",
+    "prophecy": "一场看似普通的对话会让深井里的星星正在退潮。",
+    "keyword": "抽离",
+    "advice": "顺着直觉检查一次，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_264",
+    "weight": 1,
+    "image": "深井里的星星 · 琉璃",
+    "prophecy": "曾经绕远的路会让深井里的星星慢慢醒来。",
+    "keyword": "和解",
+    "advice": "不要急着证明自己，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_265",
+    "weight": 1,
+    "image": "琥珀色水滴 · 琉璃",
+    "prophecy": "一次短暂的等待会让琥珀色水滴将要打开。",
+    "keyword": "守护",
+    "advice": "暂时别硬碰硬，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_266",
+    "weight": 1,
+    "image": "海面上的书 · 星尘",
+    "prophecy": "你以为没用的准备会让海面上的书指向另一条路。",
+    "keyword": "余温",
+    "advice": "不要急着证明自己，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_267",
+    "weight": 1,
+    "image": "漂浮的纸船 · 水纹",
+    "prophecy": "一段迟来的消息会让漂浮的纸船指向另一条路。",
+    "keyword": "守护",
+    "advice": "别急着下结论，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_268",
+    "weight": 1,
+    "image": "琥珀色水滴 · 月影",
+    "prophecy": "突然出现的灵感会让琥珀色水滴正在退潮。",
+    "keyword": "转机",
+    "advice": "别把沉默当拒绝，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_269",
+    "weight": 1,
+    "image": "金色细线 · 薄雾",
+    "prophecy": "一次短暂的等待会让金色细线等待回应。",
+    "keyword": "守护",
+    "advice": "答应之前先想清楚，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_270",
+    "weight": 1,
+    "image": "静止的沙漏 · 晨霜",
+    "prophecy": "正在收尾的问题会让静止的沙漏暂时隐藏。",
+    "keyword": "耐心",
+    "advice": "把重要信息记下来，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_271",
+    "weight": 1,
+    "image": "海面上的书 · 水纹",
+    "prophecy": "某个反复出现的念头会让海面上的书正在靠近。",
+    "keyword": "试探",
+    "advice": "先确认事实，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_272",
+    "weight": 1,
+    "image": "微亮的灯塔 · 微光",
+    "prophecy": "一段迟来的消息会让微亮的灯塔慢慢醒来。",
+    "keyword": "小胜",
+    "advice": "让情绪先落地，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_273",
+    "weight": 1,
+    "image": "旧神社的檐铃 · 远风",
+    "prophecy": "一次短暂的等待会让旧神社的檐铃映出答案。",
+    "keyword": "清醒",
+    "advice": "不要替别人猜答案，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_274",
+    "weight": 1,
+    "image": "空白信封 · 水纹",
+    "prophecy": "被压住的情绪会让空白信封将要打开。",
+    "keyword": "转机",
+    "advice": "给对方一点时间，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_275",
+    "weight": 1,
+    "image": "雨后的台阶 · 微光",
+    "prophecy": "被你忽略的细节会让雨后的台阶替你守住机会。",
+    "keyword": "晴朗",
+    "advice": "先确认事实，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_276",
+    "weight": 1,
+    "image": "水底的灯 · 远风",
+    "prophecy": "刚刚错过的机会会让水底的灯将要打开。",
+    "keyword": "停顿",
+    "advice": "给对方一点时间，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_277",
+    "weight": 1,
+    "image": "裂开的星盘 · 水纹",
+    "prophecy": "一段迟来的消息会让裂开的星盘绕过障碍。",
+    "keyword": "机会",
+    "advice": "答应之前先想清楚，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_278",
+    "weight": 1,
+    "image": "被锁住的抽屉 · 晨霜",
+    "prophecy": "你以为没用的准备会让被锁住的抽屉将要打开。",
+    "keyword": "晴朗",
+    "advice": "给对方一点时间，你需要的是确认，不是硬撑。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_279",
+    "weight": 1,
+    "image": "海面上的书 · 回廊",
+    "prophecy": "被搁置的计划会让海面上的书慢慢醒来。",
+    "keyword": "余温",
+    "advice": "给对方一点时间，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_280",
+    "weight": 1,
+    "image": "海面上的书 · 回廊",
+    "prophecy": "被搁置的计划会让海面上的书停在门口。",
+    "keyword": "余光",
+    "advice": "先把手边的事做完，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_281",
+    "weight": 1,
+    "image": "结霜的玫瑰 · 星尘",
+    "prophecy": "今天的小插曲会让结霜的玫瑰暂时隐藏。",
+    "keyword": "边界",
+    "advice": "别急着下结论，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_282",
+    "weight": 1,
+    "image": "破碎的镜片 · 远风",
+    "prophecy": "你以为没用的准备会让破碎的镜片绕过障碍。",
+    "keyword": "晴朗",
+    "advice": "让情绪先落地，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_283",
+    "weight": 1,
+    "image": "白色鹿影 · 水纹",
+    "prophecy": "正在收尾的问题会让白色鹿影正在靠近。",
+    "keyword": "交换",
+    "advice": "答应之前先想清楚，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_284",
+    "weight": 1,
+    "image": "夜空裂缝 · 水纹",
+    "prophecy": "被搁置的计划会让夜空裂缝停在门口。",
+    "keyword": "整理",
+    "advice": "把话说清楚一点，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_285",
+    "weight": 1,
+    "image": "水底的灯 · 琉璃",
+    "prophecy": "曾经绕远的路会让水底的灯浮出水面。",
+    "keyword": "试探",
+    "advice": "给对方一点时间，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_286",
+    "weight": 1,
+    "image": "黄昏的窗 · 静夜",
+    "prophecy": "你手边的旧物会让黄昏的窗带来回声。",
+    "keyword": "暗示",
+    "advice": "把重要信息记下来，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_287",
+    "weight": 1,
+    "image": "夜空裂缝 · 回廊",
+    "prophecy": "突然出现的灵感会让夜空裂缝让迷雾变薄。",
+    "keyword": "转机",
+    "advice": "暂时别硬碰硬，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_288",
+    "weight": 1,
+    "image": "掌心的种子 · 琉璃",
+    "prophecy": "一场看似普通的对话会让掌心的种子绕过障碍。",
+    "keyword": "边界",
+    "advice": "把门虚掩着就好，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_289",
+    "weight": 1,
+    "image": "微亮的灯塔 · 远风",
+    "prophecy": "某个反复出现的念头会让微亮的灯塔暂时隐藏。",
+    "keyword": "靠近",
+    "advice": "先把手边的事做完，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_290",
+    "weight": 1,
+    "image": "雪地脚印 · 静夜",
+    "prophecy": "身边安静的人会让雪地脚印替你守住机会。",
+    "keyword": "等待",
+    "advice": "让情绪先落地，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_291",
+    "weight": 1,
+    "image": "未点燃的蜡烛 · 薄雾",
+    "prophecy": "一件未完成的事会让未点燃的蜡烛映出答案。",
+    "keyword": "松动",
+    "advice": "把门虚掩着就好，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_292",
+    "weight": 1,
+    "image": "海面上的书 · 薄雾",
+    "prophecy": "被你忽略的细节会让海面上的书重新排列。",
+    "keyword": "选择",
+    "advice": "暂时别硬碰硬，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_293",
+    "weight": 1,
+    "image": "夜空裂缝 · 静夜",
+    "prophecy": "一段迟来的消息会让夜空裂缝慢慢醒来。",
+    "keyword": "耐心",
+    "advice": "把旧东西整理一下，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_294",
+    "weight": 1,
+    "image": "掌心的种子 · 薄雾",
+    "prophecy": "被你忽略的细节会让掌心的种子映出答案。",
+    "keyword": "重启",
+    "advice": "给对方一点时间，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_295",
+    "weight": 1,
+    "image": "蓝色火苗 · 星尘",
+    "prophecy": "突然出现的灵感会让蓝色火苗把旧事送走。",
+    "keyword": "清醒",
+    "advice": "今天适合慢一点，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_296",
+    "weight": 1,
+    "image": "云后的太阳 · 琉璃",
+    "prophecy": "身边安静的人会让云后的太阳悄悄偏转。",
+    "keyword": "整理",
+    "advice": "把复杂事拆小，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_297",
+    "weight": 1,
+    "image": "金色细线 · 薄雾",
+    "prophecy": "某个熟悉的地点会让金色细线重新排列。",
+    "keyword": "晴朗",
+    "advice": "给对方一点时间，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_298",
+    "weight": 1,
+    "image": "蓝色火苗 · 晨霜",
+    "prophecy": "你手边的旧物会让蓝色火苗慢慢醒来。",
+    "keyword": "缓行",
+    "advice": "把重要信息记下来，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_299",
+    "weight": 1,
+    "image": "空白信封 · 远风",
+    "prophecy": "一段迟来的消息会让空白信封正在退潮。",
+    "keyword": "归位",
+    "advice": "先照顾好状态，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_300",
+    "weight": 1,
+    "image": "旧神社的檐铃 · 晨霜",
+    "prophecy": "一句无心的话会让旧神社的檐铃暂时隐藏。",
+    "keyword": "和解",
+    "advice": "把复杂事拆小，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_301",
+    "weight": 1,
+    "image": "玻璃瓶里的风 · 星尘",
+    "prophecy": "今天的小插曲会让玻璃瓶里的风轻轻震动。",
+    "keyword": "提醒",
+    "advice": "给自己留半步余地，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_302",
+    "weight": 1,
+    "image": "空白信封 · 星尘",
+    "prophecy": "你以为没用的准备会让空白信封把旧事送走。",
+    "keyword": "交换",
+    "advice": "把话说清楚一点，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_303",
+    "weight": 1,
+    "image": "琥珀色水滴 · 水纹",
+    "prophecy": "某个反复出现的念头会让琥珀色水滴暂时隐藏。",
+    "keyword": "等待",
+    "advice": "先照顾好状态，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_304",
+    "weight": 1,
+    "image": "深井里的星星 · 月影",
+    "prophecy": "被压住的情绪会让深井里的星星将要打开。",
+    "keyword": "小胜",
+    "advice": "顺着直觉检查一次，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_305",
+    "weight": 1,
+    "image": "深井里的星星 · 薄雾",
+    "prophecy": "你以为没用的准备会让深井里的星星暂时隐藏。",
+    "keyword": "机会",
+    "advice": "不要替别人猜答案，你需要的是确认，不是硬撑。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_306",
+    "weight": 1,
+    "image": "水底的灯 · 月影",
+    "prophecy": "临时改变的安排会让水底的灯停在门口。",
+    "keyword": "勇气",
+    "advice": "把话说清楚一点，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_307",
+    "weight": 1,
+    "image": "倒悬的月亮 · 琉璃",
+    "prophecy": "被压住的情绪会让倒悬的月亮将要打开。",
+    "keyword": "等待",
+    "advice": "答应之前先想清楚，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_308",
+    "weight": 1,
+    "image": "远方的列车 · 星尘",
+    "prophecy": "一段迟来的消息会让远方的列车露出边缘。",
+    "keyword": "新芽",
+    "advice": "不要替别人猜答案，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_309",
+    "weight": 1,
+    "image": "裂开的星盘 · 微光",
+    "prophecy": "临时改变的安排会让裂开的星盘露出边缘。",
+    "keyword": "勇气",
+    "advice": "今天适合慢一点，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_310",
+    "weight": 1,
+    "image": "漂浮的纸船 · 星尘",
+    "prophecy": "被压住的情绪会让漂浮的纸船让迷雾变薄。",
+    "keyword": "边界",
+    "advice": "暂时别硬碰硬，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_311",
+    "weight": 1,
+    "image": "雪地脚印 · 薄雾",
+    "prophecy": "一句无心的话会让雪地脚印悄悄偏转。",
+    "keyword": "晴朗",
+    "advice": "不要替别人猜答案，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_312",
+    "weight": 1,
+    "image": "深井里的星星 · 月影",
+    "prophecy": "曾经绕远的路会让深井里的星星指向另一条路。",
+    "keyword": "提醒",
+    "advice": "给自己留半步余地，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_313",
+    "weight": 1,
+    "image": "云后的太阳 · 琉璃",
+    "prophecy": "正在收尾的问题会让云后的太阳慢慢醒来。",
+    "keyword": "确认",
+    "advice": "不要替别人猜答案，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_314",
+    "weight": 1,
+    "image": "雪地脚印 · 薄雾",
+    "prophecy": "一次短暂的等待会让雪地脚印轻轻震动。",
+    "keyword": "重启",
+    "advice": "不要替别人猜答案，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_315",
+    "weight": 1,
+    "image": "静止的沙漏 · 月影",
+    "prophecy": "一件未完成的事会让静止的沙漏轻轻震动。",
+    "keyword": "回信",
+    "advice": "把门虚掩着就好，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_316",
+    "weight": 1,
+    "image": "黑曜石门 · 远风",
+    "prophecy": "一句无心的话会让黑曜石门等待回应。",
+    "keyword": "守护",
+    "advice": "把重要信息记下来，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_317",
+    "weight": 1,
+    "image": "被锁住的抽屉 · 静夜",
+    "prophecy": "一次短暂的等待会让被锁住的抽屉让迷雾变薄。",
+    "keyword": "缓行",
+    "advice": "给对方一点时间，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_318",
+    "weight": 1,
+    "image": "结霜的玫瑰 · 回廊",
+    "prophecy": "被压住的情绪会让结霜的玫瑰正在靠近。",
+    "keyword": "余温",
+    "advice": "今天适合慢一点，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_319",
+    "weight": 1,
+    "image": "黄昏的窗 · 水纹",
+    "prophecy": "被压住的情绪会让黄昏的窗浮出水面。",
+    "keyword": "试探",
+    "advice": "把旧东西整理一下，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_320",
+    "weight": 1,
+    "image": "深井里的星星 · 薄雾",
+    "prophecy": "一场看似普通的对话会让深井里的星星露出边缘。",
+    "keyword": "缓行",
+    "advice": "把门虚掩着就好，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_321",
+    "weight": 1,
+    "image": "草叶上的露珠 · 琉璃",
+    "prophecy": "你以为没用的准备会让草叶上的露珠露出边缘。",
+    "keyword": "回信",
+    "advice": "给自己留半步余地，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_322",
+    "weight": 1,
+    "image": "沉睡的猫 · 水纹",
+    "prophecy": "你手边的旧物会让沉睡的猫浮出水面。",
+    "keyword": "抽离",
+    "advice": "顺着直觉检查一次，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_323",
+    "weight": 1,
+    "image": "银钥匙 · 微光",
+    "prophecy": "今天的小插曲会让银钥匙停在门口。",
+    "keyword": "归位",
+    "advice": "别把沉默当拒绝，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_324",
+    "weight": 1,
+    "image": "蓝色火苗 · 星尘",
+    "prophecy": "今天的小插曲会让蓝色火苗暂时隐藏。",
+    "keyword": "试探",
+    "advice": "别急着下结论，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_325",
+    "weight": 1,
+    "image": "雪地脚印 · 微光",
+    "prophecy": "刚刚错过的机会会让雪地脚印悄悄偏转。",
+    "keyword": "机会",
+    "advice": "先照顾好状态，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_326",
+    "weight": 1,
+    "image": "雾里的钟声 · 水纹",
+    "prophecy": "被压住的情绪会让雾里的钟声正在靠近。",
+    "keyword": "试探",
+    "advice": "给对方一点时间，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_327",
+    "weight": 1,
+    "image": "雪地脚印 · 薄雾",
+    "prophecy": "突然出现的灵感会让雪地脚印重新排列。",
+    "keyword": "暗示",
+    "advice": "把话说清楚一点，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_328",
+    "weight": 1,
+    "image": "空白信封 · 月影",
+    "prophecy": "你手边的旧物会让空白信封提醒你回头。",
+    "keyword": "交换",
+    "advice": "把重要信息记下来，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_329",
+    "weight": 1,
+    "image": "发光的尘埃 · 薄雾",
+    "prophecy": "临时改变的安排会让发光的尘埃等待回应。",
+    "keyword": "新芽",
+    "advice": "不要急着证明自己，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_330",
+    "weight": 1,
+    "image": "微亮的灯塔 · 远风",
+    "prophecy": "一句无心的话会让微亮的灯塔带来回声。",
+    "keyword": "小胜",
+    "advice": "让情绪先落地，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_331",
+    "weight": 1,
+    "image": "雪地脚印 · 晨霜",
+    "prophecy": "一段迟来的消息会让雪地脚印等待回应。",
+    "keyword": "停顿",
+    "advice": "给对方一点时间，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_332",
+    "weight": 1,
+    "image": "微亮的灯塔 · 晨霜",
+    "prophecy": "你以为没用的准备会让微亮的灯塔带来回声。",
+    "keyword": "试探",
+    "advice": "让情绪先落地，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_333",
+    "weight": 1,
+    "image": "远方的列车 · 星尘",
+    "prophecy": "突然出现的灵感会让远方的列车浮出水面。",
+    "keyword": "余温",
+    "advice": "别把沉默当拒绝，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_334",
+    "weight": 1,
+    "image": "远方的列车 · 回廊",
+    "prophecy": "临时改变的安排会让远方的列车慢慢醒来。",
+    "keyword": "守护",
+    "advice": "把门虚掩着就好，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_335",
+    "weight": 1,
+    "image": "透明羽毛 · 静夜",
+    "prophecy": "临时改变的安排会让透明羽毛绕过障碍。",
+    "keyword": "清醒",
+    "advice": "把复杂事拆小，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_336",
+    "weight": 1,
+    "image": "雾里的钟声 · 水纹",
+    "prophecy": "某个熟悉的地点会让雾里的钟声指向另一条路。",
+    "keyword": "确认",
+    "advice": "给对方一点时间，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_337",
+    "weight": 1,
+    "image": "深井里的星星 · 回廊",
+    "prophecy": "一句无心的话会让深井里的星星映出答案。",
+    "keyword": "守护",
+    "advice": "把重要信息记下来，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_338",
+    "weight": 1,
+    "image": "裂开的星盘 · 微光",
+    "prophecy": "一件未完成的事会让裂开的星盘映出答案。",
+    "keyword": "回信",
+    "advice": "让情绪先落地，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_339",
+    "weight": 1,
+    "image": "潮湿的纸页 · 晨霜",
+    "prophecy": "某个反复出现的念头会让潮湿的纸页替你守住机会。",
+    "keyword": "试探",
+    "advice": "让情绪先落地，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_340",
+    "weight": 1,
+    "image": "黄昏的窗 · 回廊",
+    "prophecy": "一次短暂的等待会让黄昏的窗把旧事送走。",
+    "keyword": "勇气",
+    "advice": "答应之前先想清楚，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_341",
+    "weight": 1,
+    "image": "被锁住的抽屉 · 远风",
+    "prophecy": "曾经绕远的路会让被锁住的抽屉指向另一条路。",
+    "keyword": "耐心",
+    "advice": "把复杂事拆小，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_342",
+    "weight": 1,
+    "image": "裂开的星盘 · 远风",
+    "prophecy": "临时改变的安排会让裂开的星盘露出边缘。",
+    "keyword": "抽离",
+    "advice": "顺着直觉检查一次，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_343",
+    "weight": 1,
+    "image": "石阶上的贝壳 · 晨霜",
+    "prophecy": "一段迟来的消息会让石阶上的贝壳替你守住机会。",
+    "keyword": "小胜",
+    "advice": "把门虚掩着就好，今天的运气偏向安静的人。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_344",
+    "weight": 1,
+    "image": "草叶上的露珠 · 月影",
+    "prophecy": "刚刚错过的机会会让草叶上的露珠将要打开。",
+    "keyword": "回信",
+    "advice": "今天适合慢一点，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_345",
+    "weight": 1,
+    "image": "雾里的钟声 · 水纹",
+    "prophecy": "被搁置的计划会让雾里的钟声露出边缘。",
+    "keyword": "边界",
+    "advice": "不要替别人猜答案，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_346",
+    "weight": 1,
+    "image": "未点燃的蜡烛 · 水纹",
+    "prophecy": "你不愿承认的期待会让未点燃的蜡烛正在退潮。",
+    "keyword": "余光",
+    "advice": "今天适合慢一点，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_347",
+    "weight": 1,
+    "image": "旋转的罗盘 · 晨霜",
+    "prophecy": "一句无心的话会让旋转的罗盘停在门口。",
+    "keyword": "转机",
+    "advice": "别把沉默当拒绝，你需要的是确认，不是硬撑。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_348",
+    "weight": 1,
+    "image": "石阶上的贝壳 · 月影",
+    "prophecy": "突然出现的灵感会让石阶上的贝壳替你守住机会。",
+    "keyword": "晴朗",
+    "advice": "让情绪先落地，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_349",
+    "weight": 1,
+    "image": "空白信封 · 远风",
+    "prophecy": "一次短暂的等待会让空白信封轻轻震动。",
+    "keyword": "守护",
+    "advice": "留意今天重复出现的东西，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_350",
+    "weight": 1,
+    "image": "树梢的蓝鸟 · 星尘",
+    "prophecy": "某个熟悉的地点会让树梢的蓝鸟浮出水面。",
+    "keyword": "靠近",
+    "advice": "别急着下结论，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_351",
+    "weight": 1,
+    "image": "水底的灯 · 回廊",
+    "prophecy": "你不愿承认的期待会让水底的灯正在靠近。",
+    "keyword": "抽离",
+    "advice": "先把手边的事做完，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_352",
+    "weight": 1,
+    "image": "深井里的星星 · 晨霜",
+    "prophecy": "你以为没用的准备会让深井里的星星慢慢醒来。",
+    "keyword": "回信",
+    "advice": "把话说清楚一点，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_353",
+    "weight": 1,
+    "image": "漂浮的纸船 · 静夜",
+    "prophecy": "一次短暂的等待会让漂浮的纸船露出边缘。",
+    "keyword": "余光",
+    "advice": "留意今天重复出现的东西，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_354",
+    "weight": 1,
+    "image": "漂浮的纸船 · 水纹",
+    "prophecy": "一句无心的话会让漂浮的纸船等待回应。",
+    "keyword": "回信",
+    "advice": "把话说清楚一点，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_355",
+    "weight": 1,
+    "image": "云后的太阳 · 静夜",
+    "prophecy": "身边安静的人会让云后的太阳浮出水面。",
+    "keyword": "交换",
+    "advice": "不要替别人猜答案，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_356",
+    "weight": 1,
+    "image": "沉睡的猫 · 回廊",
+    "prophecy": "你不愿承认的期待会让沉睡的猫提醒你回头。",
+    "keyword": "松动",
+    "advice": "今天适合慢一点，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_357",
+    "weight": 1,
+    "image": "石阶上的贝壳 · 远风",
+    "prophecy": "突然出现的灵感会让石阶上的贝壳带来回声。",
+    "keyword": "回信",
+    "advice": "先确认事实，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_358",
+    "weight": 1,
+    "image": "石阶上的贝壳 · 晨霜",
+    "prophecy": "一段迟来的消息会让石阶上的贝壳轻轻震动。",
+    "keyword": "抽离",
+    "advice": "暂时别硬碰硬，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_359",
+    "weight": 1,
+    "image": "远方的列车 · 微光",
+    "prophecy": "刚刚错过的机会会让远方的列车映出答案。",
+    "keyword": "暗示",
+    "advice": "给自己留半步余地，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_360",
+    "weight": 1,
+    "image": "草叶上的露珠 · 远风",
+    "prophecy": "某个熟悉的地点会让草叶上的露珠停在门口。",
+    "keyword": "停顿",
+    "advice": "让情绪先落地，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_361",
+    "weight": 1,
+    "image": "夜空裂缝 · 琉璃",
+    "prophecy": "一段迟来的消息会让夜空裂缝绕过障碍。",
+    "keyword": "转机",
+    "advice": "把复杂事拆小，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_362",
+    "weight": 1,
+    "image": "掌心的种子 · 琉璃",
+    "prophecy": "今天的小插曲会让掌心的种子正在退潮。",
+    "keyword": "抽离",
+    "advice": "今天适合慢一点，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_363",
+    "weight": 1,
+    "image": "裂开的星盘 · 薄雾",
+    "prophecy": "一场看似普通的对话会让裂开的星盘正在靠近。",
+    "keyword": "交换",
+    "advice": "把旧东西整理一下，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_364",
+    "weight": 1,
+    "image": "雾里的钟声 · 静夜",
+    "prophecy": "你不愿承认的期待会让雾里的钟声提醒你回头。",
+    "keyword": "转机",
+    "advice": "把旧东西整理一下，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_365",
+    "weight": 1,
+    "image": "裂开的星盘 · 晨霜",
+    "prophecy": "某个反复出现的念头会让裂开的星盘等待回应。",
+    "keyword": "守护",
+    "advice": "给对方一点时间，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_366",
+    "weight": 1,
+    "image": "雨后的台阶 · 晨霜",
+    "prophecy": "你手边的旧物会让雨后的台阶轻轻震动。",
+    "keyword": "试探",
+    "advice": "把话说清楚一点，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_367",
+    "weight": 1,
+    "image": "玻璃瓶里的风 · 晨霜",
+    "prophecy": "一段迟来的消息会让玻璃瓶里的风映出答案。",
+    "keyword": "交换",
+    "advice": "给自己留半步余地，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_368",
+    "weight": 1,
+    "image": "潮湿的纸页 · 静夜",
+    "prophecy": "临时改变的安排会让潮湿的纸页悄悄偏转。",
+    "keyword": "机会",
+    "advice": "给自己留半步余地，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_369",
+    "weight": 1,
+    "image": "银钥匙 · 水纹",
+    "prophecy": "一句无心的话会让银钥匙重新排列。",
+    "keyword": "勇气",
+    "advice": "顺着直觉检查一次，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_370",
+    "weight": 1,
+    "image": "金色细线 · 微光",
+    "prophecy": "被你忽略的细节会让金色细线映出答案。",
+    "keyword": "重启",
+    "advice": "顺着直觉检查一次，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_371",
+    "weight": 1,
+    "image": "旧地图 · 静夜",
+    "prophecy": "你手边的旧物会让旧地图露出边缘。",
+    "keyword": "余光",
+    "advice": "把旧东西整理一下，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_372",
+    "weight": 1,
+    "image": "掌心的种子 · 微光",
+    "prophecy": "被你忽略的细节会让掌心的种子慢慢醒来。",
+    "keyword": "耐心",
+    "advice": "把旧东西整理一下，今天的运气偏向安静的人。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_373",
+    "weight": 1,
+    "image": "空白信封 · 晨霜",
+    "prophecy": "某个反复出现的念头会让空白信封指向另一条路。",
+    "keyword": "整理",
+    "advice": "让情绪先落地，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_374",
+    "weight": 1,
+    "image": "远处的钟楼 · 月影",
+    "prophecy": "身边安静的人会让远处的钟楼提醒你回头。",
+    "keyword": "整理",
+    "advice": "把话说清楚一点，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_375",
+    "weight": 1,
+    "image": "草叶上的露珠 · 静夜",
+    "prophecy": "你不愿承认的期待会让草叶上的露珠带来回声。",
+    "keyword": "松动",
+    "advice": "答应之前先想清楚，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_376",
+    "weight": 1,
+    "image": "旧神社的檐铃 · 晨霜",
+    "prophecy": "突然出现的灵感会让旧神社的檐铃停在门口。",
+    "keyword": "晴朗",
+    "advice": "不要替别人猜答案，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_377",
+    "weight": 1,
+    "image": "雪地脚印 · 琉璃",
+    "prophecy": "某个反复出现的念头会让雪地脚印提醒你回头。",
+    "keyword": "确认",
+    "advice": "把复杂事拆小，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_378",
+    "weight": 1,
+    "image": "旋转的罗盘 · 琉璃",
+    "prophecy": "被搁置的计划会让旋转的罗盘等待回应。",
+    "keyword": "抽离",
+    "advice": "留意今天重复出现的东西，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_379",
+    "weight": 1,
+    "image": "静止的沙漏 · 回廊",
+    "prophecy": "身边安静的人会让静止的沙漏轻轻震动。",
+    "keyword": "回声",
+    "advice": "顺着直觉检查一次，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_380",
+    "weight": 1,
+    "image": "黄昏的窗 · 回廊",
+    "prophecy": "一件未完成的事会让黄昏的窗悄悄偏转。",
+    "keyword": "清醒",
+    "advice": "不要替别人猜答案，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_381",
+    "weight": 1,
+    "image": "微亮的灯塔 · 星尘",
+    "prophecy": "一句无心的话会让微亮的灯塔指向另一条路。",
+    "keyword": "缓行",
+    "advice": "先确认事实，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_382",
+    "weight": 1,
+    "image": "裂开的星盘 · 薄雾",
+    "prophecy": "一句无心的话会让裂开的星盘停在门口。",
+    "keyword": "整理",
+    "advice": "给对方一点时间，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_383",
+    "weight": 1,
+    "image": "沉睡的猫 · 琉璃",
+    "prophecy": "曾经绕远的路会让沉睡的猫轻轻震动。",
+    "keyword": "机会",
+    "advice": "给自己留半步余地，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_384",
+    "weight": 1,
+    "image": "雪地脚印 · 晨霜",
+    "prophecy": "一段迟来的消息会让雪地脚印慢慢醒来。",
+    "keyword": "交换",
+    "advice": "别急着下结论，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_385",
+    "weight": 1,
+    "image": "微亮的灯塔 · 回廊",
+    "prophecy": "一件未完成的事会让微亮的灯塔提醒你回头。",
+    "keyword": "回信",
+    "advice": "把话说清楚一点，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_386",
+    "weight": 1,
+    "image": "远处的钟楼 · 水纹",
+    "prophecy": "一件未完成的事会让远处的钟楼慢慢醒来。",
+    "keyword": "归位",
+    "advice": "把复杂事拆小，今天的运气偏向安静的人。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_387",
+    "weight": 1,
+    "image": "金色细线 · 回廊",
+    "prophecy": "被你忽略的细节会让金色细线正在退潮。",
+    "keyword": "归位",
+    "advice": "给自己留半步余地，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_388",
+    "weight": 1,
+    "image": "空白信封 · 薄雾",
+    "prophecy": "曾经绕远的路会让空白信封轻轻震动。",
+    "keyword": "暗示",
+    "advice": "先把手边的事做完，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_389",
+    "weight": 1,
+    "image": "微亮的灯塔 · 薄雾",
+    "prophecy": "某个熟悉的地点会让微亮的灯塔替你守住机会。",
+    "keyword": "余温",
+    "advice": "先确认事实，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_390",
+    "weight": 1,
+    "image": "透明羽毛 · 微光",
+    "prophecy": "身边安静的人会让透明羽毛带来回声。",
+    "keyword": "试探",
+    "advice": "把复杂事拆小，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_391",
+    "weight": 1,
+    "image": "掌心的种子 · 远风",
+    "prophecy": "某个熟悉的地点会让掌心的种子将要打开。",
+    "keyword": "停顿",
+    "advice": "把门虚掩着就好，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_392",
+    "weight": 1,
+    "image": "黄昏的窗 · 微光",
+    "prophecy": "突然出现的灵感会让黄昏的窗露出边缘。",
+    "keyword": "边界",
+    "advice": "不要替别人猜答案，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_393",
+    "weight": 1,
+    "image": "雾里的钟声 · 琉璃",
+    "prophecy": "被压住的情绪会让雾里的钟声把旧事送走。",
+    "keyword": "余温",
+    "advice": "让情绪先落地，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_394",
+    "weight": 1,
+    "image": "雾里的钟声 · 晨霜",
+    "prophecy": "你以为没用的准备会让雾里的钟声暂时隐藏。",
+    "keyword": "清醒",
+    "advice": "不要急着证明自己，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_395",
+    "weight": 1,
+    "image": "潮湿的纸页 · 晨霜",
+    "prophecy": "一件未完成的事会让潮湿的纸页正在靠近。",
+    "keyword": "重启",
+    "advice": "把话说清楚一点，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_396",
+    "weight": 1,
+    "image": "深井里的星星 · 琉璃",
+    "prophecy": "你不愿承认的期待会让深井里的星星提醒你回头。",
+    "keyword": "靠近",
+    "advice": "给自己留半步余地，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_397",
+    "weight": 1,
+    "image": "沉睡的猫 · 晨霜",
+    "prophecy": "曾经绕远的路会让沉睡的猫绕过障碍。",
+    "keyword": "守护",
+    "advice": "别急着下结论，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_398",
+    "weight": 1,
+    "image": "石阶上的贝壳 · 晨霜",
+    "prophecy": "临时改变的安排会让石阶上的贝壳露出边缘。",
+    "keyword": "边界",
+    "advice": "把话说清楚一点，今天的运气偏向安静的人。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_399",
+    "weight": 1,
+    "image": "夜空裂缝 · 薄雾",
+    "prophecy": "被你忽略的细节会让夜空裂缝重新排列。",
+    "keyword": "缓行",
+    "advice": "答应之前先想清楚，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_400",
+    "weight": 1,
+    "image": "琥珀色水滴 · 月影",
+    "prophecy": "身边安静的人会让琥珀色水滴把旧事送走。",
+    "keyword": "勇气",
+    "advice": "把旧东西整理一下，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_401",
+    "weight": 1,
+    "image": "蓝色火苗 · 薄雾",
+    "prophecy": "你以为没用的准备会让蓝色火苗露出边缘。",
+    "keyword": "小胜",
+    "advice": "把旧东西整理一下，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_402",
+    "weight": 1,
+    "image": "雨后的台阶 · 琉璃",
+    "prophecy": "一场看似普通的对话会让雨后的台阶映出答案。",
+    "keyword": "整理",
+    "advice": "给自己留半步余地，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_403",
+    "weight": 1,
+    "image": "玻璃瓶里的风 · 月影",
+    "prophecy": "某个反复出现的念头会让玻璃瓶里的风正在靠近。",
+    "keyword": "机会",
+    "advice": "今天适合慢一点，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_404",
+    "weight": 1,
+    "image": "裂开的星盘 · 星尘",
+    "prophecy": "被搁置的计划会让裂开的星盘绕过障碍。",
+    "keyword": "清醒",
+    "advice": "把话说清楚一点，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_405",
+    "weight": 1,
+    "image": "琥珀色水滴 · 远风",
+    "prophecy": "某个熟悉的地点会让琥珀色水滴将要打开。",
+    "keyword": "确认",
+    "advice": "先确认事实，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_406",
+    "weight": 1,
+    "image": "夜空裂缝 · 微光",
+    "prophecy": "曾经绕远的路会让夜空裂缝带来回声。",
+    "keyword": "松动",
+    "advice": "给自己留半步余地，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_407",
+    "weight": 1,
+    "image": "沉睡的猫 · 水纹",
+    "prophecy": "曾经绕远的路会让沉睡的猫暂时隐藏。",
+    "keyword": "回信",
+    "advice": "给自己留半步余地，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_408",
+    "weight": 1,
+    "image": "掌心的种子 · 远风",
+    "prophecy": "被压住的情绪会让掌心的种子带来回声。",
+    "keyword": "机会",
+    "advice": "先照顾好状态，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_409",
+    "weight": 1,
+    "image": "裂开的星盘 · 星尘",
+    "prophecy": "某个反复出现的念头会让裂开的星盘绕过障碍。",
+    "keyword": "交换",
+    "advice": "把门虚掩着就好，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_410",
+    "weight": 1,
+    "image": "夜空裂缝 · 水纹",
+    "prophecy": "今天的小插曲会让夜空裂缝提醒你回头。",
+    "keyword": "余光",
+    "advice": "先把手边的事做完，今天的运气偏向安静的人。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_411",
+    "weight": 1,
+    "image": "夜空裂缝 · 回廊",
+    "prophecy": "你以为没用的准备会让夜空裂缝将要打开。",
+    "keyword": "等待",
+    "advice": "不要替别人猜答案，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_412",
+    "weight": 1,
+    "image": "黄昏的窗 · 晨霜",
+    "prophecy": "一件未完成的事会让黄昏的窗替你守住机会。",
+    "keyword": "选择",
+    "advice": "给对方一点时间，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_413",
+    "weight": 1,
+    "image": "雾里的钟声 · 晨霜",
+    "prophecy": "一件未完成的事会让雾里的钟声把旧事送走。",
+    "keyword": "耐心",
+    "advice": "暂时别硬碰硬，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_414",
+    "weight": 1,
+    "image": "云后的太阳 · 静夜",
+    "prophecy": "某个熟悉的地点会让云后的太阳正在靠近。",
+    "keyword": "守护",
+    "advice": "留意今天重复出现的东西，你需要的是确认，不是硬撑。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_415",
+    "weight": 1,
+    "image": "石阶上的贝壳 · 回廊",
+    "prophecy": "突然出现的灵感会让石阶上的贝壳指向另一条路。",
+    "keyword": "清醒",
+    "advice": "把旧东西整理一下，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_416",
+    "weight": 1,
+    "image": "空白信封 · 水纹",
+    "prophecy": "一件未完成的事会让空白信封轻轻震动。",
+    "keyword": "重启",
+    "advice": "给对方一点时间，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_417",
+    "weight": 1,
+    "image": "裂开的星盘 · 晨霜",
+    "prophecy": "某个熟悉的地点会让裂开的星盘正在退潮。",
+    "keyword": "和解",
+    "advice": "把门虚掩着就好，今天的运气偏向安静的人。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_418",
+    "weight": 1,
+    "image": "白色鹿影 · 琉璃",
+    "prophecy": "今天的小插曲会让白色鹿影浮出水面。",
+    "keyword": "晴朗",
+    "advice": "留意今天重复出现的东西，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_419",
+    "weight": 1,
+    "image": "玻璃瓶里的风 · 星尘",
+    "prophecy": "被搁置的计划会让玻璃瓶里的风悄悄偏转。",
+    "keyword": "边界",
+    "advice": "不要急着证明自己，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_420",
+    "weight": 1,
+    "image": "玻璃瓶里的风 · 琉璃",
+    "prophecy": "你手边的旧物会让玻璃瓶里的风让迷雾变薄。",
+    "keyword": "暗示",
+    "advice": "把话说清楚一点，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_421",
+    "weight": 1,
+    "image": "远处的钟楼 · 月影",
+    "prophecy": "被搁置的计划会让远处的钟楼悄悄偏转。",
+    "keyword": "靠近",
+    "advice": "留意今天重复出现的东西，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_422",
+    "weight": 1,
+    "image": "空白信封 · 星尘",
+    "prophecy": "一场看似普通的对话会让空白信封等待回应。",
+    "keyword": "等待",
+    "advice": "暂时别硬碰硬，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_423",
+    "weight": 1,
+    "image": "旧地图 · 静夜",
+    "prophecy": "一场看似普通的对话会让旧地图暂时隐藏。",
+    "keyword": "边界",
+    "advice": "先照顾好状态，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_424",
+    "weight": 1,
+    "image": "云后的太阳 · 月影",
+    "prophecy": "一次短暂的等待会让云后的太阳慢慢醒来。",
+    "keyword": "边界",
+    "advice": "不要急着证明自己，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_425",
+    "weight": 1,
+    "image": "风中的铃铛 · 星尘",
+    "prophecy": "某个熟悉的地点会让风中的铃铛慢慢醒来。",
+    "keyword": "交换",
+    "advice": "暂时别硬碰硬，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_426",
+    "weight": 1,
+    "image": "漂浮的纸船 · 远风",
+    "prophecy": "你不愿承认的期待会让漂浮的纸船把旧事送走。",
+    "keyword": "等待",
+    "advice": "别急着下结论，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_427",
+    "weight": 1,
+    "image": "空白信封 · 微光",
+    "prophecy": "一段迟来的消息会让空白信封重新排列。",
+    "keyword": "选择",
+    "advice": "别把沉默当拒绝，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_428",
+    "weight": 1,
+    "image": "白色鹿影 · 水纹",
+    "prophecy": "被你忽略的细节会让白色鹿影让迷雾变薄。",
+    "keyword": "余温",
+    "advice": "不要替别人猜答案，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_429",
+    "weight": 1,
+    "image": "玻璃瓶里的风 · 微光",
+    "prophecy": "被搁置的计划会让玻璃瓶里的风重新排列。",
+    "keyword": "转机",
+    "advice": "答应之前先想清楚，转机藏在下一步里。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_430",
+    "weight": 1,
+    "image": "雪地脚印 · 回廊",
+    "prophecy": "一段迟来的消息会让雪地脚印映出答案。",
+    "keyword": "整理",
+    "advice": "把门虚掩着就好，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_431",
+    "weight": 1,
+    "image": "被锁住的抽屉 · 琉璃",
+    "prophecy": "你不愿承认的期待会让被锁住的抽屉暂时隐藏。",
+    "keyword": "耐心",
+    "advice": "给自己留半步余地，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_432",
+    "weight": 1,
+    "image": "旧地图 · 远风",
+    "prophecy": "一件未完成的事会让旧地图正在靠近。",
+    "keyword": "守护",
+    "advice": "把复杂事拆小，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_433",
+    "weight": 1,
+    "image": "沉睡的猫 · 微光",
+    "prophecy": "你不愿承认的期待会让沉睡的猫慢慢醒来。",
+    "keyword": "余光",
+    "advice": "答应之前先想清楚，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_434",
+    "weight": 1,
+    "image": "雨后的台阶 · 月影",
+    "prophecy": "一段迟来的消息会让雨后的台阶把旧事送走。",
+    "keyword": "守护",
+    "advice": "把话说清楚一点，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_435",
+    "weight": 1,
+    "image": "水底的灯 · 静夜",
+    "prophecy": "一段迟来的消息会让水底的灯停在门口。",
+    "keyword": "守护",
+    "advice": "先确认事实，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_436",
+    "weight": 1,
+    "image": "破碎的镜片 · 静夜",
+    "prophecy": "你不愿承认的期待会让破碎的镜片正在退潮。",
+    "keyword": "选择",
+    "advice": "不要急着证明自己，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_437",
+    "weight": 1,
+    "image": "旋转的罗盘 · 微光",
+    "prophecy": "一场看似普通的对话会让旋转的罗盘露出边缘。",
+    "keyword": "停顿",
+    "advice": "先把手边的事做完，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_438",
+    "weight": 1,
+    "image": "黑曜石门 · 星尘",
+    "prophecy": "身边安静的人会让黑曜石门浮出水面。",
+    "keyword": "松动",
+    "advice": "暂时别硬碰硬，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_439",
+    "weight": 1,
+    "image": "风中的铃铛 · 微光",
+    "prophecy": "身边安静的人会让风中的铃铛轻轻震动。",
+    "keyword": "新芽",
+    "advice": "别把沉默当拒绝，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_440",
+    "weight": 1,
+    "image": "空白信封 · 水纹",
+    "prophecy": "你以为没用的准备会让空白信封等待回应。",
+    "keyword": "机会",
+    "advice": "把旧东西整理一下，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_441",
+    "weight": 1,
+    "image": "蓝色火苗 · 琉璃",
+    "prophecy": "你手边的旧物会让蓝色火苗停在门口。",
+    "keyword": "边界",
+    "advice": "今天适合慢一点，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_442",
+    "weight": 1,
+    "image": "云后的太阳 · 回廊",
+    "prophecy": "正在收尾的问题会让云后的太阳让迷雾变薄。",
+    "keyword": "勇气",
+    "advice": "把话说清楚一点，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_443",
+    "weight": 1,
+    "image": "倒悬的月亮 · 月影",
+    "prophecy": "突然出现的灵感会让倒悬的月亮等待回应。",
+    "keyword": "整理",
+    "advice": "把旧东西整理一下，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_444",
+    "weight": 1,
+    "image": "远处的钟楼 · 薄雾",
+    "prophecy": "被压住的情绪会让远处的钟楼正在退潮。",
+    "keyword": "清醒",
+    "advice": "先把手边的事做完，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_445",
+    "weight": 1,
+    "image": "旧神社的檐铃 · 月影",
+    "prophecy": "突然出现的灵感会让旧神社的檐铃替你守住机会。",
+    "keyword": "新芽",
+    "advice": "把复杂事拆小，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_446",
+    "weight": 1,
+    "image": "掌心的种子 · 静夜",
+    "prophecy": "被你忽略的细节会让掌心的种子带来回声。",
+    "keyword": "松动",
+    "advice": "留意今天重复出现的东西，你需要的是确认，不是硬撑。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_447",
+    "weight": 1,
+    "image": "海面上的书 · 静夜",
+    "prophecy": "你不愿承认的期待会让海面上的书停在门口。",
+    "keyword": "余光",
+    "advice": "不要急着证明自己，有人正在等你的回应。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_448",
+    "weight": 1,
+    "image": "发光的尘埃 · 水纹",
+    "prophecy": "临时改变的安排会让发光的尘埃将要打开。",
+    "keyword": "新芽",
+    "advice": "把话说清楚一点，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_449",
+    "weight": 1,
+    "image": "风中的铃铛 · 星尘",
+    "prophecy": "曾经绕远的路会让风中的铃铛正在靠近。",
+    "keyword": "选择",
+    "advice": "暂时别硬碰硬，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_450",
+    "weight": 1,
+    "image": "雨后的台阶 · 静夜",
+    "prophecy": "一段迟来的消息会让雨后的台阶等待回应。",
+    "keyword": "抽离",
+    "advice": "暂时别硬碰硬，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_451",
+    "weight": 1,
+    "image": "黄昏的窗 · 星尘",
+    "prophecy": "突然出现的灵感会让黄昏的窗重新排列。",
+    "keyword": "等待",
+    "advice": "把复杂事拆小，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_452",
+    "weight": 1,
+    "image": "被锁住的抽屉 · 远风",
+    "prophecy": "一件未完成的事会让被锁住的抽屉绕过障碍。",
+    "keyword": "选择",
+    "advice": "让情绪先落地，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_453",
+    "weight": 1,
+    "image": "远处的钟楼 · 远风",
+    "prophecy": "你手边的旧物会让远处的钟楼正在靠近。",
+    "keyword": "回信",
+    "advice": "留意今天重复出现的东西，今天的运气偏向安静的人。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_454",
+    "weight": 1,
+    "image": "潮湿的纸页 · 晨霜",
+    "prophecy": "一场看似普通的对话会让潮湿的纸页重新排列。",
+    "keyword": "耐心",
+    "advice": "不要替别人猜答案，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_455",
+    "weight": 1,
+    "image": "结霜的玫瑰 · 月影",
+    "prophecy": "突然出现的灵感会让结霜的玫瑰映出答案。",
+    "keyword": "余温",
+    "advice": "给对方一点时间，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_456",
+    "weight": 1,
+    "image": "远处的钟楼 · 月影",
+    "prophecy": "被搁置的计划会让远处的钟楼将要打开。",
+    "keyword": "耐心",
+    "advice": "把旧东西整理一下，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_457",
+    "weight": 1,
+    "image": "黑曜石门 · 星尘",
+    "prophecy": "身边安静的人会让黑曜石门把旧事送走。",
+    "keyword": "守护",
+    "advice": "把旧东西整理一下，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_458",
+    "weight": 1,
+    "image": "空白信封 · 月影",
+    "prophecy": "被你忽略的细节会让空白信封暂时隐藏。",
+    "keyword": "耐心",
+    "advice": "先把手边的事做完，今天的运气偏向安静的人。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_459",
+    "weight": 1,
+    "image": "结霜的玫瑰 · 星尘",
+    "prophecy": "一段迟来的消息会让结霜的玫瑰带来回声。",
+    "keyword": "耐心",
+    "advice": "先把手边的事做完，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_460",
+    "weight": 1,
+    "image": "黑曜石门 · 星尘",
+    "prophecy": "一件未完成的事会让黑曜石门提醒你回头。",
+    "keyword": "确认",
+    "advice": "留意今天重复出现的东西，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_461",
+    "weight": 1,
+    "image": "云后的太阳 · 远风",
+    "prophecy": "正在收尾的问题会让云后的太阳慢慢醒来。",
+    "keyword": "勇气",
+    "advice": "把旧东西整理一下，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_462",
+    "weight": 1,
+    "image": "草叶上的露珠 · 月影",
+    "prophecy": "被压住的情绪会让草叶上的露珠带来回声。",
+    "keyword": "边界",
+    "advice": "先照顾好状态，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_463",
+    "weight": 1,
+    "image": "微亮的灯塔 · 薄雾",
+    "prophecy": "今天的小插曲会让微亮的灯塔慢慢醒来。",
+    "keyword": "清醒",
+    "advice": "顺着直觉检查一次，别让疲惫替你做决定。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_464",
+    "weight": 1,
+    "image": "树梢的蓝鸟 · 琉璃",
+    "prophecy": "被压住的情绪会让树梢的蓝鸟悄悄偏转。",
+    "keyword": "停顿",
+    "advice": "给对方一点时间，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_465",
+    "weight": 1,
+    "image": "树梢的蓝鸟 · 月影",
+    "prophecy": "一场看似普通的对话会让树梢的蓝鸟提醒你回头。",
+    "keyword": "清醒",
+    "advice": "把门虚掩着就好，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_466",
+    "weight": 1,
+    "image": "草叶上的露珠 · 月影",
+    "prophecy": "某个熟悉的地点会让草叶上的露珠轻轻震动。",
+    "keyword": "回信",
+    "advice": "把重要信息记下来，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_467",
+    "weight": 1,
+    "image": "潮湿的纸页 · 薄雾",
+    "prophecy": "某个反复出现的念头会让潮湿的纸页将要打开。",
+    "keyword": "暗示",
+    "advice": "答应之前先想清楚，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_468",
+    "weight": 1,
+    "image": "海面上的书 · 月影",
+    "prophecy": "突然出现的灵感会让海面上的书映出答案。",
+    "keyword": "和解",
+    "advice": "不要替别人猜答案，你需要的是确认，不是硬撑。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_469",
+    "weight": 1,
+    "image": "透明羽毛 · 水纹",
+    "prophecy": "今天的小插曲会让透明羽毛让迷雾变薄。",
+    "keyword": "新芽",
+    "advice": "先确认事实，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_470",
+    "weight": 1,
+    "image": "未点燃的蜡烛 · 琉璃",
+    "prophecy": "某个熟悉的地点会让未点燃的蜡烛映出答案。",
+    "keyword": "清醒",
+    "advice": "顺着直觉检查一次，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_471",
+    "weight": 1,
+    "image": "未点燃的蜡烛 · 晨霜",
+    "prophecy": "一次短暂的等待会让未点燃的蜡烛停在门口。",
+    "keyword": "暗示",
+    "advice": "给对方一点时间，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_472",
+    "weight": 1,
+    "image": "雨后的台阶 · 薄雾",
+    "prophecy": "一次短暂的等待会让雨后的台阶提醒你回头。",
+    "keyword": "提醒",
+    "advice": "答应之前先想清楚，小变化会比大动作更有效。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_473",
+    "weight": 1,
+    "image": "树梢的蓝鸟 · 月影",
+    "prophecy": "临时改变的安排会让树梢的蓝鸟正在靠近。",
+    "keyword": "勇气",
+    "advice": "把复杂事拆小，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_474",
+    "weight": 1,
+    "image": "银钥匙 · 远风",
+    "prophecy": "一句无心的话会让银钥匙让迷雾变薄。",
+    "keyword": "交换",
+    "advice": "留意今天重复出现的东西，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_475",
+    "weight": 1,
+    "image": "破碎的镜片 · 远风",
+    "prophecy": "曾经绕远的路会让破碎的镜片将要打开。",
+    "keyword": "暗示",
+    "advice": "别急着下结论，旧问题会松开一点。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_476",
+    "weight": 1,
+    "image": "银钥匙 · 水纹",
+    "prophecy": "今天的小插曲会让银钥匙重新排列。",
+    "keyword": "余光",
+    "advice": "暂时别硬碰硬，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_477",
+    "weight": 1,
+    "image": "金色细线 · 晨霜",
+    "prophecy": "被你忽略的细节会让金色细线让迷雾变薄。",
+    "keyword": "试探",
+    "advice": "把旧东西整理一下，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_478",
+    "weight": 1,
+    "image": "远处的钟楼 · 水纹",
+    "prophecy": "一句无心的话会让远处的钟楼将要打开。",
+    "keyword": "新芽",
+    "advice": "不要急着证明自己，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_479",
+    "weight": 1,
+    "image": "银钥匙 · 星尘",
+    "prophecy": "突然出现的灵感会让银钥匙替你守住机会。",
+    "keyword": "回声",
+    "advice": "给自己留半步余地，别让小事偷走好运。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_480",
+    "weight": 1,
+    "image": "深井里的星星 · 水纹",
+    "prophecy": "你不愿承认的期待会让深井里的星星等待回应。",
+    "keyword": "新芽",
+    "advice": "把重要信息记下来，光会从缝里进来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_481",
+    "weight": 1,
+    "image": "雪地脚印 · 远风",
+    "prophecy": "你手边的旧物会让雪地脚印浮出水面。",
+    "keyword": "守护",
+    "advice": "答应之前先想清楚，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_482",
+    "weight": 1,
+    "image": "破碎的镜片 · 薄雾",
+    "prophecy": "正在收尾的问题会让破碎的镜片绕过障碍。",
+    "keyword": "边界",
+    "advice": "给自己留半步余地，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_483",
+    "weight": 1,
+    "image": "结霜的玫瑰 · 回廊",
+    "prophecy": "一次短暂的等待会让结霜的玫瑰正在靠近。",
+    "keyword": "小胜",
+    "advice": "把门虚掩着就好，别错过那句轻轻的话。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_484",
+    "weight": 1,
+    "image": "水底的灯 · 月影",
+    "prophecy": "你手边的旧物会让水底的灯慢慢醒来。",
+    "keyword": "重启",
+    "advice": "先照顾好状态，绕路也会抵达。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_485",
+    "weight": 1,
+    "image": "玻璃瓶里的风 · 水纹",
+    "prophecy": "你手边的旧物会让玻璃瓶里的风带来回声。",
+    "keyword": "耐心",
+    "advice": "把话说清楚一点，答案会自己浮上来。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_486",
+    "weight": 1,
+    "image": "水底的灯 · 水纹",
+    "prophecy": "你以为没用的准备会让水底的灯将要打开。",
+    "keyword": "晴朗",
+    "advice": "把重要信息记下来，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_487",
+    "weight": 1,
+    "image": "发光的尘埃 · 水纹",
+    "prophecy": "一场看似普通的对话会让发光的尘埃将要打开。",
+    "keyword": "整理",
+    "advice": "把门虚掩着就好，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_488",
+    "weight": 1,
+    "image": "琥珀色水滴 · 薄雾",
+    "prophecy": "一句无心的话会让琥珀色水滴正在靠近。",
+    "keyword": "回声",
+    "advice": "先把手边的事做完，那不是结束，只是换路。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_489",
+    "weight": 1,
+    "image": "被锁住的抽屉 · 薄雾",
+    "prophecy": "你手边的旧物会让被锁住的抽屉浮出水面。",
+    "keyword": "选择",
+    "advice": "给自己留半步余地，你会看见真正的方向。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_490",
+    "weight": 1,
+    "image": "琥珀色水滴 · 水纹",
+    "prophecy": "突然出现的灵感会让琥珀色水滴提醒你回头。",
+    "keyword": "清醒",
+    "advice": "给自己留半步余地，你需要的是确认，不是硬撑。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_491",
+    "weight": 1,
+    "image": "深井里的星星 · 月影",
+    "prophecy": "某个熟悉的地点会让深井里的星星等待回应。",
+    "keyword": "试探",
+    "advice": "暂时别硬碰硬，新的线索会出现。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_492",
+    "weight": 1,
+    "image": "掌心的种子 · 微光",
+    "prophecy": "你不愿承认的期待会让掌心的种子等待回应。",
+    "keyword": "耐心",
+    "advice": "不要急着证明自己，先稳住，事情会变清楚。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_493",
+    "weight": 1,
+    "image": "旧地图 · 星尘",
+    "prophecy": "刚刚错过的机会会让旧地图暂时隐藏。",
+    "keyword": "清醒",
+    "advice": "把旧东西整理一下，有些门不会响，但已经开了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_494",
+    "weight": 1,
+    "image": "金色细线 · 远风",
+    "prophecy": "身边安静的人会让金色细线暂时隐藏。",
+    "keyword": "清醒",
+    "advice": "留意今天重复出现的东西，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_495",
+    "weight": 1,
+    "image": "漂浮的纸船 · 星尘",
+    "prophecy": "一次短暂的等待会让漂浮的纸船慢慢醒来。",
+    "keyword": "余温",
+    "advice": "不要急着证明自己，沉住气会赢。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_496",
+    "weight": 1,
+    "image": "空白信封 · 晨霜",
+    "prophecy": "今天的小插曲会让空白信封悄悄偏转。",
+    "keyword": "试探",
+    "advice": "把门虚掩着就好，你会比想象中更顺。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_497",
+    "weight": 1,
+    "image": "倒悬的月亮 · 回廊",
+    "prophecy": "某个反复出现的念头会让倒悬的月亮映出答案。",
+    "keyword": "交换",
+    "advice": "让情绪先落地，你需要的是确认，不是硬撑。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_498",
+    "weight": 1,
+    "image": "雪地脚印 · 琉璃",
+    "prophecy": "被压住的情绪会让雪地脚印指向另一条路。",
+    "keyword": "归位",
+    "advice": "别把沉默当拒绝，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_499",
+    "weight": 1,
+    "image": "雨后的台阶 · 水纹",
+    "prophecy": "今天的小插曲会让雨后的台阶浮出水面。",
+    "keyword": "机会",
+    "advice": "先照顾好状态，把心收回来，机会就近了。",
+    "style": "default"
+  },
+  {
+    "id": "crystal_500",
+    "weight": 1,
+    "image": "银钥匙 · 远风",
+    "prophecy": "一句无心的话会让银钥匙停在门口。",
+    "keyword": "提醒",
+    "advice": "不要急着证明自己，你需要的是确认，不是硬撑。",
+    "style": "default"
+  }
+]

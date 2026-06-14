@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "tarot_major_01_upright",
+    "weight": 1,
+    "card": "愚者",
+    "orientation": "正位",
+    "insight": "新的路正在脚边展开，适合轻装上阵。",
+    "advice": "先迈出一步，别急着把全部答案想完。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_01_reversed",
+    "weight": 1,
+    "card": "愚者",
+    "orientation": "逆位",
+    "insight": "冲动容易把自由变成迷路，别把风险当浪漫。",
+    "advice": "出发前检查底线，重要决定别只凭一时兴起。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_02_upright",
+    "weight": 1,
+    "card": "魔术师",
+    "orientation": "正位",
+    "insight": "资源已经在手边，关键是把想法落到行动。",
+    "advice": "把工具、时间和人脉整理好，今天适合启动。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_02_reversed",
+    "weight": 1,
+    "card": "魔术师",
+    "orientation": "逆位",
+    "insight": "想法很多却容易分散，承诺别说得太满。",
+    "advice": "先完成一个小闭环，再谈更大的计划。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_03_upright",
+    "weight": 1,
+    "card": "女祭司",
+    "orientation": "正位",
+    "insight": "答案藏在安静处，直觉比热闹更可靠。",
+    "advice": "减少外界噪音，给自己一点观察时间。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_03_reversed",
+    "weight": 1,
+    "card": "女祭司",
+    "orientation": "逆位",
+    "insight": "信息被遮住或你在回避真相，别急着下判断。",
+    "advice": "把疑点写下来，等证据浮出水面。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_04_upright",
+    "weight": 1,
+    "card": "女皇",
+    "orientation": "正位",
+    "insight": "滋养、创作和关系会带来温柔回报。",
+    "advice": "好好吃饭，好好表达，照顾正在成长的事。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_04_reversed",
+    "weight": 1,
+    "card": "女皇",
+    "orientation": "逆位",
+    "insight": "过度纵容会让事情失去边界。",
+    "advice": "把善意留给值得的人，也给自己留余地。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_05_upright",
+    "weight": 1,
+    "card": "皇帝",
+    "orientation": "正位",
+    "insight": "秩序和规则能帮你稳住局面。",
+    "advice": "今天适合定计划、划边界、做决策。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_05_reversed",
+    "weight": 1,
+    "card": "皇帝",
+    "orientation": "逆位",
+    "insight": "控制欲过强会让沟通变硬。",
+    "advice": "少命令，多说明规则背后的原因。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_06_upright",
+    "weight": 1,
+    "card": "教皇",
+    "orientation": "正位",
+    "insight": "经验、传统或可靠的人能给你指引。",
+    "advice": "遇事先问流程，别一个人硬闯。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_06_reversed",
+    "weight": 1,
+    "card": "教皇",
+    "orientation": "逆位",
+    "insight": "旧规则可能不合时宜，照本宣科会卡住。",
+    "advice": "尊重经验，但也要留一点调整空间。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_07_upright",
+    "weight": 1,
+    "card": "恋人",
+    "orientation": "正位",
+    "insight": "选择与连接是今天的主题，真诚会打开门。",
+    "advice": "把话说清楚，别让暧昧替你做决定。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_07_reversed",
+    "weight": 1,
+    "card": "恋人",
+    "orientation": "逆位",
+    "insight": "逃避选择会让两边都消耗。",
+    "advice": "先确认自己的心意，再回应别人的期待。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_08_upright",
+    "weight": 1,
+    "card": "战车",
+    "orientation": "正位",
+    "insight": "目标明确时，你能把混乱推向前进。",
+    "advice": "集中火力处理最重要的一件事。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_08_reversed",
+    "weight": 1,
+    "card": "战车",
+    "orientation": "逆位",
+    "insight": "蛮冲会让方向跑偏，胜负心别太重。",
+    "advice": "停一下校准路线，再继续加速。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_09_upright",
+    "weight": 1,
+    "card": "力量",
+    "orientation": "正位",
+    "insight": "温柔的坚持比硬碰硬更有力量。",
+    "advice": "用耐心驯服情绪，别急着证明自己。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_09_reversed",
+    "weight": 1,
+    "card": "力量",
+    "orientation": "逆位",
+    "insight": "疲惫或压抑让你容易失控。",
+    "advice": "先恢复体力，再处理难缠的人和事。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_10_upright",
+    "weight": 1,
+    "card": "隐者",
+    "orientation": "正位",
+    "insight": "答案需要独处和深入思考。",
+    "advice": "今天适合复盘、学习、整理长期问题。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_10_reversed",
+    "weight": 1,
+    "card": "隐者",
+    "orientation": "逆位",
+    "insight": "孤立太久会让你看不见帮助。",
+    "advice": "该求助时别逞强，把灯举给别人看。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_11_upright",
+    "weight": 1,
+    "card": "命运之轮",
+    "orientation": "正位",
+    "insight": "变化正在转动，机会可能突然出现。",
+    "advice": "顺势调整，不必死守原计划。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_11_reversed",
+    "weight": 1,
+    "card": "命运之轮",
+    "orientation": "逆位",
+    "insight": "起伏让人不安，别把偶然当成定局。",
+    "advice": "先稳住节奏，等局面转清。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_12_upright",
+    "weight": 1,
+    "card": "正义",
+    "orientation": "正位",
+    "insight": "公平、证据和责任会成为关键。",
+    "advice": "把账目、约定和边界说清楚。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_12_reversed",
+    "weight": 1,
+    "card": "正义",
+    "orientation": "逆位",
+    "insight": "偏见或遗漏会影响判断。",
+    "advice": "确认事实，再下结论。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_13_upright",
+    "weight": 1,
+    "card": "倒吊人",
+    "orientation": "正位",
+    "insight": "暂时停住不是失败，是换角度。",
+    "advice": "别急着推进，先看清牺牲值不值得。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_13_reversed",
+    "weight": 1,
+    "card": "倒吊人",
+    "orientation": "逆位",
+    "insight": "拖延可能披着等待的外衣。",
+    "advice": "给自己一个明确期限，别无限悬着。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_14_upright",
+    "weight": 1,
+    "card": "死神",
+    "orientation": "正位",
+    "insight": "旧阶段结束，新空间会随之出现。",
+    "advice": "清理不再适合的人、事、习惯。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_14_reversed",
+    "weight": 1,
+    "card": "死神",
+    "orientation": "逆位",
+    "insight": "抗拒改变会让痛苦变长。",
+    "advice": "先放下一点，别抱着旧壳过冬。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_15_upright",
+    "weight": 1,
+    "card": "节制",
+    "orientation": "正位",
+    "insight": "平衡和调和会让事情慢慢变好。",
+    "advice": "把节奏放匀，别一下用力过猛。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_15_reversed",
+    "weight": 1,
+    "card": "节制",
+    "orientation": "逆位",
+    "insight": "冷热失衡，容易顾此失彼。",
+    "advice": "减少极端做法，先找中间方案。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_16_upright",
+    "weight": 1,
+    "card": "恶魔",
+    "orientation": "正位",
+    "insight": "欲望、执念或依赖正在显形。",
+    "advice": "看清自己被什么牵着走。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_16_reversed",
+    "weight": 1,
+    "card": "恶魔",
+    "orientation": "逆位",
+    "insight": "束缚感减弱，适合摆脱旧诱惑。",
+    "advice": "趁清醒做切割，别回头讨价还价。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_17_upright",
+    "weight": 1,
+    "card": "高塔",
+    "orientation": "正位",
+    "insight": "突发变化会拆掉不稳的结构。",
+    "advice": "别急着补墙，先看哪里本来就该重建。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_17_reversed",
+    "weight": 1,
+    "card": "高塔",
+    "orientation": "逆位",
+    "insight": "危机被压住但没消失。",
+    "advice": "提前排雷，别等它自己炸开。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_18_upright",
+    "weight": 1,
+    "card": "星星",
+    "orientation": "正位",
+    "insight": "希望在恢复，温柔的光会慢慢回来。",
+    "advice": "做一点能让自己重新相信的事。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_18_reversed",
+    "weight": 1,
+    "card": "星星",
+    "orientation": "逆位",
+    "insight": "期待过高会带来失落。",
+    "advice": "把愿望拆小，先实现最近的一步。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_19_upright",
+    "weight": 1,
+    "card": "月亮",
+    "orientation": "正位",
+    "insight": "迷雾、梦境和不安会影响判断。",
+    "advice": "今天别被情绪牵着跑，重要事多确认。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_19_reversed",
+    "weight": 1,
+    "card": "月亮",
+    "orientation": "逆位",
+    "insight": "误会开始散去，真相露出边缘。",
+    "advice": "顺着线索查，不要靠猜。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_20_upright",
+    "weight": 1,
+    "card": "太阳",
+    "orientation": "正位",
+    "insight": "清晰、活力和好消息正在靠近。",
+    "advice": "把成果展示出来，别藏着发光。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_20_reversed",
+    "weight": 1,
+    "card": "太阳",
+    "orientation": "逆位",
+    "insight": "快乐被消耗，可能有点勉强自己。",
+    "advice": "先补能量，再谈表现。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_21_upright",
+    "weight": 1,
+    "card": "审判",
+    "orientation": "正位",
+    "insight": "复盘与回应会带来新的阶段。",
+    "advice": "该面对的事别再拖，给过去一个结论。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_21_reversed",
+    "weight": 1,
+    "card": "审判",
+    "orientation": "逆位",
+    "insight": "自责或逃避会卡住重启。",
+    "advice": "承认问题，然后把下一步写清楚。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_22_upright",
+    "weight": 1,
+    "card": "世界",
+    "orientation": "正位",
+    "insight": "一个阶段趋于完整，收获正在闭环。",
+    "advice": "适合总结、交付、庆祝小胜利。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_major_22_reversed",
+    "weight": 1,
+    "card": "世界",
+    "orientation": "逆位",
+    "insight": "临门一脚容易松劲。",
+    "advice": "把最后的细节补完，再说结束。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_001_upright",
+    "weight": 1,
+    "card": "权杖一",
+    "orientation": "正位",
+    "insight": "行动层面里，新的开始正在出现，热情正在给你推力。",
+    "advice": "先抓住最小的入口，把注意力放在目标上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_001_reversed",
+    "weight": 1,
+    "card": "权杖一",
+    "orientation": "逆位",
+    "insight": "行动层面里，起步不稳或动力分散，节奏可能成了阻力。",
+    "advice": "别急，先把第一步做实，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_002_upright",
+    "weight": 1,
+    "card": "权杖二",
+    "orientation": "正位",
+    "insight": "行动层面里，选择与平衡成为重点，热情正在给你推力。",
+    "advice": "比较选项时别忘了初心，把注意力放在目标上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_002_reversed",
+    "weight": 1,
+    "card": "权杖二",
+    "orientation": "逆位",
+    "insight": "行动层面里，犹豫会拖慢节奏，节奏可能成了阻力。",
+    "advice": "给选择设一个截止点，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_003_upright",
+    "weight": 1,
+    "card": "权杖三",
+    "orientation": "正位",
+    "insight": "行动层面里，合作或初步成果可见，热情正在给你推力。",
+    "advice": "把想法拿出来交流，把注意力放在目标上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_003_reversed",
+    "weight": 1,
+    "card": "权杖三",
+    "orientation": "逆位",
+    "insight": "行动层面里，配合不顺或成果虚浮，节奏可能成了阻力。",
+    "advice": "先对齐目标再推进，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_004_upright",
+    "weight": 1,
+    "card": "权杖四",
+    "orientation": "正位",
+    "insight": "行动层面里，结构和安全感正在形成，热情正在给你推力。",
+    "advice": "守住基本盘，别贪快，把注意力放在目标上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_004_reversed",
+    "weight": 1,
+    "card": "权杖四",
+    "orientation": "逆位",
+    "insight": "行动层面里，停滞感变强，容易封闭，节奏可能成了阻力。",
+    "advice": "给稳定里加一点变化，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_005_upright",
+    "weight": 1,
+    "card": "权杖五",
+    "orientation": "正位",
+    "insight": "行动层面里，摩擦会暴露真正的问题，热情正在给你推力。",
+    "advice": "别怕冲突，抓住核心矛盾，把注意力放在目标上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_005_reversed",
+    "weight": 1,
+    "card": "权杖五",
+    "orientation": "逆位",
+    "insight": "行动层面里，争执退潮但余波还在，节奏可能成了阻力。",
+    "advice": "先修关系，再谈胜负，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_006_upright",
+    "weight": 1,
+    "card": "权杖六",
+    "orientation": "正位",
+    "insight": "行动层面里，支持、回馈或阶段性顺风，热情正在给你推力。",
+    "advice": "接受善意，也把善意传出去，把注意力放在目标上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_006_reversed",
+    "weight": 1,
+    "card": "权杖六",
+    "orientation": "逆位",
+    "insight": "行动层面里，旧事牵绊或回报迟缓，节奏可能成了阻力。",
+    "advice": "别让过去替现在做决定，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_007_upright",
+    "weight": 1,
+    "card": "权杖七",
+    "orientation": "正位",
+    "insight": "行动层面里，考验需要策略和耐心，热情正在给你推力。",
+    "advice": "守住立场，别被杂音带偏，把注意力放在目标上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_007_reversed",
+    "weight": 1,
+    "card": "权杖七",
+    "orientation": "逆位",
+    "insight": "行动层面里，防线松动或判断疲惫，节奏可能成了阻力。",
+    "advice": "少硬撑，换一种打法，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_008_upright",
+    "weight": 1,
+    "card": "权杖八",
+    "orientation": "正位",
+    "insight": "行动层面里，速度、执行和调整会加快，热情正在给你推力。",
+    "advice": "趁状态在，处理积压事项，把注意力放在目标上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_008_reversed",
+    "weight": 1,
+    "card": "权杖八",
+    "orientation": "逆位",
+    "insight": "行动层面里，节奏堵住，消息可能延迟，节奏可能成了阻力。",
+    "advice": "先疏通阻塞点，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_009_upright",
+    "weight": 1,
+    "card": "权杖九",
+    "orientation": "正位",
+    "insight": "行动层面里，临近完成，但还需要坚持，热情正在给你推力。",
+    "advice": "保护好成果，别最后松手，把注意力放在目标上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_009_reversed",
+    "weight": 1,
+    "card": "权杖九",
+    "orientation": "逆位",
+    "insight": "行动层面里，疲惫感明显，防备过度，节奏可能成了阻力。",
+    "advice": "休息不是认输，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_010_upright",
+    "weight": 1,
+    "card": "权杖十",
+    "orientation": "正位",
+    "insight": "行动层面里，结果或压力都来到高点，热情正在给你推力。",
+    "advice": "收尾、交接，别把所有事扛身上，把注意力放在目标上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_010_reversed",
+    "weight": 1,
+    "card": "权杖十",
+    "orientation": "逆位",
+    "insight": "行动层面里，负担有机会卸下，节奏可能成了阻力。",
+    "advice": "把责任分出去一点，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_011_upright",
+    "weight": 1,
+    "card": "权杖侍从",
+    "orientation": "正位",
+    "insight": "行动层面里，新消息、新学习或新尝试，热情正在给你推力。",
+    "advice": "保持好奇，认真记录线索，把注意力放在目标上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_011_reversed",
+    "weight": 1,
+    "card": "权杖侍从",
+    "orientation": "逆位",
+    "insight": "行动层面里，经验不足容易误判，节奏可能成了阻力。",
+    "advice": "先学习规则再上场，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_012_upright",
+    "weight": 1,
+    "card": "权杖骑士",
+    "orientation": "正位",
+    "insight": "行动层面里，行动力增强，事情开始推进，热情正在给你推力。",
+    "advice": "勇敢推进，但记得看路，把注意力放在目标上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_012_reversed",
+    "weight": 1,
+    "card": "权杖骑士",
+    "orientation": "逆位",
+    "insight": "行动层面里，急躁或方向不稳，节奏可能成了阻力。",
+    "advice": "把速度降到可控范围，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_013_upright",
+    "weight": 1,
+    "card": "权杖皇后",
+    "orientation": "正位",
+    "insight": "行动层面里，成熟的滋养与照顾出现，热情正在给你推力。",
+    "advice": "用稳定方式支持自己和他人，把注意力放在目标上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_013_reversed",
+    "weight": 1,
+    "card": "权杖皇后",
+    "orientation": "逆位",
+    "insight": "行动层面里，过度照顾会消耗自己，节奏可能成了阻力。",
+    "advice": "把温柔也分给自己，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_014_upright",
+    "weight": 1,
+    "card": "权杖国王",
+    "orientation": "正位",
+    "insight": "行动层面里，掌控力、责任和判断成熟，热情正在给你推力。",
+    "advice": "拿出主心骨，做清晰决定，把注意力放在目标上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_014_reversed",
+    "weight": 1,
+    "card": "权杖国王",
+    "orientation": "逆位",
+    "insight": "行动层面里，权威感过强或固执，节奏可能成了阻力。",
+    "advice": "听完意见再拍板，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_015_upright",
+    "weight": 1,
+    "card": "圣杯一",
+    "orientation": "正位",
+    "insight": "情绪层面里，新的开始正在出现，关系正在给你推力。",
+    "advice": "先抓住最小的入口，把注意力放在感受上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_015_reversed",
+    "weight": 1,
+    "card": "圣杯一",
+    "orientation": "逆位",
+    "insight": "情绪层面里，起步不稳或动力分散，回应可能成了阻力。",
+    "advice": "别急，先把第一步做实，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_016_upright",
+    "weight": 1,
+    "card": "圣杯二",
+    "orientation": "正位",
+    "insight": "情绪层面里，选择与平衡成为重点，关系正在给你推力。",
+    "advice": "比较选项时别忘了初心，把注意力放在感受上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_016_reversed",
+    "weight": 1,
+    "card": "圣杯二",
+    "orientation": "逆位",
+    "insight": "情绪层面里，犹豫会拖慢节奏，回应可能成了阻力。",
+    "advice": "给选择设一个截止点，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_017_upright",
+    "weight": 1,
+    "card": "圣杯三",
+    "orientation": "正位",
+    "insight": "情绪层面里，合作或初步成果可见，关系正在给你推力。",
+    "advice": "把想法拿出来交流，把注意力放在感受上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_017_reversed",
+    "weight": 1,
+    "card": "圣杯三",
+    "orientation": "逆位",
+    "insight": "情绪层面里，配合不顺或成果虚浮，回应可能成了阻力。",
+    "advice": "先对齐目标再推进，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_018_upright",
+    "weight": 1,
+    "card": "圣杯四",
+    "orientation": "正位",
+    "insight": "情绪层面里，结构和安全感正在形成，关系正在给你推力。",
+    "advice": "守住基本盘，别贪快，把注意力放在感受上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_018_reversed",
+    "weight": 1,
+    "card": "圣杯四",
+    "orientation": "逆位",
+    "insight": "情绪层面里，停滞感变强，容易封闭，回应可能成了阻力。",
+    "advice": "给稳定里加一点变化，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_019_upright",
+    "weight": 1,
+    "card": "圣杯五",
+    "orientation": "正位",
+    "insight": "情绪层面里，摩擦会暴露真正的问题，关系正在给你推力。",
+    "advice": "别怕冲突，抓住核心矛盾，把注意力放在感受上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_019_reversed",
+    "weight": 1,
+    "card": "圣杯五",
+    "orientation": "逆位",
+    "insight": "情绪层面里，争执退潮但余波还在，回应可能成了阻力。",
+    "advice": "先修关系，再谈胜负，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_020_upright",
+    "weight": 1,
+    "card": "圣杯六",
+    "orientation": "正位",
+    "insight": "情绪层面里，支持、回馈或阶段性顺风，关系正在给你推力。",
+    "advice": "接受善意，也把善意传出去，把注意力放在感受上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_020_reversed",
+    "weight": 1,
+    "card": "圣杯六",
+    "orientation": "逆位",
+    "insight": "情绪层面里，旧事牵绊或回报迟缓，回应可能成了阻力。",
+    "advice": "别让过去替现在做决定，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_021_upright",
+    "weight": 1,
+    "card": "圣杯七",
+    "orientation": "正位",
+    "insight": "情绪层面里，考验需要策略和耐心，关系正在给你推力。",
+    "advice": "守住立场，别被杂音带偏，把注意力放在感受上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_021_reversed",
+    "weight": 1,
+    "card": "圣杯七",
+    "orientation": "逆位",
+    "insight": "情绪层面里，防线松动或判断疲惫，回应可能成了阻力。",
+    "advice": "少硬撑，换一种打法，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_022_upright",
+    "weight": 1,
+    "card": "圣杯八",
+    "orientation": "正位",
+    "insight": "情绪层面里，速度、执行和调整会加快，关系正在给你推力。",
+    "advice": "趁状态在，处理积压事项，把注意力放在感受上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_022_reversed",
+    "weight": 1,
+    "card": "圣杯八",
+    "orientation": "逆位",
+    "insight": "情绪层面里，节奏堵住，消息可能延迟，回应可能成了阻力。",
+    "advice": "先疏通阻塞点，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_023_upright",
+    "weight": 1,
+    "card": "圣杯九",
+    "orientation": "正位",
+    "insight": "情绪层面里，临近完成，但还需要坚持，关系正在给你推力。",
+    "advice": "保护好成果，别最后松手，把注意力放在感受上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_023_reversed",
+    "weight": 1,
+    "card": "圣杯九",
+    "orientation": "逆位",
+    "insight": "情绪层面里，疲惫感明显，防备过度，回应可能成了阻力。",
+    "advice": "休息不是认输，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_024_upright",
+    "weight": 1,
+    "card": "圣杯十",
+    "orientation": "正位",
+    "insight": "情绪层面里，结果或压力都来到高点，关系正在给你推力。",
+    "advice": "收尾、交接，别把所有事扛身上，把注意力放在感受上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_024_reversed",
+    "weight": 1,
+    "card": "圣杯十",
+    "orientation": "逆位",
+    "insight": "情绪层面里，负担有机会卸下，回应可能成了阻力。",
+    "advice": "把责任分出去一点，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_025_upright",
+    "weight": 1,
+    "card": "圣杯侍从",
+    "orientation": "正位",
+    "insight": "情绪层面里，新消息、新学习或新尝试，关系正在给你推力。",
+    "advice": "保持好奇，认真记录线索，把注意力放在感受上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_025_reversed",
+    "weight": 1,
+    "card": "圣杯侍从",
+    "orientation": "逆位",
+    "insight": "情绪层面里，经验不足容易误判，回应可能成了阻力。",
+    "advice": "先学习规则再上场，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_026_upright",
+    "weight": 1,
+    "card": "圣杯骑士",
+    "orientation": "正位",
+    "insight": "情绪层面里，行动力增强，事情开始推进，关系正在给你推力。",
+    "advice": "勇敢推进，但记得看路，把注意力放在感受上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_026_reversed",
+    "weight": 1,
+    "card": "圣杯骑士",
+    "orientation": "逆位",
+    "insight": "情绪层面里，急躁或方向不稳，回应可能成了阻力。",
+    "advice": "把速度降到可控范围，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_027_upright",
+    "weight": 1,
+    "card": "圣杯皇后",
+    "orientation": "正位",
+    "insight": "情绪层面里，成熟的滋养与照顾出现，关系正在给你推力。",
+    "advice": "用稳定方式支持自己和他人，把注意力放在感受上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_027_reversed",
+    "weight": 1,
+    "card": "圣杯皇后",
+    "orientation": "逆位",
+    "insight": "情绪层面里，过度照顾会消耗自己，回应可能成了阻力。",
+    "advice": "把温柔也分给自己，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_028_upright",
+    "weight": 1,
+    "card": "圣杯国王",
+    "orientation": "正位",
+    "insight": "情绪层面里，掌控力、责任和判断成熟，关系正在给你推力。",
+    "advice": "拿出主心骨，做清晰决定，把注意力放在感受上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_028_reversed",
+    "weight": 1,
+    "card": "圣杯国王",
+    "orientation": "逆位",
+    "insight": "情绪层面里，权威感过强或固执，回应可能成了阻力。",
+    "advice": "听完意见再拍板，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_029_upright",
+    "weight": 1,
+    "card": "宝剑一",
+    "orientation": "正位",
+    "insight": "思考层面里，新的开始正在出现，沟通正在给你推力。",
+    "advice": "先抓住最小的入口，把注意力放在判断上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_029_reversed",
+    "weight": 1,
+    "card": "宝剑一",
+    "orientation": "逆位",
+    "insight": "思考层面里，起步不稳或动力分散，压力可能成了阻力。",
+    "advice": "别急，先把第一步做实，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_030_upright",
+    "weight": 1,
+    "card": "宝剑二",
+    "orientation": "正位",
+    "insight": "思考层面里，选择与平衡成为重点，沟通正在给你推力。",
+    "advice": "比较选项时别忘了初心，把注意力放在判断上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_030_reversed",
+    "weight": 1,
+    "card": "宝剑二",
+    "orientation": "逆位",
+    "insight": "思考层面里，犹豫会拖慢节奏，压力可能成了阻力。",
+    "advice": "给选择设一个截止点，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_031_upright",
+    "weight": 1,
+    "card": "宝剑三",
+    "orientation": "正位",
+    "insight": "思考层面里，合作或初步成果可见，沟通正在给你推力。",
+    "advice": "把想法拿出来交流，把注意力放在判断上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_031_reversed",
+    "weight": 1,
+    "card": "宝剑三",
+    "orientation": "逆位",
+    "insight": "思考层面里，配合不顺或成果虚浮，压力可能成了阻力。",
+    "advice": "先对齐目标再推进，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_032_upright",
+    "weight": 1,
+    "card": "宝剑四",
+    "orientation": "正位",
+    "insight": "思考层面里，结构和安全感正在形成，沟通正在给你推力。",
+    "advice": "守住基本盘，别贪快，把注意力放在判断上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_032_reversed",
+    "weight": 1,
+    "card": "宝剑四",
+    "orientation": "逆位",
+    "insight": "思考层面里，停滞感变强，容易封闭，压力可能成了阻力。",
+    "advice": "给稳定里加一点变化，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_033_upright",
+    "weight": 1,
+    "card": "宝剑五",
+    "orientation": "正位",
+    "insight": "思考层面里，摩擦会暴露真正的问题，沟通正在给你推力。",
+    "advice": "别怕冲突，抓住核心矛盾，把注意力放在判断上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_033_reversed",
+    "weight": 1,
+    "card": "宝剑五",
+    "orientation": "逆位",
+    "insight": "思考层面里，争执退潮但余波还在，压力可能成了阻力。",
+    "advice": "先修关系，再谈胜负，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_034_upright",
+    "weight": 1,
+    "card": "宝剑六",
+    "orientation": "正位",
+    "insight": "思考层面里，支持、回馈或阶段性顺风，沟通正在给你推力。",
+    "advice": "接受善意，也把善意传出去，把注意力放在判断上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_034_reversed",
+    "weight": 1,
+    "card": "宝剑六",
+    "orientation": "逆位",
+    "insight": "思考层面里，旧事牵绊或回报迟缓，压力可能成了阻力。",
+    "advice": "别让过去替现在做决定，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_035_upright",
+    "weight": 1,
+    "card": "宝剑七",
+    "orientation": "正位",
+    "insight": "思考层面里，考验需要策略和耐心，沟通正在给你推力。",
+    "advice": "守住立场，别被杂音带偏，把注意力放在判断上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_035_reversed",
+    "weight": 1,
+    "card": "宝剑七",
+    "orientation": "逆位",
+    "insight": "思考层面里，防线松动或判断疲惫，压力可能成了阻力。",
+    "advice": "少硬撑，换一种打法，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_036_upright",
+    "weight": 1,
+    "card": "宝剑八",
+    "orientation": "正位",
+    "insight": "思考层面里，速度、执行和调整会加快，沟通正在给你推力。",
+    "advice": "趁状态在，处理积压事项，把注意力放在判断上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_036_reversed",
+    "weight": 1,
+    "card": "宝剑八",
+    "orientation": "逆位",
+    "insight": "思考层面里，节奏堵住，消息可能延迟，压力可能成了阻力。",
+    "advice": "先疏通阻塞点，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_037_upright",
+    "weight": 1,
+    "card": "宝剑九",
+    "orientation": "正位",
+    "insight": "思考层面里，临近完成，但还需要坚持，沟通正在给你推力。",
+    "advice": "保护好成果，别最后松手，把注意力放在判断上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_037_reversed",
+    "weight": 1,
+    "card": "宝剑九",
+    "orientation": "逆位",
+    "insight": "思考层面里，疲惫感明显，防备过度，压力可能成了阻力。",
+    "advice": "休息不是认输，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_038_upright",
+    "weight": 1,
+    "card": "宝剑十",
+    "orientation": "正位",
+    "insight": "思考层面里，结果或压力都来到高点，沟通正在给你推力。",
+    "advice": "收尾、交接，别把所有事扛身上，把注意力放在判断上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_038_reversed",
+    "weight": 1,
+    "card": "宝剑十",
+    "orientation": "逆位",
+    "insight": "思考层面里，负担有机会卸下，压力可能成了阻力。",
+    "advice": "把责任分出去一点，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_039_upright",
+    "weight": 1,
+    "card": "宝剑侍从",
+    "orientation": "正位",
+    "insight": "思考层面里，新消息、新学习或新尝试，沟通正在给你推力。",
+    "advice": "保持好奇，认真记录线索，把注意力放在判断上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_039_reversed",
+    "weight": 1,
+    "card": "宝剑侍从",
+    "orientation": "逆位",
+    "insight": "思考层面里，经验不足容易误判，压力可能成了阻力。",
+    "advice": "先学习规则再上场，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_040_upright",
+    "weight": 1,
+    "card": "宝剑骑士",
+    "orientation": "正位",
+    "insight": "思考层面里，行动力增强，事情开始推进，沟通正在给你推力。",
+    "advice": "勇敢推进，但记得看路，把注意力放在判断上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_040_reversed",
+    "weight": 1,
+    "card": "宝剑骑士",
+    "orientation": "逆位",
+    "insight": "思考层面里，急躁或方向不稳，压力可能成了阻力。",
+    "advice": "把速度降到可控范围，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_041_upright",
+    "weight": 1,
+    "card": "宝剑皇后",
+    "orientation": "正位",
+    "insight": "思考层面里，成熟的滋养与照顾出现，沟通正在给你推力。",
+    "advice": "用稳定方式支持自己和他人，把注意力放在判断上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_041_reversed",
+    "weight": 1,
+    "card": "宝剑皇后",
+    "orientation": "逆位",
+    "insight": "思考层面里，过度照顾会消耗自己，压力可能成了阻力。",
+    "advice": "把温柔也分给自己，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_042_upright",
+    "weight": 1,
+    "card": "宝剑国王",
+    "orientation": "正位",
+    "insight": "思考层面里，掌控力、责任和判断成熟，沟通正在给你推力。",
+    "advice": "拿出主心骨，做清晰决定，把注意力放在判断上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_042_reversed",
+    "weight": 1,
+    "card": "宝剑国王",
+    "orientation": "逆位",
+    "insight": "思考层面里，权威感过强或固执，压力可能成了阻力。",
+    "advice": "听完意见再拍板，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_043_upright",
+    "weight": 1,
+    "card": "星币一",
+    "orientation": "正位",
+    "insight": "现实层面里，新的开始正在出现，资源正在给你推力。",
+    "advice": "先抓住最小的入口，把注意力放在工作上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_043_reversed",
+    "weight": 1,
+    "card": "星币一",
+    "orientation": "逆位",
+    "insight": "现实层面里，起步不稳或动力分散，稳定可能成了阻力。",
+    "advice": "别急，先把第一步做实，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_044_upright",
+    "weight": 1,
+    "card": "星币二",
+    "orientation": "正位",
+    "insight": "现实层面里，选择与平衡成为重点，资源正在给你推力。",
+    "advice": "比较选项时别忘了初心，把注意力放在工作上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_044_reversed",
+    "weight": 1,
+    "card": "星币二",
+    "orientation": "逆位",
+    "insight": "现实层面里，犹豫会拖慢节奏，稳定可能成了阻力。",
+    "advice": "给选择设一个截止点，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_045_upright",
+    "weight": 1,
+    "card": "星币三",
+    "orientation": "正位",
+    "insight": "现实层面里，合作或初步成果可见，资源正在给你推力。",
+    "advice": "把想法拿出来交流，把注意力放在工作上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_045_reversed",
+    "weight": 1,
+    "card": "星币三",
+    "orientation": "逆位",
+    "insight": "现实层面里，配合不顺或成果虚浮，稳定可能成了阻力。",
+    "advice": "先对齐目标再推进，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_046_upright",
+    "weight": 1,
+    "card": "星币四",
+    "orientation": "正位",
+    "insight": "现实层面里，结构和安全感正在形成，资源正在给你推力。",
+    "advice": "守住基本盘，别贪快，把注意力放在工作上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_046_reversed",
+    "weight": 1,
+    "card": "星币四",
+    "orientation": "逆位",
+    "insight": "现实层面里，停滞感变强，容易封闭，稳定可能成了阻力。",
+    "advice": "给稳定里加一点变化，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_047_upright",
+    "weight": 1,
+    "card": "星币五",
+    "orientation": "正位",
+    "insight": "现实层面里，摩擦会暴露真正的问题，资源正在给你推力。",
+    "advice": "别怕冲突，抓住核心矛盾，把注意力放在工作上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_047_reversed",
+    "weight": 1,
+    "card": "星币五",
+    "orientation": "逆位",
+    "insight": "现实层面里，争执退潮但余波还在，稳定可能成了阻力。",
+    "advice": "先修关系，再谈胜负，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_048_upright",
+    "weight": 1,
+    "card": "星币六",
+    "orientation": "正位",
+    "insight": "现实层面里，支持、回馈或阶段性顺风，资源正在给你推力。",
+    "advice": "接受善意，也把善意传出去，把注意力放在工作上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_048_reversed",
+    "weight": 1,
+    "card": "星币六",
+    "orientation": "逆位",
+    "insight": "现实层面里，旧事牵绊或回报迟缓，稳定可能成了阻力。",
+    "advice": "别让过去替现在做决定，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_049_upright",
+    "weight": 1,
+    "card": "星币七",
+    "orientation": "正位",
+    "insight": "现实层面里，考验需要策略和耐心，资源正在给你推力。",
+    "advice": "守住立场，别被杂音带偏，把注意力放在工作上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_049_reversed",
+    "weight": 1,
+    "card": "星币七",
+    "orientation": "逆位",
+    "insight": "现实层面里，防线松动或判断疲惫，稳定可能成了阻力。",
+    "advice": "少硬撑，换一种打法，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_050_upright",
+    "weight": 1,
+    "card": "星币八",
+    "orientation": "正位",
+    "insight": "现实层面里，速度、执行和调整会加快，资源正在给你推力。",
+    "advice": "趁状态在，处理积压事项，把注意力放在工作上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_050_reversed",
+    "weight": 1,
+    "card": "星币八",
+    "orientation": "逆位",
+    "insight": "现实层面里，节奏堵住，消息可能延迟，稳定可能成了阻力。",
+    "advice": "先疏通阻塞点，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_051_upright",
+    "weight": 1,
+    "card": "星币九",
+    "orientation": "正位",
+    "insight": "现实层面里，临近完成，但还需要坚持，资源正在给你推力。",
+    "advice": "保护好成果，别最后松手，把注意力放在工作上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_051_reversed",
+    "weight": 1,
+    "card": "星币九",
+    "orientation": "逆位",
+    "insight": "现实层面里，疲惫感明显，防备过度，稳定可能成了阻力。",
+    "advice": "休息不是认输，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_052_upright",
+    "weight": 1,
+    "card": "星币十",
+    "orientation": "正位",
+    "insight": "现实层面里，结果或压力都来到高点，资源正在给你推力。",
+    "advice": "收尾、交接，别把所有事扛身上，把注意力放在工作上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_052_reversed",
+    "weight": 1,
+    "card": "星币十",
+    "orientation": "逆位",
+    "insight": "现实层面里，负担有机会卸下，稳定可能成了阻力。",
+    "advice": "把责任分出去一点，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_053_upright",
+    "weight": 1,
+    "card": "星币侍从",
+    "orientation": "正位",
+    "insight": "现实层面里，新消息、新学习或新尝试，资源正在给你推力。",
+    "advice": "保持好奇，认真记录线索，把注意力放在工作上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_053_reversed",
+    "weight": 1,
+    "card": "星币侍从",
+    "orientation": "逆位",
+    "insight": "现实层面里，经验不足容易误判，稳定可能成了阻力。",
+    "advice": "先学习规则再上场，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_054_upright",
+    "weight": 1,
+    "card": "星币骑士",
+    "orientation": "正位",
+    "insight": "现实层面里，行动力增强，事情开始推进，资源正在给你推力。",
+    "advice": "勇敢推进，但记得看路，把注意力放在工作上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_054_reversed",
+    "weight": 1,
+    "card": "星币骑士",
+    "orientation": "逆位",
+    "insight": "现实层面里，急躁或方向不稳，稳定可能成了阻力。",
+    "advice": "把速度降到可控范围，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_055_upright",
+    "weight": 1,
+    "card": "星币皇后",
+    "orientation": "正位",
+    "insight": "现实层面里，成熟的滋养与照顾出现，资源正在给你推力。",
+    "advice": "用稳定方式支持自己和他人，把注意力放在工作上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_055_reversed",
+    "weight": 1,
+    "card": "星币皇后",
+    "orientation": "逆位",
+    "insight": "现实层面里，过度照顾会消耗自己，稳定可能成了阻力。",
+    "advice": "把温柔也分给自己，先处理最现实的一处卡点。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_056_upright",
+    "weight": 1,
+    "card": "星币国王",
+    "orientation": "正位",
+    "insight": "现实层面里，掌控力、责任和判断成熟，资源正在给你推力。",
+    "advice": "拿出主心骨，做清晰决定，把注意力放在工作上。",
+    "asset": ""
+  },
+  {
+    "id": "tarot_minor_056_reversed",
+    "weight": 1,
+    "card": "星币国王",
+    "orientation": "逆位",
+    "insight": "现实层面里，权威感过强或固执，稳定可能成了阻力。",
+    "advice": "听完意见再拍板，先处理最现实的一处卡点。",
+    "asset": ""
+  }
+]

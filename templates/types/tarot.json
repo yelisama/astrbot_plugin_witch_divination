@@ -1,0 +1,10 @@
+{
+  "id": "tarot",
+  "name": "塔罗",
+  "mode": "normal",
+  "generator": "pool",
+  "renderer": "tarot",
+  "aliases": ["塔罗", "塔罗牌"],
+  "enabled": true,
+  "pool": "pools/tarot.json"
+}

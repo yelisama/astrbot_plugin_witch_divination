@@ -1,0 +1,217 @@
+{
+  "default_type": {
+    "description": "默认占卜类型",
+    "type": "string",
+    "default": "omikuji",
+    "hint": "用户只发送 /占卜 或关键词“占卜”时使用的类型。默认 omikuji（御神签）"
+  },
+  "enabled_types": {
+    "description": "启用的占卜类型",
+    "type": "list",
+    "default": ["omikuji", "tarot", "crystal"],
+    "hint": "类型ID列表，对应数据目录 types/*.json",
+    "items": {
+      "type": "string"
+    }
+  },
+  "keyword_trigger_enabled": {
+    "description": "启用关键词触发",
+    "type": "bool",
+    "default": true,
+    "hint": "开启后，用户发送“占卜/抽签/今日签/塔罗/水晶球”等关键词也会触发"
+  },
+  "daily_free_count": {
+    "description": "每日免费占卜次数",
+    "type": "int",
+    "default": 1,
+    "hint": "每个用户每天首次生成不同类型结果可消耗免费次数，超过后扣金币",
+    "slider": {"min": 0, "max": 10, "step": 1}
+  },
+  "daily_normal_type_limit_enabled": {
+    "description": "限制每日常规占卜种类数",
+    "type": "bool",
+    "default": false,
+    "hint": "开启后，用户每天最多只能首次解锁指定数量的常规占卜类型；同类型重复查看不计次"
+  },
+  "daily_normal_type_limit": {
+    "description": "每日可解锁常规占卜种类数",
+    "type": "int",
+    "default": 3,
+    "hint": "1 表示塔罗、御神签、水晶球三选一；2 表示三选二；3 表示三种都可用",
+    "slider": {"min": 1, "max": 3, "step": 1}
+  },
+  "extra_cost": {
+    "description": "额外占卜金币价格",
+    "type": "int",
+    "default": 10,
+    "hint": "每日免费次数用完后，首次生成新类型结果所需金币",
+    "slider": {"min": 0, "max": 500, "step": 1}
+  },
+  "coin_link_enabled": {
+    "description": "启用丛雨神社金币联动",
+    "type": "bool",
+    "default": true,
+    "hint": "当前骨架会优先尝试联动；找不到金币接口时降级为不扣费并记录日志"
+  },
+  "record_cleanup_interval_days": {
+    "description": "记录清理间隔（天）",
+    "type": "int",
+    "default": 3,
+    "hint": "插件启动和触发占卜时会按间隔自动清理",
+    "slider": {"min": 1, "max": 30, "step": 1}
+  },
+  "record_keep_days": {
+    "description": "记录保留天数",
+    "type": "int",
+    "default": 3,
+    "hint": "超过该天数的占卜记录会被清理",
+    "slider": {"min": 1, "max": 30, "step": 1}
+  },
+  "asset_dirs": {
+    "description": "素材目录配置",
+    "type": "object",
+    "items": {
+      "tarot": {
+        "description": "塔罗图库目录",
+        "type": "string",
+        "default": "assets/tarot"
+      },
+      "omikuji": {
+        "description": "御神签背景目录",
+        "type": "string",
+        "default": "assets/omikuji"
+      },
+      "crystal": {
+        "description": "水晶球素材目录",
+        "type": "string",
+        "default": "assets/crystal"
+      }
+    }
+  },
+  "tarot_render": {
+    "description": "塔罗图片渲染自定义",
+    "type": "object",
+    "items": {
+      "card_width": {
+        "description": "卡图最大宽度",
+        "type": "int",
+        "default": 900,
+        "slider": {"min": 400, "max": 1400, "step": 10}
+      },
+      "card_height": {
+        "description": "卡图最大高度",
+        "type": "int",
+        "default": 1300,
+        "slider": {"min": 600, "max": 1800, "step": 10}
+      },
+      "card_x": {
+        "description": "卡图左上角 X（-1 表示水平居中）",
+        "type": "int",
+        "default": -1,
+        "slider": {"min": -1, "max": 900, "step": 1}
+      },
+      "card_y": {
+        "description": "卡图左上角 Y",
+        "type": "int",
+        "default": 0,
+        "slider": {"min": -300, "max": 900, "step": 1}
+      },
+      "panel_x": {
+        "description": "白框左边距 X",
+        "type": "int",
+        "default": 54,
+        "slider": {"min": 0, "max": 300, "step": 1}
+      },
+      "panel_y": {
+        "description": "白框顶部 Y",
+        "type": "int",
+        "default": 768,
+        "slider": {"min": 0, "max": 1280, "step": 1}
+      },
+      "panel_width": {
+        "description": "白框宽度",
+        "type": "int",
+        "default": 792,
+        "slider": {"min": 300, "max": 900, "step": 1}
+      },
+      "panel_height": {
+        "description": "白框高度",
+        "type": "int",
+        "default": 458,
+        "slider": {"min": 120, "max": 720, "step": 1}
+      },
+      "panel_alpha": {
+        "description": "白框透明度",
+        "type": "int",
+        "default": 218,
+        "slider": {"min": 0, "max": 255, "step": 1}
+      },
+      "panel_radius": {
+        "description": "白框圆角",
+        "type": "int",
+        "default": 30,
+        "slider": {"min": 0, "max": 80, "step": 1}
+      },
+      "title_font_size": {
+        "description": "牌名字体大小",
+        "type": "int",
+        "default": 84,
+        "slider": {"min": 20, "max": 140, "step": 1}
+      },
+      "label_font_size": {
+        "description": "启示/建议标签字号",
+        "type": "int",
+        "default": 35,
+        "slider": {"min": 18, "max": 80, "step": 1}
+      },
+      "body_font_size": {
+        "description": "正文字号",
+        "type": "int",
+        "default": 38,
+        "slider": {"min": 18, "max": 80, "step": 1}
+      },
+      "text_x": {
+        "description": "正文左侧 X",
+        "type": "int",
+        "default": 92,
+        "slider": {"min": 0, "max": 500, "step": 1}
+      },
+      "title_y_offset": {
+        "description": "牌名相对白框顶部偏移",
+        "type": "int",
+        "default": 28,
+        "slider": {"min": -120, "max": 240, "step": 1}
+      },
+      "title_gap": {
+        "description": "牌名到分割线距离",
+        "type": "int",
+        "default": 98,
+        "slider": {"min": 20, "max": 220, "step": 1}
+      },
+      "line_gap": {
+        "description": "正文行距",
+        "type": "int",
+        "default": 50,
+        "slider": {"min": 20, "max": 100, "step": 1}
+      },
+      "section_gap": {
+        "description": "启示和建议间隔",
+        "type": "int",
+        "default": 30,
+        "slider": {"min": 0, "max": 120, "step": 1}
+      },
+      "title_stroke_width": {
+        "description": "牌名白边粗细",
+        "type": "int",
+        "default": 5,
+        "slider": {"min": 0, "max": 12, "step": 1}
+      },
+      "text_max_chars": {
+        "description": "正文每行最大字数",
+        "type": "int",
+        "default": 19,
+        "slider": {"min": 10, "max": 36, "step": 1}
+      }
+    }
+  }
+}

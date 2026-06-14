@@ -1,0 +1,6 @@
+name: astrbot_plugin_witch_divination
+display_name: 魔女占卜
+desc: 轻量可配置的魔女占卜插件，支持御神签、塔罗、水晶球等常规占卜
+version: 0.1.0
+author: 夜璃 & 冰糖
+repo: ""

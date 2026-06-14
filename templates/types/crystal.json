@@ -1,0 +1,10 @@
+{
+  "id": "crystal",
+  "name": "水晶球",
+  "mode": "normal",
+  "generator": "pool",
+  "renderer": "crystal",
+  "aliases": ["水晶球", "预言"],
+  "enabled": true,
+  "pool": "pools/crystal.json"
+}

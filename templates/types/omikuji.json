@@ -1,0 +1,10 @@
+{
+  "id": "omikuji",
+  "name": "御神签",
+  "mode": "normal",
+  "generator": "pool",
+  "renderer": "omikuji",
+  "aliases": ["今日运势", "御神签", "抽签", "今日签", "签"],
+  "enabled": true,
+  "pool": "pools/omikuji.json"
+}
