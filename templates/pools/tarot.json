@@ -6,7 +6,7 @@
     "orientation": "正位",
     "insight": "新的路正在脚边展开，适合轻装上阵。",
     "advice": "先迈出一步，别急着把全部答案想完。",
-    "asset": "assets/tarot_szb/愚者-正位.png"
+    "asset": "assets/tarot_szb/愚者-正位.jpg"
   },
   {
     "id": "tarot_major_01_upright_v02",
@@ -15,7 +15,7 @@
     "orientation": "正位",
     "insight": "愚者的正位让开始变得清晰，自由正在把局面往前推。",
     "advice": "把注意力放在轻装上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/愚者-正位.png"
+    "asset": "assets/tarot_szb/愚者-正位.jpg"
   },
   {
     "id": "tarot_major_01_upright_v03",
@@ -24,7 +24,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，开始不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住自由。",
-    "asset": "assets/tarot_szb/愚者-正位.png"
+    "asset": "assets/tarot_szb/愚者-正位.jpg"
   },
   {
     "id": "tarot_major_01_upright_v04",
@@ -33,7 +33,7 @@
     "orientation": "正位",
     "insight": "愚者带来温和但明确的推力，轻装会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/愚者-正位.png"
+    "asset": "assets/tarot_szb/愚者-正位.jpg"
   },
   {
     "id": "tarot_major_01_upright_v05",
@@ -42,7 +42,7 @@
     "orientation": "正位",
     "insight": "正位的愚者像一盏小灯，提醒你把冒险用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/愚者-正位.png"
+    "asset": "assets/tarot_szb/愚者-正位.jpg"
   },
   {
     "id": "tarot_major_01_reversed",
@@ -51,7 +51,7 @@
     "orientation": "逆位",
     "insight": "冲动容易把自由变成迷路，别把风险当浪漫。",
     "advice": "出发前检查底线，重要决定别只凭一时兴起。",
-    "asset": "assets/tarot_szb/愚者-逆位.png"
+    "asset": "assets/tarot_szb/愚者-逆位.jpg"
   },
   {
     "id": "tarot_major_01_reversed_v02",
@@ -60,7 +60,7 @@
     "orientation": "逆位",
     "insight": "愚者逆位时，开始容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/愚者-逆位.png"
+    "asset": "assets/tarot_szb/愚者-逆位.jpg"
   },
   {
     "id": "tarot_major_01_reversed_v03",
@@ -69,7 +69,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，自由可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/愚者-逆位.png"
+    "asset": "assets/tarot_szb/愚者-逆位.jpg"
   },
   {
     "id": "tarot_major_01_reversed_v04",
@@ -78,7 +78,7 @@
     "orientation": "逆位",
     "insight": "逆位的愚者让轻装显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/愚者-逆位.png"
+    "asset": "assets/tarot_szb/愚者-逆位.jpg"
   },
   {
     "id": "tarot_major_01_reversed_v05",
@@ -87,7 +87,7 @@
     "orientation": "逆位",
     "insight": "愚者逆位像一面雾镜，照出你对冒险的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/愚者-逆位.png"
+    "asset": "assets/tarot_szb/愚者-逆位.jpg"
   },
   {
     "id": "tarot_major_02_upright",
@@ -96,7 +96,7 @@
     "orientation": "正位",
     "insight": "资源已经在手边，关键是把想法落到行动。",
     "advice": "把工具、时间和人脉整理好，今天适合启动。",
-    "asset": "assets/tarot_szb/魔术师-正位.png"
+    "asset": "assets/tarot_szb/魔术师-正位.jpg"
   },
   {
     "id": "tarot_major_02_upright_v02",
@@ -105,7 +105,7 @@
     "orientation": "正位",
     "insight": "魔术师的正位让创造变得清晰，资源正在把局面往前推。",
     "advice": "把注意力放在表达上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/魔术师-正位.png"
+    "asset": "assets/tarot_szb/魔术师-正位.jpg"
   },
   {
     "id": "tarot_major_02_upright_v03",
@@ -114,7 +114,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，创造不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住资源。",
-    "asset": "assets/tarot_szb/魔术师-正位.png"
+    "asset": "assets/tarot_szb/魔术师-正位.jpg"
   },
   {
     "id": "tarot_major_02_upright_v04",
@@ -123,7 +123,7 @@
     "orientation": "正位",
     "insight": "魔术师带来温和但明确的推力，表达会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/魔术师-正位.png"
+    "asset": "assets/tarot_szb/魔术师-正位.jpg"
   },
   {
     "id": "tarot_major_02_upright_v05",
@@ -132,7 +132,7 @@
     "orientation": "正位",
     "insight": "正位的魔术师像一盏小灯，提醒你把启动用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/魔术师-正位.png"
+    "asset": "assets/tarot_szb/魔术师-正位.jpg"
   },
   {
     "id": "tarot_major_02_reversed",
@@ -141,7 +141,7 @@
     "orientation": "逆位",
     "insight": "想法很多却容易分散，承诺别说得太满。",
     "advice": "先完成一个小闭环，再谈更大的计划。",
-    "asset": "assets/tarot_szb/魔术师-逆位.png"
+    "asset": "assets/tarot_szb/魔术师-逆位.jpg"
   },
   {
     "id": "tarot_major_02_reversed_v02",
@@ -150,7 +150,7 @@
     "orientation": "逆位",
     "insight": "魔术师逆位时，创造容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/魔术师-逆位.png"
+    "asset": "assets/tarot_szb/魔术师-逆位.jpg"
   },
   {
     "id": "tarot_major_02_reversed_v03",
@@ -159,7 +159,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，资源可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/魔术师-逆位.png"
+    "asset": "assets/tarot_szb/魔术师-逆位.jpg"
   },
   {
     "id": "tarot_major_02_reversed_v04",
@@ -168,7 +168,7 @@
     "orientation": "逆位",
     "insight": "逆位的魔术师让表达显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/魔术师-逆位.png"
+    "asset": "assets/tarot_szb/魔术师-逆位.jpg"
   },
   {
     "id": "tarot_major_02_reversed_v05",
@@ -177,7 +177,7 @@
     "orientation": "逆位",
     "insight": "魔术师逆位像一面雾镜，照出你对启动的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/魔术师-逆位.png"
+    "asset": "assets/tarot_szb/魔术师-逆位.jpg"
   },
   {
     "id": "tarot_major_03_upright",
@@ -186,7 +186,7 @@
     "orientation": "正位",
     "insight": "答案藏在安静处，直觉比热闹更可靠。",
     "advice": "减少外界噪音，给自己一点观察时间。",
-    "asset": "assets/tarot_szb/女祭司-正位.png"
+    "asset": "assets/tarot_szb/女祭司-正位.jpg"
   },
   {
     "id": "tarot_major_03_upright_v02",
@@ -195,7 +195,7 @@
     "orientation": "正位",
     "insight": "女祭司的正位让直觉变得清晰，秘密正在把局面往前推。",
     "advice": "把注意力放在观察上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/女祭司-正位.png"
+    "asset": "assets/tarot_szb/女祭司-正位.jpg"
   },
   {
     "id": "tarot_major_03_upright_v03",
@@ -204,7 +204,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，直觉不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住秘密。",
-    "asset": "assets/tarot_szb/女祭司-正位.png"
+    "asset": "assets/tarot_szb/女祭司-正位.jpg"
   },
   {
     "id": "tarot_major_03_upright_v04",
@@ -213,7 +213,7 @@
     "orientation": "正位",
     "insight": "女祭司带来温和但明确的推力，观察会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/女祭司-正位.png"
+    "asset": "assets/tarot_szb/女祭司-正位.jpg"
   },
   {
     "id": "tarot_major_03_upright_v05",
@@ -222,7 +222,7 @@
     "orientation": "正位",
     "insight": "正位的女祭司像一盏小灯，提醒你把静默用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/女祭司-正位.png"
+    "asset": "assets/tarot_szb/女祭司-正位.jpg"
   },
   {
     "id": "tarot_major_03_reversed",
@@ -231,7 +231,7 @@
     "orientation": "逆位",
     "insight": "信息被遮住或你在回避真相，别急着下判断。",
     "advice": "把疑点写下来，等证据浮出水面。",
-    "asset": "assets/tarot_szb/女祭司-逆位.png"
+    "asset": "assets/tarot_szb/女祭司-逆位.jpg"
   },
   {
     "id": "tarot_major_03_reversed_v02",
@@ -240,7 +240,7 @@
     "orientation": "逆位",
     "insight": "女祭司逆位时，直觉容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/女祭司-逆位.png"
+    "asset": "assets/tarot_szb/女祭司-逆位.jpg"
   },
   {
     "id": "tarot_major_03_reversed_v03",
@@ -249,7 +249,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，秘密可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/女祭司-逆位.png"
+    "asset": "assets/tarot_szb/女祭司-逆位.jpg"
   },
   {
     "id": "tarot_major_03_reversed_v04",
@@ -258,7 +258,7 @@
     "orientation": "逆位",
     "insight": "逆位的女祭司让观察显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/女祭司-逆位.png"
+    "asset": "assets/tarot_szb/女祭司-逆位.jpg"
   },
   {
     "id": "tarot_major_03_reversed_v05",
@@ -267,7 +267,7 @@
     "orientation": "逆位",
     "insight": "女祭司逆位像一面雾镜，照出你对静默的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/女祭司-逆位.png"
+    "asset": "assets/tarot_szb/女祭司-逆位.jpg"
   },
   {
     "id": "tarot_major_04_upright",
@@ -276,7 +276,7 @@
     "orientation": "正位",
     "insight": "滋养、创作和关系会带来温柔回报。",
     "advice": "好好吃饭，好好表达，照顾正在成长的事。",
-    "asset": "assets/tarot_szb/女皇-正位.png"
+    "asset": "assets/tarot_szb/女皇-正位.jpg"
   },
   {
     "id": "tarot_major_04_upright_v02",
@@ -285,7 +285,7 @@
     "orientation": "正位",
     "insight": "女皇的正位让滋养变得清晰，生长正在把局面往前推。",
     "advice": "把注意力放在丰盛上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/女皇-正位.png"
+    "asset": "assets/tarot_szb/女皇-正位.jpg"
   },
   {
     "id": "tarot_major_04_upright_v03",
@@ -294,7 +294,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，滋养不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住生长。",
-    "asset": "assets/tarot_szb/女皇-正位.png"
+    "asset": "assets/tarot_szb/女皇-正位.jpg"
   },
   {
     "id": "tarot_major_04_upright_v04",
@@ -303,7 +303,7 @@
     "orientation": "正位",
     "insight": "女皇带来温和但明确的推力，丰盛会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/女皇-正位.png"
+    "asset": "assets/tarot_szb/女皇-正位.jpg"
   },
   {
     "id": "tarot_major_04_upright_v05",
@@ -312,7 +312,7 @@
     "orientation": "正位",
     "insight": "正位的女皇像一盏小灯，提醒你把温柔用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/女皇-正位.png"
+    "asset": "assets/tarot_szb/女皇-正位.jpg"
   },
   {
     "id": "tarot_major_04_reversed",
@@ -321,7 +321,7 @@
     "orientation": "逆位",
     "insight": "过度纵容会让事情失去边界。",
     "advice": "把善意留给值得的人，也给自己留余地。",
-    "asset": "assets/tarot_szb/女皇-逆位.png"
+    "asset": "assets/tarot_szb/女皇-逆位.jpg"
   },
   {
     "id": "tarot_major_04_reversed_v02",
@@ -330,7 +330,7 @@
     "orientation": "逆位",
     "insight": "女皇逆位时，滋养容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/女皇-逆位.png"
+    "asset": "assets/tarot_szb/女皇-逆位.jpg"
   },
   {
     "id": "tarot_major_04_reversed_v03",
@@ -339,7 +339,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，生长可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/女皇-逆位.png"
+    "asset": "assets/tarot_szb/女皇-逆位.jpg"
   },
   {
     "id": "tarot_major_04_reversed_v04",
@@ -348,7 +348,7 @@
     "orientation": "逆位",
     "insight": "逆位的女皇让丰盛显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/女皇-逆位.png"
+    "asset": "assets/tarot_szb/女皇-逆位.jpg"
   },
   {
     "id": "tarot_major_04_reversed_v05",
@@ -357,7 +357,7 @@
     "orientation": "逆位",
     "insight": "女皇逆位像一面雾镜，照出你对温柔的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/女皇-逆位.png"
+    "asset": "assets/tarot_szb/女皇-逆位.jpg"
   },
   {
     "id": "tarot_major_05_upright",
@@ -366,7 +366,7 @@
     "orientation": "正位",
     "insight": "秩序和规则能帮你稳住局面。",
     "advice": "今天适合定计划、划边界、做决策。",
-    "asset": "assets/tarot_szb/皇帝-正位.png"
+    "asset": "assets/tarot_szb/皇帝-正位.jpg"
   },
   {
     "id": "tarot_major_05_upright_v02",
@@ -375,7 +375,7 @@
     "orientation": "正位",
     "insight": "皇帝的正位让秩序变得清晰，责任正在把局面往前推。",
     "advice": "把注意力放在边界上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/皇帝-正位.png"
+    "asset": "assets/tarot_szb/皇帝-正位.jpg"
   },
   {
     "id": "tarot_major_05_upright_v03",
@@ -384,7 +384,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，秩序不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住责任。",
-    "asset": "assets/tarot_szb/皇帝-正位.png"
+    "asset": "assets/tarot_szb/皇帝-正位.jpg"
   },
   {
     "id": "tarot_major_05_upright_v04",
@@ -393,7 +393,7 @@
     "orientation": "正位",
     "insight": "皇帝带来温和但明确的推力，边界会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/皇帝-正位.png"
+    "asset": "assets/tarot_szb/皇帝-正位.jpg"
   },
   {
     "id": "tarot_major_05_upright_v05",
@@ -402,7 +402,7 @@
     "orientation": "正位",
     "insight": "正位的皇帝像一盏小灯，提醒你把掌控用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/皇帝-正位.png"
+    "asset": "assets/tarot_szb/皇帝-正位.jpg"
   },
   {
     "id": "tarot_major_05_reversed",
@@ -411,7 +411,7 @@
     "orientation": "逆位",
     "insight": "控制欲过强会让沟通变硬。",
     "advice": "少命令，多说明规则背后的原因。",
-    "asset": "assets/tarot_szb/皇帝-逆位.png"
+    "asset": "assets/tarot_szb/皇帝-逆位.jpg"
   },
   {
     "id": "tarot_major_05_reversed_v02",
@@ -420,7 +420,7 @@
     "orientation": "逆位",
     "insight": "皇帝逆位时，秩序容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/皇帝-逆位.png"
+    "asset": "assets/tarot_szb/皇帝-逆位.jpg"
   },
   {
     "id": "tarot_major_05_reversed_v03",
@@ -429,7 +429,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，责任可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/皇帝-逆位.png"
+    "asset": "assets/tarot_szb/皇帝-逆位.jpg"
   },
   {
     "id": "tarot_major_05_reversed_v04",
@@ -438,7 +438,7 @@
     "orientation": "逆位",
     "insight": "逆位的皇帝让边界显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/皇帝-逆位.png"
+    "asset": "assets/tarot_szb/皇帝-逆位.jpg"
   },
   {
     "id": "tarot_major_05_reversed_v05",
@@ -447,7 +447,7 @@
     "orientation": "逆位",
     "insight": "皇帝逆位像一面雾镜，照出你对掌控的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/皇帝-逆位.png"
+    "asset": "assets/tarot_szb/皇帝-逆位.jpg"
   },
   {
     "id": "tarot_major_06_upright",
@@ -456,7 +456,7 @@
     "orientation": "正位",
     "insight": "经验、传统或可靠的人能给你指引。",
     "advice": "遇事先问流程，别一个人硬闯。",
-    "asset": "assets/tarot_szb/教皇-正位.png"
+    "asset": "assets/tarot_szb/教皇-正位.jpg"
   },
   {
     "id": "tarot_major_06_upright_v02",
@@ -465,7 +465,7 @@
     "orientation": "正位",
     "insight": "教皇的正位让传统变得清晰，经验正在把局面往前推。",
     "advice": "把注意力放在指引上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/教皇-正位.png"
+    "asset": "assets/tarot_szb/教皇-正位.jpg"
   },
   {
     "id": "tarot_major_06_upright_v03",
@@ -474,7 +474,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，传统不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住经验。",
-    "asset": "assets/tarot_szb/教皇-正位.png"
+    "asset": "assets/tarot_szb/教皇-正位.jpg"
   },
   {
     "id": "tarot_major_06_upright_v04",
@@ -483,7 +483,7 @@
     "orientation": "正位",
     "insight": "教皇带来温和但明确的推力，指引会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/教皇-正位.png"
+    "asset": "assets/tarot_szb/教皇-正位.jpg"
   },
   {
     "id": "tarot_major_06_upright_v05",
@@ -492,7 +492,7 @@
     "orientation": "正位",
     "insight": "正位的教皇像一盏小灯，提醒你把规则用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/教皇-正位.png"
+    "asset": "assets/tarot_szb/教皇-正位.jpg"
   },
   {
     "id": "tarot_major_06_reversed",
@@ -501,7 +501,7 @@
     "orientation": "逆位",
     "insight": "旧规则可能不合时宜，照本宣科会卡住。",
     "advice": "尊重经验，但也要留一点调整空间。",
-    "asset": "assets/tarot_szb/教皇-逆位.png"
+    "asset": "assets/tarot_szb/教皇-逆位.jpg"
   },
   {
     "id": "tarot_major_06_reversed_v02",
@@ -510,7 +510,7 @@
     "orientation": "逆位",
     "insight": "教皇逆位时，传统容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/教皇-逆位.png"
+    "asset": "assets/tarot_szb/教皇-逆位.jpg"
   },
   {
     "id": "tarot_major_06_reversed_v03",
@@ -519,7 +519,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，经验可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/教皇-逆位.png"
+    "asset": "assets/tarot_szb/教皇-逆位.jpg"
   },
   {
     "id": "tarot_major_06_reversed_v04",
@@ -528,7 +528,7 @@
     "orientation": "逆位",
     "insight": "逆位的教皇让指引显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/教皇-逆位.png"
+    "asset": "assets/tarot_szb/教皇-逆位.jpg"
   },
   {
     "id": "tarot_major_06_reversed_v05",
@@ -537,7 +537,7 @@
     "orientation": "逆位",
     "insight": "教皇逆位像一面雾镜，照出你对规则的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/教皇-逆位.png"
+    "asset": "assets/tarot_szb/教皇-逆位.jpg"
   },
   {
     "id": "tarot_major_07_upright",
@@ -546,7 +546,7 @@
     "orientation": "正位",
     "insight": "选择与连接是今天的主题，真诚会打开门。",
     "advice": "把话说清楚，别让暧昧替你做决定。",
-    "asset": "assets/tarot_szb/恋人-正位.png"
+    "asset": "assets/tarot_szb/恋人-正位.jpg"
   },
   {
     "id": "tarot_major_07_upright_v02",
@@ -555,7 +555,7 @@
     "orientation": "正位",
     "insight": "恋人的正位让选择变得清晰，连接正在把局面往前推。",
     "advice": "把注意力放在真诚上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/恋人-正位.png"
+    "asset": "assets/tarot_szb/恋人-正位.jpg"
   },
   {
     "id": "tarot_major_07_upright_v03",
@@ -564,7 +564,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，选择不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住连接。",
-    "asset": "assets/tarot_szb/恋人-正位.png"
+    "asset": "assets/tarot_szb/恋人-正位.jpg"
   },
   {
     "id": "tarot_major_07_upright_v04",
@@ -573,7 +573,7 @@
     "orientation": "正位",
     "insight": "恋人带来温和但明确的推力，真诚会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/恋人-正位.png"
+    "asset": "assets/tarot_szb/恋人-正位.jpg"
   },
   {
     "id": "tarot_major_07_upright_v05",
@@ -582,7 +582,7 @@
     "orientation": "正位",
     "insight": "正位的恋人像一盏小灯，提醒你把关系用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/恋人-正位.png"
+    "asset": "assets/tarot_szb/恋人-正位.jpg"
   },
   {
     "id": "tarot_major_07_reversed",
@@ -591,7 +591,7 @@
     "orientation": "逆位",
     "insight": "逃避选择会让两边都消耗。",
     "advice": "先确认自己的心意，再回应别人的期待。",
-    "asset": "assets/tarot_szb/恋人-逆位.png"
+    "asset": "assets/tarot_szb/恋人-逆位.jpg"
   },
   {
     "id": "tarot_major_07_reversed_v02",
@@ -600,7 +600,7 @@
     "orientation": "逆位",
     "insight": "恋人逆位时，选择容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/恋人-逆位.png"
+    "asset": "assets/tarot_szb/恋人-逆位.jpg"
   },
   {
     "id": "tarot_major_07_reversed_v03",
@@ -609,7 +609,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，连接可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/恋人-逆位.png"
+    "asset": "assets/tarot_szb/恋人-逆位.jpg"
   },
   {
     "id": "tarot_major_07_reversed_v04",
@@ -618,7 +618,7 @@
     "orientation": "逆位",
     "insight": "逆位的恋人让真诚显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/恋人-逆位.png"
+    "asset": "assets/tarot_szb/恋人-逆位.jpg"
   },
   {
     "id": "tarot_major_07_reversed_v05",
@@ -627,7 +627,7 @@
     "orientation": "逆位",
     "insight": "恋人逆位像一面雾镜，照出你对关系的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/恋人-逆位.png"
+    "asset": "assets/tarot_szb/恋人-逆位.jpg"
   },
   {
     "id": "tarot_major_08_upright",
@@ -636,7 +636,7 @@
     "orientation": "正位",
     "insight": "目标明确时，你能把混乱推向前进。",
     "advice": "集中火力处理最重要的一件事。",
-    "asset": "assets/tarot_szb/战车-正位.png"
+    "asset": "assets/tarot_szb/战车-正位.jpg"
   },
   {
     "id": "tarot_major_08_upright_v02",
@@ -645,7 +645,7 @@
     "orientation": "正位",
     "insight": "战车的正位让胜利变得清晰，方向正在把局面往前推。",
     "advice": "把注意力放在意志上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/战车-正位.png"
+    "asset": "assets/tarot_szb/战车-正位.jpg"
   },
   {
     "id": "tarot_major_08_upright_v03",
@@ -654,7 +654,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，胜利不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住方向。",
-    "asset": "assets/tarot_szb/战车-正位.png"
+    "asset": "assets/tarot_szb/战车-正位.jpg"
   },
   {
     "id": "tarot_major_08_upright_v04",
@@ -663,7 +663,7 @@
     "orientation": "正位",
     "insight": "战车带来温和但明确的推力，意志会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/战车-正位.png"
+    "asset": "assets/tarot_szb/战车-正位.jpg"
   },
   {
     "id": "tarot_major_08_upright_v05",
@@ -672,7 +672,7 @@
     "orientation": "正位",
     "insight": "正位的战车像一盏小灯，提醒你把推进用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/战车-正位.png"
+    "asset": "assets/tarot_szb/战车-正位.jpg"
   },
   {
     "id": "tarot_major_08_reversed",
@@ -681,7 +681,7 @@
     "orientation": "逆位",
     "insight": "蛮冲会让方向跑偏，胜负心别太重。",
     "advice": "停一下校准路线，再继续加速。",
-    "asset": "assets/tarot_szb/战车-逆位.png"
+    "asset": "assets/tarot_szb/战车-逆位.jpg"
   },
   {
     "id": "tarot_major_08_reversed_v02",
@@ -690,7 +690,7 @@
     "orientation": "逆位",
     "insight": "战车逆位时，胜利容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/战车-逆位.png"
+    "asset": "assets/tarot_szb/战车-逆位.jpg"
   },
   {
     "id": "tarot_major_08_reversed_v03",
@@ -699,7 +699,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，方向可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/战车-逆位.png"
+    "asset": "assets/tarot_szb/战车-逆位.jpg"
   },
   {
     "id": "tarot_major_08_reversed_v04",
@@ -708,7 +708,7 @@
     "orientation": "逆位",
     "insight": "逆位的战车让意志显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/战车-逆位.png"
+    "asset": "assets/tarot_szb/战车-逆位.jpg"
   },
   {
     "id": "tarot_major_08_reversed_v05",
@@ -717,7 +717,7 @@
     "orientation": "逆位",
     "insight": "战车逆位像一面雾镜，照出你对推进的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/战车-逆位.png"
+    "asset": "assets/tarot_szb/战车-逆位.jpg"
   },
   {
     "id": "tarot_major_09_upright",
@@ -726,7 +726,7 @@
     "orientation": "正位",
     "insight": "温柔的坚持比硬碰硬更有力量。",
     "advice": "用耐心驯服情绪，别急着证明自己。",
-    "asset": "assets/tarot_szb/力量-正位.png"
+    "asset": "assets/tarot_szb/力量-正位.jpg"
   },
   {
     "id": "tarot_major_09_upright_v02",
@@ -735,7 +735,7 @@
     "orientation": "正位",
     "insight": "力量的正位让耐心变得清晰，勇气正在把局面往前推。",
     "advice": "把注意力放在柔韧上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/力量-正位.png"
+    "asset": "assets/tarot_szb/力量-正位.jpg"
   },
   {
     "id": "tarot_major_09_upright_v03",
@@ -744,7 +744,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，耐心不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住勇气。",
-    "asset": "assets/tarot_szb/力量-正位.png"
+    "asset": "assets/tarot_szb/力量-正位.jpg"
   },
   {
     "id": "tarot_major_09_upright_v04",
@@ -753,7 +753,7 @@
     "orientation": "正位",
     "insight": "力量带来温和但明确的推力，柔韧会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/力量-正位.png"
+    "asset": "assets/tarot_szb/力量-正位.jpg"
   },
   {
     "id": "tarot_major_09_upright_v05",
@@ -762,7 +762,7 @@
     "orientation": "正位",
     "insight": "正位的力量像一盏小灯，提醒你把克制用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/力量-正位.png"
+    "asset": "assets/tarot_szb/力量-正位.jpg"
   },
   {
     "id": "tarot_major_09_reversed",
@@ -771,7 +771,7 @@
     "orientation": "逆位",
     "insight": "疲惫或压抑让你容易失控。",
     "advice": "先恢复体力，再处理难缠的人和事。",
-    "asset": "assets/tarot_szb/力量-逆位.png"
+    "asset": "assets/tarot_szb/力量-逆位.jpg"
   },
   {
     "id": "tarot_major_09_reversed_v02",
@@ -780,7 +780,7 @@
     "orientation": "逆位",
     "insight": "力量逆位时，耐心容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/力量-逆位.png"
+    "asset": "assets/tarot_szb/力量-逆位.jpg"
   },
   {
     "id": "tarot_major_09_reversed_v03",
@@ -789,7 +789,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，勇气可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/力量-逆位.png"
+    "asset": "assets/tarot_szb/力量-逆位.jpg"
   },
   {
     "id": "tarot_major_09_reversed_v04",
@@ -798,7 +798,7 @@
     "orientation": "逆位",
     "insight": "逆位的力量让柔韧显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/力量-逆位.png"
+    "asset": "assets/tarot_szb/力量-逆位.jpg"
   },
   {
     "id": "tarot_major_09_reversed_v05",
@@ -807,7 +807,7 @@
     "orientation": "逆位",
     "insight": "力量逆位像一面雾镜，照出你对克制的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/力量-逆位.png"
+    "asset": "assets/tarot_szb/力量-逆位.jpg"
   },
   {
     "id": "tarot_major_10_upright",
@@ -816,7 +816,7 @@
     "orientation": "正位",
     "insight": "答案需要独处和深入思考。",
     "advice": "今天适合复盘、学习、整理长期问题。",
-    "asset": "assets/tarot_szb/隐者-正位.png"
+    "asset": "assets/tarot_szb/隐者-正位.jpg"
   },
   {
     "id": "tarot_major_10_upright_v02",
@@ -825,7 +825,7 @@
     "orientation": "正位",
     "insight": "隐者的正位让独处变得清晰，复盘正在把局面往前推。",
     "advice": "把注意力放在寻找上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/隐者-正位.png"
+    "asset": "assets/tarot_szb/隐者-正位.jpg"
   },
   {
     "id": "tarot_major_10_upright_v03",
@@ -834,7 +834,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，独处不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住复盘。",
-    "asset": "assets/tarot_szb/隐者-正位.png"
+    "asset": "assets/tarot_szb/隐者-正位.jpg"
   },
   {
     "id": "tarot_major_10_upright_v04",
@@ -843,7 +843,7 @@
     "orientation": "正位",
     "insight": "隐者带来温和但明确的推力，寻找会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/隐者-正位.png"
+    "asset": "assets/tarot_szb/隐者-正位.jpg"
   },
   {
     "id": "tarot_major_10_upright_v05",
@@ -852,7 +852,7 @@
     "orientation": "正位",
     "insight": "正位的隐者像一盏小灯，提醒你把智慧用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/隐者-正位.png"
+    "asset": "assets/tarot_szb/隐者-正位.jpg"
   },
   {
     "id": "tarot_major_10_reversed",
@@ -861,7 +861,7 @@
     "orientation": "逆位",
     "insight": "孤立太久会让你看不见帮助。",
     "advice": "该求助时别逞强，把灯举给别人看。",
-    "asset": "assets/tarot_szb/隐者-逆位.png"
+    "asset": "assets/tarot_szb/隐者-逆位.jpg"
   },
   {
     "id": "tarot_major_10_reversed_v02",
@@ -870,7 +870,7 @@
     "orientation": "逆位",
     "insight": "隐者逆位时，独处容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/隐者-逆位.png"
+    "asset": "assets/tarot_szb/隐者-逆位.jpg"
   },
   {
     "id": "tarot_major_10_reversed_v03",
@@ -879,7 +879,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，复盘可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/隐者-逆位.png"
+    "asset": "assets/tarot_szb/隐者-逆位.jpg"
   },
   {
     "id": "tarot_major_10_reversed_v04",
@@ -888,7 +888,7 @@
     "orientation": "逆位",
     "insight": "逆位的隐者让寻找显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/隐者-逆位.png"
+    "asset": "assets/tarot_szb/隐者-逆位.jpg"
   },
   {
     "id": "tarot_major_10_reversed_v05",
@@ -897,7 +897,7 @@
     "orientation": "逆位",
     "insight": "隐者逆位像一面雾镜，照出你对智慧的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/隐者-逆位.png"
+    "asset": "assets/tarot_szb/隐者-逆位.jpg"
   },
   {
     "id": "tarot_major_11_upright",
@@ -906,7 +906,7 @@
     "orientation": "正位",
     "insight": "变化正在转动，机会可能突然出现。",
     "advice": "顺势调整，不必死守原计划。",
-    "asset": "assets/tarot_szb/命运之轮-正位.png"
+    "asset": "assets/tarot_szb/命运之轮-正位.jpg"
   },
   {
     "id": "tarot_major_11_upright_v02",
@@ -915,7 +915,7 @@
     "orientation": "正位",
     "insight": "命运之轮的正位让变化变得清晰，机会正在把局面往前推。",
     "advice": "把注意力放在循环上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/命运之轮-正位.png"
+    "asset": "assets/tarot_szb/命运之轮-正位.jpg"
   },
   {
     "id": "tarot_major_11_upright_v03",
@@ -924,7 +924,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，变化不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住机会。",
-    "asset": "assets/tarot_szb/命运之轮-正位.png"
+    "asset": "assets/tarot_szb/命运之轮-正位.jpg"
   },
   {
     "id": "tarot_major_11_upright_v04",
@@ -933,7 +933,7 @@
     "orientation": "正位",
     "insight": "命运之轮带来温和但明确的推力，循环会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/命运之轮-正位.png"
+    "asset": "assets/tarot_szb/命运之轮-正位.jpg"
   },
   {
     "id": "tarot_major_11_upright_v05",
@@ -942,7 +942,7 @@
     "orientation": "正位",
     "insight": "正位的命运之轮像一盏小灯，提醒你把转折用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/命运之轮-正位.png"
+    "asset": "assets/tarot_szb/命运之轮-正位.jpg"
   },
   {
     "id": "tarot_major_11_reversed",
@@ -951,7 +951,7 @@
     "orientation": "逆位",
     "insight": "起伏让人不安，别把偶然当成定局。",
     "advice": "先稳住节奏，等局面转清。",
-    "asset": "assets/tarot_szb/命运之轮-逆位.png"
+    "asset": "assets/tarot_szb/命运之轮-逆位.jpg"
   },
   {
     "id": "tarot_major_11_reversed_v02",
@@ -960,7 +960,7 @@
     "orientation": "逆位",
     "insight": "命运之轮逆位时，变化容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/命运之轮-逆位.png"
+    "asset": "assets/tarot_szb/命运之轮-逆位.jpg"
   },
   {
     "id": "tarot_major_11_reversed_v03",
@@ -969,7 +969,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，机会可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/命运之轮-逆位.png"
+    "asset": "assets/tarot_szb/命运之轮-逆位.jpg"
   },
   {
     "id": "tarot_major_11_reversed_v04",
@@ -978,7 +978,7 @@
     "orientation": "逆位",
     "insight": "逆位的命运之轮让循环显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/命运之轮-逆位.png"
+    "asset": "assets/tarot_szb/命运之轮-逆位.jpg"
   },
   {
     "id": "tarot_major_11_reversed_v05",
@@ -987,7 +987,7 @@
     "orientation": "逆位",
     "insight": "命运之轮逆位像一面雾镜，照出你对转折的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/命运之轮-逆位.png"
+    "asset": "assets/tarot_szb/命运之轮-逆位.jpg"
   },
   {
     "id": "tarot_major_12_upright",
@@ -996,7 +996,7 @@
     "orientation": "正位",
     "insight": "公平、证据和责任会成为关键。",
     "advice": "把账目、约定和边界说清楚。",
-    "asset": "assets/tarot_szb/正义-正位.png"
+    "asset": "assets/tarot_szb/正义-正位.jpg"
   },
   {
     "id": "tarot_major_12_upright_v02",
@@ -1005,7 +1005,7 @@
     "orientation": "正位",
     "insight": "正义的正位让公平变得清晰，证据正在把局面往前推。",
     "advice": "把注意力放在责任上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/正义-正位.png"
+    "asset": "assets/tarot_szb/正义-正位.jpg"
   },
   {
     "id": "tarot_major_12_upright_v03",
@@ -1014,7 +1014,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，公平不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住证据。",
-    "asset": "assets/tarot_szb/正义-正位.png"
+    "asset": "assets/tarot_szb/正义-正位.jpg"
   },
   {
     "id": "tarot_major_12_upright_v04",
@@ -1023,7 +1023,7 @@
     "orientation": "正位",
     "insight": "正义带来温和但明确的推力，责任会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/正义-正位.png"
+    "asset": "assets/tarot_szb/正义-正位.jpg"
   },
   {
     "id": "tarot_major_12_upright_v05",
@@ -1032,7 +1032,7 @@
     "orientation": "正位",
     "insight": "正位的正义像一盏小灯，提醒你把平衡用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/正义-正位.png"
+    "asset": "assets/tarot_szb/正义-正位.jpg"
   },
   {
     "id": "tarot_major_12_reversed",
@@ -1041,7 +1041,7 @@
     "orientation": "逆位",
     "insight": "偏见或遗漏会影响判断。",
     "advice": "确认事实，再下结论。",
-    "asset": "assets/tarot_szb/正义-逆位.png"
+    "asset": "assets/tarot_szb/正义-逆位.jpg"
   },
   {
     "id": "tarot_major_12_reversed_v02",
@@ -1050,7 +1050,7 @@
     "orientation": "逆位",
     "insight": "正义逆位时，公平容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/正义-逆位.png"
+    "asset": "assets/tarot_szb/正义-逆位.jpg"
   },
   {
     "id": "tarot_major_12_reversed_v03",
@@ -1059,7 +1059,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，证据可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/正义-逆位.png"
+    "asset": "assets/tarot_szb/正义-逆位.jpg"
   },
   {
     "id": "tarot_major_12_reversed_v04",
@@ -1068,7 +1068,7 @@
     "orientation": "逆位",
     "insight": "逆位的正义让责任显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/正义-逆位.png"
+    "asset": "assets/tarot_szb/正义-逆位.jpg"
   },
   {
     "id": "tarot_major_12_reversed_v05",
@@ -1077,7 +1077,7 @@
     "orientation": "逆位",
     "insight": "正义逆位像一面雾镜，照出你对平衡的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/正义-逆位.png"
+    "asset": "assets/tarot_szb/正义-逆位.jpg"
   },
   {
     "id": "tarot_major_13_upright",
@@ -1086,7 +1086,7 @@
     "orientation": "正位",
     "insight": "暂时停住不是失败，是换角度。",
     "advice": "别急着推进，先看清牺牲值不值得。",
-    "asset": "assets/tarot_szb/倒吊人-正位.png"
+    "asset": "assets/tarot_szb/倒吊人-正位.jpg"
   },
   {
     "id": "tarot_major_13_upright_v02",
@@ -1095,7 +1095,7 @@
     "orientation": "正位",
     "insight": "倒吊人的正位让暂停变得清晰，换位正在把局面往前推。",
     "advice": "把注意力放在牺牲上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/倒吊人-正位.png"
+    "asset": "assets/tarot_szb/倒吊人-正位.jpg"
   },
   {
     "id": "tarot_major_13_upright_v03",
@@ -1104,7 +1104,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，暂停不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住换位。",
-    "asset": "assets/tarot_szb/倒吊人-正位.png"
+    "asset": "assets/tarot_szb/倒吊人-正位.jpg"
   },
   {
     "id": "tarot_major_13_upright_v04",
@@ -1113,7 +1113,7 @@
     "orientation": "正位",
     "insight": "倒吊人带来温和但明确的推力，牺牲会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/倒吊人-正位.png"
+    "asset": "assets/tarot_szb/倒吊人-正位.jpg"
   },
   {
     "id": "tarot_major_13_upright_v05",
@@ -1122,7 +1122,7 @@
     "orientation": "正位",
     "insight": "正位的倒吊人像一盏小灯，提醒你把等待用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/倒吊人-正位.png"
+    "asset": "assets/tarot_szb/倒吊人-正位.jpg"
   },
   {
     "id": "tarot_major_13_reversed",
@@ -1131,7 +1131,7 @@
     "orientation": "逆位",
     "insight": "拖延可能披着等待的外衣。",
     "advice": "给自己一个明确期限，别无限悬着。",
-    "asset": "assets/tarot_szb/倒吊人-逆位.png"
+    "asset": "assets/tarot_szb/倒吊人-逆位.jpg"
   },
   {
     "id": "tarot_major_13_reversed_v02",
@@ -1140,7 +1140,7 @@
     "orientation": "逆位",
     "insight": "倒吊人逆位时，暂停容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/倒吊人-逆位.png"
+    "asset": "assets/tarot_szb/倒吊人-逆位.jpg"
   },
   {
     "id": "tarot_major_13_reversed_v03",
@@ -1149,7 +1149,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，换位可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/倒吊人-逆位.png"
+    "asset": "assets/tarot_szb/倒吊人-逆位.jpg"
   },
   {
     "id": "tarot_major_13_reversed_v04",
@@ -1158,7 +1158,7 @@
     "orientation": "逆位",
     "insight": "逆位的倒吊人让牺牲显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/倒吊人-逆位.png"
+    "asset": "assets/tarot_szb/倒吊人-逆位.jpg"
   },
   {
     "id": "tarot_major_13_reversed_v05",
@@ -1167,7 +1167,7 @@
     "orientation": "逆位",
     "insight": "倒吊人逆位像一面雾镜，照出你对等待的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/倒吊人-逆位.png"
+    "asset": "assets/tarot_szb/倒吊人-逆位.jpg"
   },
   {
     "id": "tarot_major_14_upright",
@@ -1176,7 +1176,7 @@
     "orientation": "正位",
     "insight": "旧阶段结束，新空间会随之出现。",
     "advice": "清理不再适合的人、事、习惯。",
-    "asset": "assets/tarot_szb/死神-正位.png"
+    "asset": "assets/tarot_szb/死神-正位.jpg"
   },
   {
     "id": "tarot_major_14_upright_v02",
@@ -1185,7 +1185,7 @@
     "orientation": "正位",
     "insight": "死神的正位让结束变得清晰，清理正在把局面往前推。",
     "advice": "把注意力放在更新上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/死神-正位.png"
+    "asset": "assets/tarot_szb/死神-正位.jpg"
   },
   {
     "id": "tarot_major_14_upright_v03",
@@ -1194,7 +1194,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，结束不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住清理。",
-    "asset": "assets/tarot_szb/死神-正位.png"
+    "asset": "assets/tarot_szb/死神-正位.jpg"
   },
   {
     "id": "tarot_major_14_upright_v04",
@@ -1203,7 +1203,7 @@
     "orientation": "正位",
     "insight": "死神带来温和但明确的推力，更新会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/死神-正位.png"
+    "asset": "assets/tarot_szb/死神-正位.jpg"
   },
   {
     "id": "tarot_major_14_upright_v05",
@@ -1212,7 +1212,7 @@
     "orientation": "正位",
     "insight": "正位的死神像一盏小灯，提醒你把蜕变用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/死神-正位.png"
+    "asset": "assets/tarot_szb/死神-正位.jpg"
   },
   {
     "id": "tarot_major_14_reversed",
@@ -1221,7 +1221,7 @@
     "orientation": "逆位",
     "insight": "抗拒改变会让痛苦变长。",
     "advice": "先放下一点，别抱着旧壳过冬。",
-    "asset": "assets/tarot_szb/死神-逆位.png"
+    "asset": "assets/tarot_szb/死神-逆位.jpg"
   },
   {
     "id": "tarot_major_14_reversed_v02",
@@ -1230,7 +1230,7 @@
     "orientation": "逆位",
     "insight": "死神逆位时，结束容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/死神-逆位.png"
+    "asset": "assets/tarot_szb/死神-逆位.jpg"
   },
   {
     "id": "tarot_major_14_reversed_v03",
@@ -1239,7 +1239,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，清理可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/死神-逆位.png"
+    "asset": "assets/tarot_szb/死神-逆位.jpg"
   },
   {
     "id": "tarot_major_14_reversed_v04",
@@ -1248,7 +1248,7 @@
     "orientation": "逆位",
     "insight": "逆位的死神让更新显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/死神-逆位.png"
+    "asset": "assets/tarot_szb/死神-逆位.jpg"
   },
   {
     "id": "tarot_major_14_reversed_v05",
@@ -1257,7 +1257,7 @@
     "orientation": "逆位",
     "insight": "死神逆位像一面雾镜，照出你对蜕变的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/死神-逆位.png"
+    "asset": "assets/tarot_szb/死神-逆位.jpg"
   },
   {
     "id": "tarot_major_15_upright",
@@ -1266,7 +1266,7 @@
     "orientation": "正位",
     "insight": "平衡和调和会让事情慢慢变好。",
     "advice": "把节奏放匀，别一下用力过猛。",
-    "asset": "assets/tarot_szb/节制-正位.png"
+    "asset": "assets/tarot_szb/节制-正位.jpg"
   },
   {
     "id": "tarot_major_15_upright_v02",
@@ -1275,7 +1275,7 @@
     "orientation": "正位",
     "insight": "节制的正位让调和变得清晰，平衡正在把局面往前推。",
     "advice": "把注意力放在节奏上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/节制-正位.png"
+    "asset": "assets/tarot_szb/节制-正位.jpg"
   },
   {
     "id": "tarot_major_15_upright_v03",
@@ -1284,7 +1284,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，调和不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住平衡。",
-    "asset": "assets/tarot_szb/节制-正位.png"
+    "asset": "assets/tarot_szb/节制-正位.jpg"
   },
   {
     "id": "tarot_major_15_upright_v04",
@@ -1293,7 +1293,7 @@
     "orientation": "正位",
     "insight": "节制带来温和但明确的推力，节奏会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/节制-正位.png"
+    "asset": "assets/tarot_szb/节制-正位.jpg"
   },
   {
     "id": "tarot_major_15_upright_v05",
@@ -1302,7 +1302,7 @@
     "orientation": "正位",
     "insight": "正位的节制像一盏小灯，提醒你把修复用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/节制-正位.png"
+    "asset": "assets/tarot_szb/节制-正位.jpg"
   },
   {
     "id": "tarot_major_15_reversed",
@@ -1311,7 +1311,7 @@
     "orientation": "逆位",
     "insight": "冷热失衡，容易顾此失彼。",
     "advice": "减少极端做法，先找中间方案。",
-    "asset": "assets/tarot_szb/节制-逆位.png"
+    "asset": "assets/tarot_szb/节制-逆位.jpg"
   },
   {
     "id": "tarot_major_15_reversed_v02",
@@ -1320,7 +1320,7 @@
     "orientation": "逆位",
     "insight": "节制逆位时，调和容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/节制-逆位.png"
+    "asset": "assets/tarot_szb/节制-逆位.jpg"
   },
   {
     "id": "tarot_major_15_reversed_v03",
@@ -1329,7 +1329,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，平衡可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/节制-逆位.png"
+    "asset": "assets/tarot_szb/节制-逆位.jpg"
   },
   {
     "id": "tarot_major_15_reversed_v04",
@@ -1338,7 +1338,7 @@
     "orientation": "逆位",
     "insight": "逆位的节制让节奏显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/节制-逆位.png"
+    "asset": "assets/tarot_szb/节制-逆位.jpg"
   },
   {
     "id": "tarot_major_15_reversed_v05",
@@ -1347,7 +1347,7 @@
     "orientation": "逆位",
     "insight": "节制逆位像一面雾镜，照出你对修复的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/节制-逆位.png"
+    "asset": "assets/tarot_szb/节制-逆位.jpg"
   },
   {
     "id": "tarot_major_16_upright",
@@ -1356,7 +1356,7 @@
     "orientation": "正位",
     "insight": "欲望、执念或依赖正在显形。",
     "advice": "看清自己被什么牵着走。",
-    "asset": "assets/tarot_szb/恶魔-正位.png"
+    "asset": "assets/tarot_szb/恶魔-正位.jpg"
   },
   {
     "id": "tarot_major_16_upright_v02",
@@ -1365,7 +1365,7 @@
     "orientation": "正位",
     "insight": "恶魔的正位让执念变得清晰，诱惑正在把局面往前推。",
     "advice": "把注意力放在束缚上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/恶魔-正位.png"
+    "asset": "assets/tarot_szb/恶魔-正位.jpg"
   },
   {
     "id": "tarot_major_16_upright_v03",
@@ -1374,7 +1374,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，执念不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住诱惑。",
-    "asset": "assets/tarot_szb/恶魔-正位.png"
+    "asset": "assets/tarot_szb/恶魔-正位.jpg"
   },
   {
     "id": "tarot_major_16_upright_v04",
@@ -1383,7 +1383,7 @@
     "orientation": "正位",
     "insight": "恶魔带来温和但明确的推力，束缚会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/恶魔-正位.png"
+    "asset": "assets/tarot_szb/恶魔-正位.jpg"
   },
   {
     "id": "tarot_major_16_upright_v05",
@@ -1392,7 +1392,7 @@
     "orientation": "正位",
     "insight": "正位的恶魔像一盏小灯，提醒你把欲望用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/恶魔-正位.png"
+    "asset": "assets/tarot_szb/恶魔-正位.jpg"
   },
   {
     "id": "tarot_major_16_reversed",
@@ -1401,7 +1401,7 @@
     "orientation": "逆位",
     "insight": "束缚感减弱，适合摆脱旧诱惑。",
     "advice": "趁清醒做切割，别回头讨价还价。",
-    "asset": "assets/tarot_szb/恶魔-逆位.png"
+    "asset": "assets/tarot_szb/恶魔-逆位.jpg"
   },
   {
     "id": "tarot_major_16_reversed_v02",
@@ -1410,7 +1410,7 @@
     "orientation": "逆位",
     "insight": "恶魔逆位时，执念容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/恶魔-逆位.png"
+    "asset": "assets/tarot_szb/恶魔-逆位.jpg"
   },
   {
     "id": "tarot_major_16_reversed_v03",
@@ -1419,7 +1419,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，诱惑可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/恶魔-逆位.png"
+    "asset": "assets/tarot_szb/恶魔-逆位.jpg"
   },
   {
     "id": "tarot_major_16_reversed_v04",
@@ -1428,7 +1428,7 @@
     "orientation": "逆位",
     "insight": "逆位的恶魔让束缚显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/恶魔-逆位.png"
+    "asset": "assets/tarot_szb/恶魔-逆位.jpg"
   },
   {
     "id": "tarot_major_16_reversed_v05",
@@ -1437,7 +1437,7 @@
     "orientation": "逆位",
     "insight": "恶魔逆位像一面雾镜，照出你对欲望的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/恶魔-逆位.png"
+    "asset": "assets/tarot_szb/恶魔-逆位.jpg"
   },
   {
     "id": "tarot_major_17_upright",
@@ -1446,7 +1446,7 @@
     "orientation": "正位",
     "insight": "突发变化会拆掉不稳的结构。",
     "advice": "别急着补墙，先看哪里本来就该重建。",
-    "asset": "assets/tarot_szb/塔-正位.png"
+    "asset": "assets/tarot_szb/塔-正位.jpg"
   },
   {
     "id": "tarot_major_17_upright_v02",
@@ -1455,7 +1455,7 @@
     "orientation": "正位",
     "insight": "高塔的正位让冲击变得清晰，拆除正在把局面往前推。",
     "advice": "把注意力放在真相上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/塔-正位.png"
+    "asset": "assets/tarot_szb/塔-正位.jpg"
   },
   {
     "id": "tarot_major_17_upright_v03",
@@ -1464,7 +1464,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，冲击不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住拆除。",
-    "asset": "assets/tarot_szb/塔-正位.png"
+    "asset": "assets/tarot_szb/塔-正位.jpg"
   },
   {
     "id": "tarot_major_17_upright_v04",
@@ -1473,7 +1473,7 @@
     "orientation": "正位",
     "insight": "高塔带来温和但明确的推力，真相会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/塔-正位.png"
+    "asset": "assets/tarot_szb/塔-正位.jpg"
   },
   {
     "id": "tarot_major_17_upright_v05",
@@ -1482,7 +1482,7 @@
     "orientation": "正位",
     "insight": "正位的高塔像一盏小灯，提醒你把重建用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/塔-正位.png"
+    "asset": "assets/tarot_szb/塔-正位.jpg"
   },
   {
     "id": "tarot_major_17_reversed",
@@ -1491,7 +1491,7 @@
     "orientation": "逆位",
     "insight": "危机被压住但没消失。",
     "advice": "提前排雷，别等它自己炸开。",
-    "asset": "assets/tarot_szb/塔-逆位.png"
+    "asset": "assets/tarot_szb/塔-逆位.jpg"
   },
   {
     "id": "tarot_major_17_reversed_v02",
@@ -1500,7 +1500,7 @@
     "orientation": "逆位",
     "insight": "高塔逆位时，冲击容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/塔-逆位.png"
+    "asset": "assets/tarot_szb/塔-逆位.jpg"
   },
   {
     "id": "tarot_major_17_reversed_v03",
@@ -1509,7 +1509,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，拆除可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/塔-逆位.png"
+    "asset": "assets/tarot_szb/塔-逆位.jpg"
   },
   {
     "id": "tarot_major_17_reversed_v04",
@@ -1518,7 +1518,7 @@
     "orientation": "逆位",
     "insight": "逆位的高塔让真相显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/塔-逆位.png"
+    "asset": "assets/tarot_szb/塔-逆位.jpg"
   },
   {
     "id": "tarot_major_17_reversed_v05",
@@ -1527,7 +1527,7 @@
     "orientation": "逆位",
     "insight": "高塔逆位像一面雾镜，照出你对重建的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/塔-逆位.png"
+    "asset": "assets/tarot_szb/塔-逆位.jpg"
   },
   {
     "id": "tarot_major_18_upright",
@@ -1536,7 +1536,7 @@
     "orientation": "正位",
     "insight": "希望在恢复，温柔的光会慢慢回来。",
     "advice": "做一点能让自己重新相信的事。",
-    "asset": "assets/tarot_szb/星星-正位.png"
+    "asset": "assets/tarot_szb/星星-正位.jpg"
   },
   {
     "id": "tarot_major_18_upright_v02",
@@ -1545,7 +1545,7 @@
     "orientation": "正位",
     "insight": "星星的正位让希望变得清晰，疗愈正在把局面往前推。",
     "advice": "把注意力放在愿望上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/星星-正位.png"
+    "asset": "assets/tarot_szb/星星-正位.jpg"
   },
   {
     "id": "tarot_major_18_upright_v03",
@@ -1554,7 +1554,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，希望不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住疗愈。",
-    "asset": "assets/tarot_szb/星星-正位.png"
+    "asset": "assets/tarot_szb/星星-正位.jpg"
   },
   {
     "id": "tarot_major_18_upright_v04",
@@ -1563,7 +1563,7 @@
     "orientation": "正位",
     "insight": "星星带来温和但明确的推力，愿望会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/星星-正位.png"
+    "asset": "assets/tarot_szb/星星-正位.jpg"
   },
   {
     "id": "tarot_major_18_upright_v05",
@@ -1572,7 +1572,7 @@
     "orientation": "正位",
     "insight": "正位的星星像一盏小灯，提醒你把信任用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/星星-正位.png"
+    "asset": "assets/tarot_szb/星星-正位.jpg"
   },
   {
     "id": "tarot_major_18_reversed",
@@ -1581,7 +1581,7 @@
     "orientation": "逆位",
     "insight": "期待过高会带来失落。",
     "advice": "把愿望拆小，先实现最近的一步。",
-    "asset": "assets/tarot_szb/星星-逆位.png"
+    "asset": "assets/tarot_szb/星星-逆位.jpg"
   },
   {
     "id": "tarot_major_18_reversed_v02",
@@ -1590,7 +1590,7 @@
     "orientation": "逆位",
     "insight": "星星逆位时，希望容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/星星-逆位.png"
+    "asset": "assets/tarot_szb/星星-逆位.jpg"
   },
   {
     "id": "tarot_major_18_reversed_v03",
@@ -1599,7 +1599,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，疗愈可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/星星-逆位.png"
+    "asset": "assets/tarot_szb/星星-逆位.jpg"
   },
   {
     "id": "tarot_major_18_reversed_v04",
@@ -1608,7 +1608,7 @@
     "orientation": "逆位",
     "insight": "逆位的星星让愿望显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/星星-逆位.png"
+    "asset": "assets/tarot_szb/星星-逆位.jpg"
   },
   {
     "id": "tarot_major_18_reversed_v05",
@@ -1617,7 +1617,7 @@
     "orientation": "逆位",
     "insight": "星星逆位像一面雾镜，照出你对信任的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/星星-逆位.png"
+    "asset": "assets/tarot_szb/星星-逆位.jpg"
   },
   {
     "id": "tarot_major_19_upright",
@@ -1626,7 +1626,7 @@
     "orientation": "正位",
     "insight": "迷雾、梦境和不安会影响判断。",
     "advice": "今天别被情绪牵着跑，重要事多确认。",
-    "asset": "assets/tarot_szb/月亮-正位.png"
+    "asset": "assets/tarot_szb/月亮-正位.jpg"
   },
   {
     "id": "tarot_major_19_upright_v02",
@@ -1635,7 +1635,7 @@
     "orientation": "正位",
     "insight": "月亮的正位让迷雾变得清晰，梦境正在把局面往前推。",
     "advice": "把注意力放在不安上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/月亮-正位.png"
+    "asset": "assets/tarot_szb/月亮-正位.jpg"
   },
   {
     "id": "tarot_major_19_upright_v03",
@@ -1644,7 +1644,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，迷雾不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住梦境。",
-    "asset": "assets/tarot_szb/月亮-正位.png"
+    "asset": "assets/tarot_szb/月亮-正位.jpg"
   },
   {
     "id": "tarot_major_19_upright_v04",
@@ -1653,7 +1653,7 @@
     "orientation": "正位",
     "insight": "月亮带来温和但明确的推力，不安会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/月亮-正位.png"
+    "asset": "assets/tarot_szb/月亮-正位.jpg"
   },
   {
     "id": "tarot_major_19_upright_v05",
@@ -1662,7 +1662,7 @@
     "orientation": "正位",
     "insight": "正位的月亮像一盏小灯，提醒你把潜意识用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/月亮-正位.png"
+    "asset": "assets/tarot_szb/月亮-正位.jpg"
   },
   {
     "id": "tarot_major_19_reversed",
@@ -1671,7 +1671,7 @@
     "orientation": "逆位",
     "insight": "误会开始散去，真相露出边缘。",
     "advice": "顺着线索查，不要靠猜。",
-    "asset": "assets/tarot_szb/月亮-逆位.png"
+    "asset": "assets/tarot_szb/月亮-逆位.jpg"
   },
   {
     "id": "tarot_major_19_reversed_v02",
@@ -1680,7 +1680,7 @@
     "orientation": "逆位",
     "insight": "月亮逆位时，迷雾容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/月亮-逆位.png"
+    "asset": "assets/tarot_szb/月亮-逆位.jpg"
   },
   {
     "id": "tarot_major_19_reversed_v03",
@@ -1689,7 +1689,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，梦境可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/月亮-逆位.png"
+    "asset": "assets/tarot_szb/月亮-逆位.jpg"
   },
   {
     "id": "tarot_major_19_reversed_v04",
@@ -1698,7 +1698,7 @@
     "orientation": "逆位",
     "insight": "逆位的月亮让不安显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/月亮-逆位.png"
+    "asset": "assets/tarot_szb/月亮-逆位.jpg"
   },
   {
     "id": "tarot_major_19_reversed_v05",
@@ -1707,7 +1707,7 @@
     "orientation": "逆位",
     "insight": "月亮逆位像一面雾镜，照出你对潜意识的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/月亮-逆位.png"
+    "asset": "assets/tarot_szb/月亮-逆位.jpg"
   },
   {
     "id": "tarot_major_20_upright",
@@ -1716,7 +1716,7 @@
     "orientation": "正位",
     "insight": "清晰、活力和好消息正在靠近。",
     "advice": "把成果展示出来，别藏着发光。",
-    "asset": "assets/tarot_szb/太阳-正位.png"
+    "asset": "assets/tarot_szb/太阳-正位.jpg"
   },
   {
     "id": "tarot_major_20_upright_v02",
@@ -1725,7 +1725,7 @@
     "orientation": "正位",
     "insight": "太阳的正位让清晰变得清晰，活力正在把局面往前推。",
     "advice": "把注意力放在坦荡上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/太阳-正位.png"
+    "asset": "assets/tarot_szb/太阳-正位.jpg"
   },
   {
     "id": "tarot_major_20_upright_v03",
@@ -1734,7 +1734,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，清晰不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住活力。",
-    "asset": "assets/tarot_szb/太阳-正位.png"
+    "asset": "assets/tarot_szb/太阳-正位.jpg"
   },
   {
     "id": "tarot_major_20_upright_v04",
@@ -1743,7 +1743,7 @@
     "orientation": "正位",
     "insight": "太阳带来温和但明确的推力，坦荡会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/太阳-正位.png"
+    "asset": "assets/tarot_szb/太阳-正位.jpg"
   },
   {
     "id": "tarot_major_20_upright_v05",
@@ -1752,7 +1752,7 @@
     "orientation": "正位",
     "insight": "正位的太阳像一盏小灯，提醒你把喜讯用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/太阳-正位.png"
+    "asset": "assets/tarot_szb/太阳-正位.jpg"
   },
   {
     "id": "tarot_major_20_reversed",
@@ -1761,7 +1761,7 @@
     "orientation": "逆位",
     "insight": "快乐被消耗，可能有点勉强自己。",
     "advice": "先补能量，再谈表现。",
-    "asset": "assets/tarot_szb/太阳-逆位.png"
+    "asset": "assets/tarot_szb/太阳-逆位.jpg"
   },
   {
     "id": "tarot_major_20_reversed_v02",
@@ -1770,7 +1770,7 @@
     "orientation": "逆位",
     "insight": "太阳逆位时，清晰容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/太阳-逆位.png"
+    "asset": "assets/tarot_szb/太阳-逆位.jpg"
   },
   {
     "id": "tarot_major_20_reversed_v03",
@@ -1779,7 +1779,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，活力可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/太阳-逆位.png"
+    "asset": "assets/tarot_szb/太阳-逆位.jpg"
   },
   {
     "id": "tarot_major_20_reversed_v04",
@@ -1788,7 +1788,7 @@
     "orientation": "逆位",
     "insight": "逆位的太阳让坦荡显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/太阳-逆位.png"
+    "asset": "assets/tarot_szb/太阳-逆位.jpg"
   },
   {
     "id": "tarot_major_20_reversed_v05",
@@ -1797,7 +1797,7 @@
     "orientation": "逆位",
     "insight": "太阳逆位像一面雾镜，照出你对喜讯的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/太阳-逆位.png"
+    "asset": "assets/tarot_szb/太阳-逆位.jpg"
   },
   {
     "id": "tarot_major_21_upright",
@@ -1806,7 +1806,7 @@
     "orientation": "正位",
     "insight": "复盘与回应会带来新的阶段。",
     "advice": "该面对的事别再拖，给过去一个结论。",
-    "asset": "assets/tarot_szb/审判-正位.png"
+    "asset": "assets/tarot_szb/审判-正位.jpg"
   },
   {
     "id": "tarot_major_21_upright_v02",
@@ -1815,7 +1815,7 @@
     "orientation": "正位",
     "insight": "审判的正位让回应变得清晰，复盘正在把局面往前推。",
     "advice": "把注意力放在召唤上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/审判-正位.png"
+    "asset": "assets/tarot_szb/审判-正位.jpg"
   },
   {
     "id": "tarot_major_21_upright_v03",
@@ -1824,7 +1824,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，回应不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住复盘。",
-    "asset": "assets/tarot_szb/审判-正位.png"
+    "asset": "assets/tarot_szb/审判-正位.jpg"
   },
   {
     "id": "tarot_major_21_upright_v04",
@@ -1833,7 +1833,7 @@
     "orientation": "正位",
     "insight": "审判带来温和但明确的推力，召唤会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/审判-正位.png"
+    "asset": "assets/tarot_szb/审判-正位.jpg"
   },
   {
     "id": "tarot_major_21_upright_v05",
@@ -1842,7 +1842,7 @@
     "orientation": "正位",
     "insight": "正位的审判像一盏小灯，提醒你把重启用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/审判-正位.png"
+    "asset": "assets/tarot_szb/审判-正位.jpg"
   },
   {
     "id": "tarot_major_21_reversed",
@@ -1851,7 +1851,7 @@
     "orientation": "逆位",
     "insight": "自责或逃避会卡住重启。",
     "advice": "承认问题，然后把下一步写清楚。",
-    "asset": "assets/tarot_szb/审判-逆位.png"
+    "asset": "assets/tarot_szb/审判-逆位.jpg"
   },
   {
     "id": "tarot_major_21_reversed_v02",
@@ -1860,7 +1860,7 @@
     "orientation": "逆位",
     "insight": "审判逆位时，回应容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/审判-逆位.png"
+    "asset": "assets/tarot_szb/审判-逆位.jpg"
   },
   {
     "id": "tarot_major_21_reversed_v03",
@@ -1869,7 +1869,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，复盘可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/审判-逆位.png"
+    "asset": "assets/tarot_szb/审判-逆位.jpg"
   },
   {
     "id": "tarot_major_21_reversed_v04",
@@ -1878,7 +1878,7 @@
     "orientation": "逆位",
     "insight": "逆位的审判让召唤显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/审判-逆位.png"
+    "asset": "assets/tarot_szb/审判-逆位.jpg"
   },
   {
     "id": "tarot_major_21_reversed_v05",
@@ -1887,7 +1887,7 @@
     "orientation": "逆位",
     "insight": "审判逆位像一面雾镜，照出你对重启的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/审判-逆位.png"
+    "asset": "assets/tarot_szb/审判-逆位.jpg"
   },
   {
     "id": "tarot_major_22_upright",
@@ -1896,7 +1896,7 @@
     "orientation": "正位",
     "insight": "一个阶段趋于完整，收获正在闭环。",
     "advice": "适合总结、交付、庆祝小胜利。",
-    "asset": "assets/tarot_szb/世界-正位.png"
+    "asset": "assets/tarot_szb/世界-正位.jpg"
   },
   {
     "id": "tarot_major_22_upright_v02",
@@ -1905,7 +1905,7 @@
     "orientation": "正位",
     "insight": "世界的正位让完成变得清晰，整合正在把局面往前推。",
     "advice": "把注意力放在交付上，今天适合主动迈出小而稳的一步。",
-    "asset": "assets/tarot_szb/世界-正位.png"
+    "asset": "assets/tarot_szb/世界-正位.jpg"
   },
   {
     "id": "tarot_major_22_upright_v03",
@@ -1914,7 +1914,7 @@
     "orientation": "正位",
     "insight": "这张牌提示你，完成不是突然降临的好运，而是长期积累后的回应。",
     "advice": "顺着已经出现的线索行动，别让犹豫压住整合。",
-    "asset": "assets/tarot_szb/世界-正位.png"
+    "asset": "assets/tarot_szb/世界-正位.jpg"
   },
   {
     "id": "tarot_major_22_upright_v04",
@@ -1923,7 +1923,7 @@
     "orientation": "正位",
     "insight": "世界带来温和但明确的推力，交付会成为今天的关键。",
     "advice": "先处理最能见效的一处，剩下的会跟着变顺。",
-    "asset": "assets/tarot_szb/世界-正位.png"
+    "asset": "assets/tarot_szb/世界-正位.jpg"
   },
   {
     "id": "tarot_major_22_upright_v05",
@@ -1932,7 +1932,7 @@
     "orientation": "正位",
     "insight": "正位的世界像一盏小灯，提醒你把圆满用在正确的位置。",
     "advice": "保持坦诚和节奏感，别把简单事想得太绕。",
-    "asset": "assets/tarot_szb/世界-正位.png"
+    "asset": "assets/tarot_szb/世界-正位.jpg"
   },
   {
     "id": "tarot_major_22_reversed",
@@ -1941,7 +1941,7 @@
     "orientation": "逆位",
     "insight": "临门一脚容易松劲。",
     "advice": "把最后的细节补完，再说结束。",
-    "asset": "assets/tarot_szb/世界-逆位.png"
+    "asset": "assets/tarot_szb/世界-逆位.jpg"
   },
   {
     "id": "tarot_major_22_reversed_v02",
@@ -1950,7 +1950,7 @@
     "orientation": "逆位",
     "insight": "世界逆位时，完成容易变成拖住你的暗线，心里越急越看不清。",
     "advice": "先停一下，把真正卡住你的地方写出来。",
-    "asset": "assets/tarot_szb/世界-逆位.png"
+    "asset": "assets/tarot_szb/世界-逆位.jpg"
   },
   {
     "id": "tarot_major_22_reversed_v03",
@@ -1959,7 +1959,7 @@
     "orientation": "逆位",
     "insight": "这张逆位牌提示你，整合可能正在失衡，外表平静不代表问题消失。",
     "advice": "别急着补救所有事，先选最重要的一处松绑。",
-    "asset": "assets/tarot_szb/世界-逆位.png"
+    "asset": "assets/tarot_szb/世界-逆位.jpg"
   },
   {
     "id": "tarot_major_22_reversed_v04",
@@ -1968,7 +1968,7 @@
     "orientation": "逆位",
     "insight": "逆位的世界让交付显得迟缓，可能是方向还没对齐。",
     "advice": "减少无效消耗，等信息明确后再推进。",
-    "asset": "assets/tarot_szb/世界-逆位.png"
+    "asset": "assets/tarot_szb/世界-逆位.jpg"
   },
   {
     "id": "tarot_major_22_reversed_v05",
@@ -1977,7 +1977,7 @@
     "orientation": "逆位",
     "insight": "世界逆位像一面雾镜，照出你对圆满的过度用力。",
     "advice": "把标准放低一点，今天先求稳，不求完美。",
-    "asset": "assets/tarot_szb/世界-逆位.png"
+    "asset": "assets/tarot_szb/世界-逆位.jpg"
   },
   {
     "id": "tarot_minor_001_upright",
