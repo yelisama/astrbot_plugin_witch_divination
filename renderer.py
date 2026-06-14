@@ -102,6 +102,13 @@ def _render_tarot_image(item: dict[str, Any], cache_dir: Path, config: dict[str,
     except ValueError:
         logger.warning("塔罗 asset 路径越界: %s", asset)
         return None
+    if not asset_path.exists() and asset_path.suffix.lower() in {".png", ".jpg", ".jpeg"}:
+        candidates = [
+            asset_path.with_suffix(".jpg"),
+            asset_path.with_suffix(".png"),
+            asset_path.with_suffix(".jpeg"),
+        ]
+        asset_path = next((path for path in candidates if path.exists()), asset_path)
     if not asset_path.exists():
         logger.warning("塔罗 asset 不存在: %s", asset_path)
         return None
