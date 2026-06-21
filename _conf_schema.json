@@ -8,7 +8,11 @@
   "enabled_types": {
     "description": "启用的占卜类型",
     "type": "list",
-    "default": ["omikuji", "tarot", "crystal"],
+    "default": [
+      "omikuji",
+      "tarot",
+      "crystal"
+    ],
     "hint": "类型ID列表，对应数据目录 types/*.json",
     "items": {
       "type": "string"
@@ -25,7 +29,11 @@
     "type": "int",
     "default": 1,
     "hint": "每个用户每天首次生成不同类型结果可消耗免费次数，超过后扣金币",
-    "slider": {"min": 0, "max": 10, "step": 1}
+    "slider": {
+      "min": 0,
+      "max": 10,
+      "step": 1
+    }
   },
   "daily_normal_type_limit_enabled": {
     "description": "限制每日常规占卜种类数",
@@ -38,14 +46,22 @@
     "type": "int",
     "default": 3,
     "hint": "1 表示塔罗、御神签、水晶球三选一；2 表示三选二；3 表示三种都可用",
-    "slider": {"min": 1, "max": 3, "step": 1}
+    "slider": {
+      "min": 1,
+      "max": 3,
+      "step": 1
+    }
   },
   "extra_cost": {
     "description": "额外占卜金币价格",
     "type": "int",
     "default": 10,
     "hint": "每日免费次数用完后，首次生成新类型结果所需金币",
-    "slider": {"min": 0, "max": 500, "step": 1}
+    "slider": {
+      "min": 0,
+      "max": 500,
+      "step": 1
+    }
   },
   "coin_link_enabled": {
     "description": "启用丛雨神社金币联动",
@@ -58,14 +74,22 @@
     "type": "int",
     "default": 3,
     "hint": "插件启动和触发占卜时会按间隔自动清理",
-    "slider": {"min": 1, "max": 30, "step": 1}
+    "slider": {
+      "min": 1,
+      "max": 30,
+      "step": 1
+    }
   },
   "record_keep_days": {
     "description": "记录保留天数",
     "type": "int",
     "default": 3,
     "hint": "超过该天数的占卜记录会被清理",
-    "slider": {"min": 1, "max": 30, "step": 1}
+    "slider": {
+      "min": 1,
+      "max": 30,
+      "step": 1
+    }
   },
   "asset_dirs": {
     "description": "素材目录配置",
@@ -88,129 +112,401 @@
       }
     }
   },
-  "tarot_render": {
-    "description": "塔罗图片渲染自定义",
+  "omikuji_render": {
+    "description": "御神签图片模板与文字位置设置",
     "type": "object",
     "items": {
-      "card_width": {
-        "description": "卡图最大宽度",
-        "type": "int",
-        "default": 900,
-        "slider": {"min": 400, "max": 1400, "step": 10}
+      "template": {
+        "description": "御神签卡面模板",
+        "type": "string",
+        "default": "illustration",
+        "hint": "illustration=插图背景版；witch_paper=魔女签纸版"
       },
-      "card_height": {
-        "description": "卡图最大高度",
-        "type": "int",
-        "default": 1300,
-        "slider": {"min": 600, "max": 1800, "step": 10}
+      "template_path": {
+        "description": "魔女签纸模板路径",
+        "type": "string",
+        "default": "assets/layouts/omikuji_paper_b_v1.png"
       },
-      "card_x": {
-        "description": "卡图左上角 X（-1 表示水平居中）",
-        "type": "int",
-        "default": -1,
-        "slider": {"min": -1, "max": 900, "step": 1}
+      "title_text": {
+        "description": "标题文字",
+        "type": "string",
+        "default": "魔女御神签"
       },
-      "card_y": {
-        "description": "卡图左上角 Y",
-        "type": "int",
-        "default": 0,
-        "slider": {"min": -300, "max": 900, "step": 1}
+      "footer_text": {
+        "description": "底部短句",
+        "type": "string",
+        "default": "愿今日微光照见答案"
       },
-      "panel_x": {
-        "description": "白框左边距 X",
+      "title_x": {
+        "description": "标题框 X",
         "type": "int",
-        "default": 54,
-        "slider": {"min": 0, "max": 300, "step": 1}
+        "default": 300,
+        "slider": {
+          "min": 0,
+          "max": 900,
+          "step": 1
+        }
       },
-      "panel_y": {
-        "description": "白框顶部 Y",
+      "title_y": {
+        "description": "标题框 Y",
         "type": "int",
-        "default": 768,
-        "slider": {"min": 0, "max": 1280, "step": 1}
+        "default": 58,
+        "slider": {
+          "min": 0,
+          "max": 1300,
+          "step": 1
+        }
       },
-      "panel_width": {
-        "description": "白框宽度",
+      "title_width": {
+        "description": "标题框宽度",
         "type": "int",
-        "default": 792,
-        "slider": {"min": 300, "max": 900, "step": 1}
+        "default": 300,
+        "slider": {
+          "min": 1,
+          "max": 900,
+          "step": 1
+        }
       },
-      "panel_height": {
-        "description": "白框高度",
+      "title_height": {
+        "description": "标题框高度",
         "type": "int",
-        "default": 458,
-        "slider": {"min": 120, "max": 720, "step": 1}
-      },
-      "panel_alpha": {
-        "description": "白框透明度",
-        "type": "int",
-        "default": 218,
-        "slider": {"min": 0, "max": 255, "step": 1}
-      },
-      "panel_radius": {
-        "description": "白框圆角",
-        "type": "int",
-        "default": 30,
-        "slider": {"min": 0, "max": 80, "step": 1}
+        "default": 58,
+        "slider": {
+          "min": 1,
+          "max": 300,
+          "step": 1
+        }
       },
       "title_font_size": {
-        "description": "牌名字体大小",
+        "description": "标题字号",
         "type": "int",
-        "default": 84,
-        "slider": {"min": 20, "max": 140, "step": 1}
+        "default": 34,
+        "slider": {
+          "min": 10,
+          "max": 100,
+          "step": 1
+        }
       },
-      "label_font_size": {
-        "description": "启示/建议标签字号",
-        "type": "int",
-        "default": 35,
-        "slider": {"min": 18, "max": 80, "step": 1}
-      },
-      "body_font_size": {
-        "description": "正文字号",
-        "type": "int",
-        "default": 38,
-        "slider": {"min": 18, "max": 80, "step": 1}
-      },
-      "text_x": {
-        "description": "正文左侧 X",
-        "type": "int",
-        "default": 92,
-        "slider": {"min": 0, "max": 500, "step": 1}
-      },
-      "title_y_offset": {
-        "description": "牌名相对白框顶部偏移",
-        "type": "int",
-        "default": 28,
-        "slider": {"min": -120, "max": 240, "step": 1}
-      },
-      "title_gap": {
-        "description": "牌名到分割线距离",
-        "type": "int",
-        "default": 98,
-        "slider": {"min": 20, "max": 220, "step": 1}
-      },
-      "line_gap": {
-        "description": "正文行距",
-        "type": "int",
-        "default": 50,
-        "slider": {"min": 20, "max": 100, "step": 1}
-      },
-      "section_gap": {
-        "description": "启示和建议间隔",
-        "type": "int",
-        "default": 30,
-        "slider": {"min": 0, "max": 120, "step": 1}
+      "title_color": {
+        "description": "标题颜色",
+        "type": "string",
+        "default": "#7a4b72"
       },
       "title_stroke_width": {
-        "description": "牌名白边粗细",
+        "description": "标题描边粗细",
+        "type": "int",
+        "default": 2,
+        "slider": {
+          "min": 0,
+          "max": 10,
+          "step": 1
+        }
+      },
+      "title_stroke_fill": {
+        "description": "标题描边颜色",
+        "type": "string",
+        "default": "#fff8fb"
+      },
+      "sign_x": {
+        "description": "签位框 X",
+        "type": "int",
+        "default": 220,
+        "slider": {
+          "min": 0,
+          "max": 900,
+          "step": 1
+        }
+      },
+      "sign_y": {
+        "description": "签位框 Y",
+        "type": "int",
+        "default": 275,
+        "slider": {
+          "min": 0,
+          "max": 1300,
+          "step": 1
+        }
+      },
+      "sign_width": {
+        "description": "签位框宽度",
+        "type": "int",
+        "default": 460,
+        "slider": {
+          "min": 1,
+          "max": 900,
+          "step": 1
+        }
+      },
+      "sign_height": {
+        "description": "签位框高度",
+        "type": "int",
+        "default": 260,
+        "slider": {
+          "min": 1,
+          "max": 500,
+          "step": 1
+        }
+      },
+      "sign_font_size": {
+        "description": "签位字号",
+        "type": "int",
+        "default": 118,
+        "slider": {
+          "min": 20,
+          "max": 220,
+          "step": 1
+        }
+      },
+      "sign_color": {
+        "description": "签位颜色",
+        "type": "string",
+        "default": "#d35a82"
+      },
+      "sign_stroke_width": {
+        "description": "签位描边粗细",
+        "type": "int",
+        "default": 4,
+        "slider": {
+          "min": 0,
+          "max": 20,
+          "step": 1
+        }
+      },
+      "sign_stroke_fill": {
+        "description": "签位描边颜色",
+        "type": "string",
+        "default": "#fff4f0"
+      },
+      "verse_x": {
+        "description": "签文框 X",
+        "type": "int",
+        "default": 235,
+        "slider": {
+          "min": 0,
+          "max": 900,
+          "step": 1
+        }
+      },
+      "verse_y": {
+        "description": "签文框 Y",
+        "type": "int",
+        "default": 714,
+        "slider": {
+          "min": 0,
+          "max": 1300,
+          "step": 1
+        }
+      },
+      "verse_width": {
+        "description": "签文框宽度",
+        "type": "int",
+        "default": 430,
+        "slider": {
+          "min": 1,
+          "max": 900,
+          "step": 1
+        }
+      },
+      "verse_height": {
+        "description": "签文框高度",
+        "type": "int",
+        "default": 56,
+        "slider": {
+          "min": 1,
+          "max": 200,
+          "step": 1
+        }
+      },
+      "verse_font_size": {
+        "description": "签文字号",
+        "type": "int",
+        "default": 34,
+        "slider": {
+          "min": 10,
+          "max": 100,
+          "step": 1
+        }
+      },
+      "verse_font_weight": {
+        "description": "签文字重",
+        "type": "int",
+        "default": 600,
+        "slider": {
+          "min": 100,
+          "max": 900,
+          "step": 100
+        }
+      },
+      "verse_color": {
+        "description": "签文颜色",
+        "type": "string",
+        "default": "#6b5270"
+      },
+      "body_x": {
+        "description": "解签框 X",
+        "type": "int",
+        "default": 145,
+        "slider": {
+          "min": 0,
+          "max": 900,
+          "step": 1
+        }
+      },
+      "body_y": {
+        "description": "解签框 Y",
+        "type": "int",
+        "default": 850,
+        "slider": {
+          "min": 0,
+          "max": 1300,
+          "step": 1
+        }
+      },
+      "body_width": {
+        "description": "解签框宽度",
+        "type": "int",
+        "default": 610,
+        "slider": {
+          "min": 1,
+          "max": 900,
+          "step": 1
+        }
+      },
+      "body_height": {
+        "description": "解签框高度",
+        "type": "int",
+        "default": 265,
+        "slider": {
+          "min": 1,
+          "max": 500,
+          "step": 1
+        }
+      },
+      "body_font_size": {
+        "description": "解签字号",
+        "type": "int",
+        "default": 30,
+        "slider": {
+          "min": 10,
+          "max": 80,
+          "step": 1
+        }
+      },
+      "body_font_weight": {
+        "description": "解签字重",
+        "type": "int",
+        "default": 500,
+        "slider": {
+          "min": 100,
+          "max": 900,
+          "step": 100
+        }
+      },
+      "body_color": {
+        "description": "解签颜色",
+        "type": "string",
+        "default": "#4d4155"
+      },
+      "body_line_gap": {
+        "description": "解签行距",
+        "type": "int",
+        "default": 48,
+        "slider": {
+          "min": 10,
+          "max": 120,
+          "step": 1
+        }
+      },
+      "body_max_lines": {
+        "description": "解签最大行数",
         "type": "int",
         "default": 5,
-        "slider": {"min": 0, "max": 12, "step": 1}
+        "slider": {
+          "min": 1,
+          "max": 10,
+          "step": 1
+        }
       },
-      "text_max_chars": {
-        "description": "正文每行最大字数",
+      "body_padding_x": {
+        "description": "解签左右内边距",
         "type": "int",
-        "default": 19,
-        "slider": {"min": 10, "max": 36, "step": 1}
+        "default": 10,
+        "slider": {
+          "min": 0,
+          "max": 160,
+          "step": 1
+        }
+      },
+      "body_align": {
+        "description": "解签对齐方式",
+        "type": "string",
+        "default": "center",
+        "hint": "center 或 left"
+      },
+      "footer_x": {
+        "description": "底部框 X",
+        "type": "int",
+        "default": 240,
+        "slider": {
+          "min": 0,
+          "max": 900,
+          "step": 1
+        }
+      },
+      "footer_y": {
+        "description": "底部框 Y",
+        "type": "int",
+        "default": 1198,
+        "slider": {
+          "min": 0,
+          "max": 1300,
+          "step": 1
+        }
+      },
+      "footer_width": {
+        "description": "底部框宽度",
+        "type": "int",
+        "default": 420,
+        "slider": {
+          "min": 1,
+          "max": 900,
+          "step": 1
+        }
+      },
+      "footer_height": {
+        "description": "底部框高度",
+        "type": "int",
+        "default": 50,
+        "slider": {
+          "min": 1,
+          "max": 200,
+          "step": 1
+        }
+      },
+      "footer_font_size": {
+        "description": "底部字号",
+        "type": "int",
+        "default": 21,
+        "slider": {
+          "min": 8,
+          "max": 60,
+          "step": 1
+        }
+      },
+      "footer_font_weight": {
+        "description": "底部字重",
+        "type": "int",
+        "default": 500,
+        "slider": {
+          "min": 100,
+          "max": 900,
+          "step": 100
+        }
+      },
+      "footer_color": {
+        "description": "底部颜色",
+        "type": "string",
+        "default": "#93698a"
       }
     }
   }

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import hashlib
+import json
 import textwrap
 from pathlib import Path
 from typing import Any
@@ -13,6 +14,14 @@ from .content import DivinationType
 
 CANVAS_SIZE = (900, 1300)
 FONT_CANDIDATES: list[str] = []
+
+
+def _cfg_section(config: Any, key: str) -> dict[str, Any]:
+    try:
+        value = config.get(key, {}) if config is not None else {}
+    except AttributeError:
+        return {}
+    return value if isinstance(value, dict) else {}
 
 
 def _get_font_candidates() -> list[str]:
@@ -69,7 +78,7 @@ def render_image(
 ) -> Path | None:
     try:
         if div_type.renderer == "omikuji":
-            return _render_omikuji_image(item, cache_dir, background_path)
+            return _render_omikuji_image(item, cache_dir, background_path, config)
         if div_type.renderer == "tarot":
             return _render_tarot_image(item, cache_dir, config)
     except Exception as exc:
@@ -87,6 +96,26 @@ def _cfg_int(config: dict[str, Any], key: str, default: int, min_value: int | No
     if max_value is not None:
         value = min(max_value, value)
     return value
+
+
+def _cfg_str(config: dict[str, Any], key: str, default: str) -> str:
+    value = config.get(key, default)
+    return str(value if value is not None else default)
+
+
+def _cfg_box(config: dict[str, Any], prefix: str, default: tuple[int, int, int, int]) -> tuple[int, int, int, int]:
+    x, y, width, height = default
+    return (
+        _cfg_int(config, f"{prefix}_x", x, 0, CANVAS_SIZE[0]),
+        _cfg_int(config, f"{prefix}_y", y, 0, CANVAS_SIZE[1]),
+        _cfg_int(config, f"{prefix}_width", width, 1, CANVAS_SIZE[0]),
+        _cfg_int(config, f"{prefix}_height", height, 1, CANVAS_SIZE[1]),
+    )
+
+
+def _box_bounds(box: tuple[int, int, int, int]) -> tuple[int, int, int, int]:
+    x, y, width, height = box
+    return (x, y, min(CANVAS_SIZE[0], x + width), min(CANVAS_SIZE[1], y + height))
 
 
 def _render_tarot_image(item: dict[str, Any], cache_dir: Path, config: dict[str, Any] | None = None) -> Path | None:
@@ -113,9 +142,7 @@ def _render_tarot_image(item: dict[str, Any], cache_dir: Path, config: dict[str,
         logger.warning("塔罗 asset 不存在: %s", asset_path)
         return None
 
-    render_cfg = config.get("tarot_render", {}) if isinstance(config, dict) else {}
-    if not isinstance(render_cfg, dict):
-        render_cfg = {}
+    render_cfg = _cfg_section(config, "tarot_render")
 
     card_width = _cfg_int(render_cfg, "card_width", 900, 1, 2000)
     card_height = _cfg_int(render_cfg, "card_height", 1300, 1, 2400)
@@ -201,7 +228,22 @@ def _render_tarot_image(item: dict[str, Any], cache_dir: Path, config: dict[str,
     return output
 
 
-def _render_omikuji_image(item: dict[str, Any], cache_dir: Path, background_path: Path | None = None) -> Path:
+def _render_omikuji_image(
+    item: dict[str, Any],
+    cache_dir: Path,
+    background_path: Path | None = None,
+    config: dict[str, Any] | None = None,
+) -> Path:
+    render_cfg = {}
+    if config is not None:
+        render_cfg = _cfg_section(config, "omikuji_render")
+    template = _cfg_str(render_cfg, "template", "illustration")
+    if template == "witch_paper":
+        return _render_omikuji_witch_paper_image(item, cache_dir, render_cfg)
+    return _render_omikuji_illustration_image(item, cache_dir, background_path)
+
+
+def _render_omikuji_illustration_image(item: dict[str, Any], cache_dir: Path, background_path: Path | None = None) -> Path:
     cache_dir.mkdir(parents=True, exist_ok=True)
     bg_key = str(background_path) if background_path else "paper"
     key = hashlib.sha1(f"v8|{sorted(item.items())}|{bg_key}".encode()).hexdigest()[:16]
@@ -240,6 +282,82 @@ def _render_omikuji_image(item: dict[str, Any], cache_dir: Path, background_path
 
     draw.text((288, 1190), "愿今日风铃轻响，吉意自来", font=small_font, fill="#8f6b4a")
     image.save(output, format="PNG", optimize=True)
+    return output
+
+
+def _render_omikuji_witch_paper_image(item: dict[str, Any], cache_dir: Path, config: dict[str, Any]) -> Path:
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    template = _cfg_str(config, "template_path", "assets/layouts/omikuji_paper_b_v1.png")
+    font_signature = _font_signature()
+    key_source = f"witch-paper-v1|{sorted(item.items())}|{json.dumps(config, sort_keys=True, ensure_ascii=False)}|{font_signature}"
+    key = hashlib.sha1(key_source.encode("utf-8")).hexdigest()[:16]
+    output = cache_dir / f"omikuji_witch_paper_{key}.png"
+    if output.exists():
+        return output
+
+    data_dir = cache_dir.parent
+    plugin_dir = Path(__file__).resolve().parent
+    template_path = data_dir / template
+    if not template_path.exists():
+        template_path = plugin_dir / "templates" / template
+    if template_path.exists():
+        image = ImageOps.fit(Image.open(template_path).convert("RGBA"), CANVAS_SIZE)
+    else:
+        logger.warning("御神签签纸模板不存在，使用内置底色兜底: %s", template)
+        image = Image.new("RGBA", CANVAS_SIZE, "#f7e7ee")
+
+    draw = ImageDraw.Draw(image)
+    title_font = _load_display_font(_cfg_int(config, "title_font_size", 34, 1, 160))
+    sign_font = _load_display_font(_cfg_int(config, "sign_font_size", 118, 1, 220))
+    verse_font = _load_body_font(_cfg_int(config, "verse_font_size", 34, 1, 120), _cfg_int(config, "verse_font_weight", 600, 100, 900))
+    body_font = _load_body_font(_cfg_int(config, "body_font_size", 30, 1, 120), _cfg_int(config, "body_font_weight", 500, 100, 900))
+    footer_font = _load_body_font(_cfg_int(config, "footer_font_size", 21, 1, 80), _cfg_int(config, "footer_font_weight", 500, 100, 900))
+
+    title = _cfg_str(config, "title_text", "魔女御神签")
+    footer = _cfg_str(config, "footer_text", "愿今日微光照见答案")
+    sign = str(item.get("sign") or "小吉")
+    verse = str(item.get("verse") or "云开月渐明")
+    message = str(item.get("message") or "暂且静观，吉意自来。")
+
+    title_box = _cfg_box(config, "title", (300, 58, 300, 58))
+    sign_box = _cfg_box(config, "sign", (220, 275, 460, 260))
+    verse_box = _cfg_box(config, "verse", (235, 714, 430, 56))
+    body_box = _cfg_box(config, "body", (145, 850, 610, 265))
+    footer_box = _cfg_box(config, "footer", (240, 1198, 420, 50))
+
+    _center_text_in_box(
+        draw,
+        title,
+        _box_bounds(title_box),
+        title_font,
+        _cfg_str(config, "title_color", "#7a4b72"),
+        stroke_width=_cfg_int(config, "title_stroke_width", 2, 0, 20),
+        stroke_fill=_cfg_str(config, "title_stroke_fill", "#fff8fb"),
+    )
+    _center_text_in_box(
+        draw,
+        sign,
+        _box_bounds(sign_box),
+        sign_font,
+        _cfg_str(config, "sign_color", "#d35a82"),
+        stroke_width=_cfg_int(config, "sign_stroke_width", 4, 0, 30),
+        stroke_fill=_cfg_str(config, "sign_stroke_fill", "#fff4f0"),
+    )
+    _center_text_in_box(draw, verse, _box_bounds(verse_box), verse_font, _cfg_str(config, "verse_color", "#6b5270"))
+    _draw_wrapped_text_in_box(
+        draw,
+        message,
+        _box_bounds(body_box),
+        body_font,
+        _cfg_str(config, "body_color", "#4d4155"),
+        line_gap=_cfg_int(config, "body_line_gap", 48, 1, 160),
+        max_lines=_cfg_int(config, "body_max_lines", 5, 1, 10),
+        horizontal_padding=_cfg_int(config, "body_padding_x", 10, 0, 160),
+        align=_cfg_str(config, "body_align", "center"),
+    )
+    _center_text_in_box(draw, footer, _box_bounds(footer_box), footer_font, _cfg_str(config, "footer_color", "#93698a"))
+
+    image.convert("RGB").save(output, format="PNG", optimize=True)
     return output
 
 
@@ -296,11 +414,109 @@ def _center_text(
     draw.text((x, y), text, font=font, fill=fill, stroke_width=stroke_width, stroke_fill=stroke_fill)
 
 
+def _center_text_in_box(
+    draw: ImageDraw.ImageDraw,
+    text: str,
+    box: tuple[int, int, int, int],
+    font: ImageFont.FreeTypeFont | ImageFont.ImageFont,
+    fill: str,
+    stroke_width: int = 0,
+    stroke_fill: str | None = None,
+) -> None:
+    left, top, right, bottom = box
+    bbox = draw.textbbox((0, 0), text, font=font, stroke_width=stroke_width)
+    width = bbox[2] - bbox[0]
+    height = bbox[3] - bbox[1]
+    x = left + (right - left - width) / 2 - bbox[0]
+    y = top + (bottom - top - height) / 2 - bbox[1]
+    draw.text((x, y), text, font=font, fill=fill, stroke_width=stroke_width, stroke_fill=stroke_fill)
+
+
+def _wrap_text_by_pixel(
+    draw: ImageDraw.ImageDraw,
+    text: str,
+    font: ImageFont.FreeTypeFont | ImageFont.ImageFont,
+    max_width: int,
+) -> list[str]:
+    lines: list[str] = []
+    for paragraph in text.splitlines() or [text]:
+        current = ""
+        for char in paragraph:
+            trial = current + char
+            if draw.textlength(trial, font=font) <= max_width or not current:
+                current = trial
+            else:
+                lines.append(current)
+                current = char
+        if current:
+            lines.append(current)
+    return lines or [""]
+
+
+def _draw_wrapped_text_in_box(
+    draw: ImageDraw.ImageDraw,
+    text: str,
+    box: tuple[int, int, int, int],
+    font: ImageFont.FreeTypeFont | ImageFont.ImageFont,
+    fill: str,
+    line_gap: int,
+    max_lines: int,
+    horizontal_padding: int = 0,
+    align: str = "center",
+) -> None:
+    left, top, right, bottom = box
+    max_width = max(1, right - left - horizontal_padding * 2)
+    lines = _wrap_text_by_pixel(draw, text, font, max_width)[:max_lines]
+    if not lines:
+        return
+    heights = []
+    for line in lines:
+        bbox = draw.textbbox((0, 0), line, font=font)
+        heights.append(bbox[3] - bbox[1])
+    block_height = (len(lines) - 1) * line_gap + max(heights)
+    y = top + (bottom - top - block_height) / 2
+    for index, line in enumerate(lines):
+        bbox = draw.textbbox((0, 0), line, font=font)
+        width = bbox[2] - bbox[0]
+        if align == "left":
+            x = left + horizontal_padding - bbox[0]
+        else:
+            x = left + (right - left - width) / 2 - bbox[0]
+        draw.text((x, y + index * line_gap - bbox[1]), line, font=font, fill=fill)
+
+
 def _wrap_text(text: str, width: int) -> list[str]:
     lines: list[str] = []
     for part in text.splitlines() or [text]:
         lines.extend(textwrap.wrap(part, width=width, replace_whitespace=False) or [""])
     return lines[:5]
+
+
+def _font_signature() -> str:
+    paths = [
+        Path(__file__).resolve().parent / "fonts" / "1.ttf",
+        Path(__file__).resolve().parent / "fonts" / "NotoSansSC-VF.ttf",
+    ]
+    return "|".join(f"{path.name}:{path.stat().st_mtime_ns}" for path in paths if path.exists())
+
+
+def _load_display_font(size: int) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
+    builtin = Path(__file__).resolve().parent / "fonts" / "1.ttf"
+    if builtin.exists():
+        return ImageFont.truetype(str(builtin), size=size)
+    return _load_font(size)
+
+
+def _load_body_font(size: int, weight: int = 500) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
+    builtin = Path(__file__).resolve().parent / "fonts" / "NotoSansSC-VF.ttf"
+    if builtin.exists():
+        font = ImageFont.truetype(str(builtin), size=size)
+        try:
+            font.set_variation_by_axes([weight])
+        except Exception:
+            pass
+        return font
+    return _load_font(size)
 
 
 def _load_font(size: int) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
